@@ -716,52 +716,6 @@
     ]
   },
   {
-    "id": "mqyevsq9",
-    "name": "IPO’s",
-    "tickers": [
-      {
-        "ticker": "CAST",
-        "adv": 107233258.976525,
-        "industry": "Broadcasting"
-      },
-      {
-        "ticker": "DPC",
-        "adv": 516596651.885,
-        "industry": "Aerospace & Defense"
-      },
-      {
-        "ticker": "FRMI",
-        "adv": 161286136.22199997,
-        "industry": "REIT - Specialty"
-      },
-      {
-        "ticker": "INIO",
-        "adv": 268233305.864375,
-        "industry": "Specialty Industrial Machinery"
-      },
-      {
-        "ticker": "MDLN",
-        "adv": 432361229.90650004,
-        "industry": "Medical Instruments & Supplies"
-      },
-      {
-        "ticker": "NAVN",
-        "adv": 125877356.03550002,
-        "industry": "Software - Application"
-      },
-      {
-        "ticker": "Q",
-        "adv": 333878433.4045,
-        "industry": "Semiconductor Equipment & Materials"
-      },
-      {
-        "ticker": "QNT",
-        "adv": 366978580.0581249,
-        "industry": "Software - Application"
-      }
-    ]
-  },
-  {
     "id": "mqz7f596",
     "name": "Sniper List",
     "tickers": [
@@ -859,6 +813,52 @@
         "ticker": "BRKR",
         "adv": 168368289.23450002,
         "industry": null
+      }
+    ]
+  },
+  {
+    "id": "mqyevsq9",
+    "name": "IPO’s",
+    "tickers": [
+      {
+        "ticker": "CAST",
+        "adv": 107233258.976525,
+        "industry": "Broadcasting"
+      },
+      {
+        "ticker": "DPC",
+        "adv": 516596651.885,
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "ticker": "FRMI",
+        "adv": 161286136.22199997,
+        "industry": "REIT - Specialty"
+      },
+      {
+        "ticker": "INIO",
+        "adv": 268233305.864375,
+        "industry": "Specialty Industrial Machinery"
+      },
+      {
+        "ticker": "MDLN",
+        "adv": 432361229.90650004,
+        "industry": "Medical Instruments & Supplies"
+      },
+      {
+        "ticker": "NAVN",
+        "adv": 125877356.03550002,
+        "industry": "Software - Application"
+      },
+      {
+        "ticker": "Q",
+        "adv": 333878433.4045,
+        "industry": "Semiconductor Equipment & Materials"
+      },
+      {
+        "ticker": "QNT",
+        "adv": 366978580.0581249,
+        "industry": "Software - Application"
       }
     ]
   },
