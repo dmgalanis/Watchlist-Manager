@@ -2572,5 +2572,2063 @@
         "industry": "Beverages - Non-Alcoholic"
       }
     ]
+  },
+  {
+    "id": "mqzcfq7p",
+    "name": "Test",
+    "tickers": [
+      {
+        "ticker": "ENVA",
+        "adv": 79629519.9815,
+        "industry": "Credit Services",
+        "exchange": null
+      },
+      {
+        "ticker": "BLZE",
+        "adv": 53077505.78055,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "PRSU",
+        "adv": 15540197.898999995,
+        "industry": "Travel Services",
+        "exchange": null
+      },
+      {
+        "ticker": "CARE",
+        "adv": 12677306.919750001,
+        "industry": "Banks - Regional",
+        "exchange": null
+      },
+      {
+        "ticker": "CXW",
+        "adv": 39027025.5295,
+        "industry": "Security & Protection Services",
+        "exchange": null
+      },
+      {
+        "ticker": "WNC",
+        "adv": 10414920.493999999,
+        "industry": "Farm & Heavy Construction Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "HNGE",
+        "adv": 162834826.36249998,
+        "industry": "Health Information Services",
+        "exchange": null
+      },
+      {
+        "ticker": "MYE",
+        "adv": 13000219.7185,
+        "industry": "Packaging & Containers",
+        "exchange": null
+      },
+      {
+        "ticker": "RLJ",
+        "adv": 21720098.54025,
+        "industry": "REIT - Hotel & Motel",
+        "exchange": null
+      },
+      {
+        "ticker": "LIND",
+        "adv": 26196426.975,
+        "industry": "Travel Services",
+        "exchange": null
+      },
+      {
+        "ticker": "INNV",
+        "adv": 3824959.465,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "VCYT",
+        "adv": 77896908.9585,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "PSMT",
+        "adv": 56275322.5755,
+        "industry": "Discount Stores",
+        "exchange": null
+      },
+      {
+        "ticker": "TBRG",
+        "adv": 7109693.290999999,
+        "industry": "Health Information Services",
+        "exchange": null
+      },
+      {
+        "ticker": "GEO",
+        "adv": 64798919.964999996,
+        "industry": "Security & Protection Services",
+        "exchange": null
+      },
+      {
+        "ticker": "LFST",
+        "adv": 30883870.945749998,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "AMRX",
+        "adv": 36074955.904750004,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "BJRI",
+        "adv": 29547591.083249994,
+        "industry": "Restaurants",
+        "exchange": null
+      },
+      {
+        "ticker": "CBRL",
+        "adv": 76828156.5425,
+        "industry": "Restaurants",
+        "exchange": null
+      },
+      {
+        "ticker": "NEO",
+        "adv": 39338005.151750006,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "PLOW",
+        "adv": 11306259.554000001,
+        "industry": "Auto Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "MAMA",
+        "adv": 11190686.067999998,
+        "industry": "Packaged Foods",
+        "exchange": null
+      },
+      {
+        "ticker": "CAKE",
+        "adv": 97763053.25665,
+        "industry": "Restaurants",
+        "exchange": null
+      },
+      {
+        "ticker": "TWST",
+        "adv": 176867414.46350002,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "BBCP",
+        "adv": 6383433.352500001,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "BFH",
+        "adv": 76066275.76949999,
+        "industry": "Credit Services",
+        "exchange": null
+      },
+      {
+        "ticker": "ASTH",
+        "adv": 25627123.4035,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "MEI",
+        "adv": 13682223.572,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "MSGE",
+        "adv": 43451613.38949999,
+        "industry": "Entertainment",
+        "exchange": null
+      },
+      {
+        "ticker": "VMD",
+        "adv": 3199359.543,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "VRNS",
+        "adv": 79892562.04,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "ALGT",
+        "adv": 62610651.705625,
+        "industry": "Airlines",
+        "exchange": null
+      },
+      {
+        "ticker": "MOG-A",
+        "adv": 138252767.94872,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "PRCH",
+        "adv": 22505034.051,
+        "industry": "Insurance - Property & Casualty",
+        "exchange": null
+      },
+      {
+        "ticker": "MTRN",
+        "adv": 110951450.86600001,
+        "industry": "Other Industrial Metals & Mining",
+        "exchange": null
+      },
+      {
+        "ticker": "HUM",
+        "adv": 533505081.62799996,
+        "industry": "Healthcare Plans",
+        "exchange": null
+      },
+      {
+        "ticker": "SEZL",
+        "adv": 90808083.66199999,
+        "industry": "Credit Services",
+        "exchange": null
+      },
+      {
+        "ticker": "CVLT",
+        "adv": 113452144.00999999,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "COMP",
+        "adv": 139633867.4045,
+        "industry": "Real Estate Services",
+        "exchange": null
+      },
+      {
+        "ticker": "GH",
+        "adv": 412113267.606,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "MOH",
+        "adv": 210848118.66300005,
+        "industry": "Healthcare Plans",
+        "exchange": null
+      },
+      {
+        "ticker": "CLDT",
+        "adv": 6107381.865499999,
+        "industry": "REIT - Hotel & Motel",
+        "exchange": null
+      },
+      {
+        "ticker": "OPLN",
+        "adv": 48599460.644999996,
+        "industry": "Auto & Truck Dealerships",
+        "exchange": null
+      },
+      {
+        "ticker": "CRS",
+        "adv": 509088410.112,
+        "industry": "Metal Fabrication",
+        "exchange": null
+      },
+      {
+        "ticker": "TCMD",
+        "adv": 6855629.790999999,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "LGIH",
+        "adv": 24634519.6845,
+        "industry": "Residential Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "AIR",
+        "adv": 61880760.01099999,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "ECPG",
+        "adv": 25577857.9045,
+        "industry": "Credit Services",
+        "exchange": null
+      },
+      {
+        "ticker": "CDNL",
+        "adv": 54346896.616,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "ATEX",
+        "adv": 42256410.3915,
+        "industry": "Telecom Services",
+        "exchange": null
+      },
+      {
+        "ticker": "VSTS",
+        "adv": 18954607.634749997,
+        "industry": "Rental & Leasing Services",
+        "exchange": null
+      },
+      {
+        "ticker": "CALY",
+        "adv": 42024999.784499995,
+        "industry": "Leisure",
+        "exchange": null
+      },
+      {
+        "ticker": "OMDA",
+        "adv": 19565922.667500004,
+        "industry": "Health Information Services",
+        "exchange": null
+      },
+      {
+        "ticker": "APPS",
+        "adv": 68241364.5925,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "LMRI",
+        "adv": 7511265.723999999,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "CTOS",
+        "adv": 11013936.21325,
+        "industry": "Rental & Leasing Services",
+        "exchange": null
+      },
+      {
+        "ticker": "EVC",
+        "adv": 20705126.791,
+        "industry": "Advertising Agencies",
+        "exchange": null
+      },
+      {
+        "ticker": "DCO",
+        "adv": 43092285.71100001,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "VSXY",
+        "adv": 226692344.644,
+        "industry": "Apparel Retail",
+        "exchange": null
+      },
+      {
+        "ticker": "LQDA",
+        "adv": 189239300.70725,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "SPHR",
+        "adv": 114214717.79699998,
+        "industry": "Entertainment",
+        "exchange": null
+      },
+      {
+        "ticker": "DVA",
+        "adv": 165349599.6105,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "BTSG",
+        "adv": 257293001.93601996,
+        "industry": "Health Information Services",
+        "exchange": null
+      },
+      {
+        "ticker": "AIN",
+        "adv": 20945584.08,
+        "industry": "Textile Manufacturing",
+        "exchange": null
+      },
+      {
+        "ticker": "BIOA",
+        "adv": 12618897.4085,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "ATEN",
+        "adv": 43245263.520500004,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "BNED",
+        "adv": 4444118.6784999985,
+        "industry": "Specialty Retail",
+        "exchange": null
+      },
+      {
+        "ticker": "CHEF",
+        "adv": 49339572.98850001,
+        "industry": "Food Distribution",
+        "exchange": null
+      },
+      {
+        "ticker": "DAL",
+        "adv": 654859447.7505,
+        "industry": "Airlines",
+        "exchange": null
+      },
+      {
+        "ticker": "CDNA",
+        "adv": 23985359.219999995,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "HCSG",
+        "adv": 16833100.5255,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "MITK",
+        "adv": 19872142.888749998,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "BKD",
+        "adv": 72101590.94500001,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "AROC",
+        "adv": 83200928.90275,
+        "industry": "Oil & Gas Equipment & Services",
+        "exchange": null
+      },
+      {
+        "ticker": "LOCO",
+        "adv": 5201164.555,
+        "industry": "Restaurants",
+        "exchange": null
+      },
+      {
+        "ticker": "PSNL",
+        "adv": 38549074.08926,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "KMTS",
+        "adv": 7968715.36825,
+        "industry": "Medical Instruments & Supplies",
+        "exchange": null
+      },
+      {
+        "ticker": "NTRA",
+        "adv": 359274944.12049997,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "AMLX",
+        "adv": 25782257.648,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "CBL",
+        "adv": 15112151.458500002,
+        "industry": "REIT - Retail",
+        "exchange": null
+      },
+      {
+        "ticker": "ADPT",
+        "adv": 68176682.959665,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "OGN",
+        "adv": 32391839.675000004,
+        "industry": "Drug Manufacturers - General",
+        "exchange": null
+      },
+      {
+        "ticker": "VAC",
+        "adv": 48940922.6585,
+        "industry": "Resorts & Casinos",
+        "exchange": null
+      },
+      {
+        "ticker": "INDV",
+        "adv": 73466407.13,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "LLY",
+        "adv": 3721710249.91,
+        "industry": "Drug Manufacturers - General",
+        "exchange": null
+      },
+      {
+        "ticker": "ALHC",
+        "adv": 123987242.54325,
+        "industry": "Healthcare Plans",
+        "exchange": null
+      },
+      {
+        "ticker": "RAL",
+        "adv": 104633630.7625,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "CLPT",
+        "adv": 16609064.811500002,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "PTRN",
+        "adv": 49673821.74750001,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "STUB",
+        "adv": 94670988.39075002,
+        "industry": "Internet Content & Information",
+        "exchange": null
+      },
+      {
+        "ticker": "DIN",
+        "adv": 12702581.6855,
+        "industry": "Restaurants",
+        "exchange": null
+      },
+      {
+        "ticker": "DAVE",
+        "adv": 186920398.902,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "W",
+        "adv": 284939274.169,
+        "industry": "Internet Retail",
+        "exchange": null
+      },
+      {
+        "ticker": "UNH",
+        "adv": 2864734659.9630003,
+        "industry": "Healthcare Plans",
+        "exchange": null
+      },
+      {
+        "ticker": "SCHL",
+        "adv": 14934383.625499997,
+        "industry": "Publishing",
+        "exchange": null
+      },
+      {
+        "ticker": "ETON",
+        "adv": 12266814.582500001,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "IART",
+        "adv": 16351839.782000002,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "PBI",
+        "adv": 54279120.7765,
+        "industry": "Integrated Freight & Logistics",
+        "exchange": null
+      },
+      {
+        "ticker": "LNTH",
+        "adv": 98858292.87550001,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "NSIT",
+        "adv": 58406097.49599998,
+        "industry": "Electronics & Computer Distribution",
+        "exchange": null
+      },
+      {
+        "ticker": "KSS",
+        "adv": 94211084.88125002,
+        "industry": "Department Stores",
+        "exchange": null
+      },
+      {
+        "ticker": "PANW",
+        "adv": 2441955837.0794992,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "MEC",
+        "adv": 24225172.40225,
+        "industry": "Metal Fabrication",
+        "exchange": null
+      },
+      {
+        "ticker": "ATRO",
+        "adv": 61982447.23499999,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "PEB",
+        "adv": 59723354.70650001,
+        "industry": "REIT - Hotel & Motel",
+        "exchange": null
+      },
+      {
+        "ticker": "ESTA",
+        "adv": 66155564.190499984,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "GRPN",
+        "adv": 30515736.855,
+        "industry": "Internet Content & Information",
+        "exchange": null
+      },
+      {
+        "ticker": "TH",
+        "adv": 25926555.899749998,
+        "industry": "Specialty Business Services",
+        "exchange": null
+      },
+      {
+        "ticker": "NPO",
+        "adv": 107448148.7965,
+        "industry": "Specialty Industrial Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "WWD",
+        "adv": 375122756.869,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "TXG",
+        "adv": 115093280.30499999,
+        "industry": "Health Information Services",
+        "exchange": null
+      },
+      {
+        "ticker": "AGL",
+        "adv": 31704766.6625,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "PRAA",
+        "adv": 15633332.616999999,
+        "industry": "Credit Services",
+        "exchange": null
+      },
+      {
+        "ticker": "NGVT",
+        "adv": 22418085.717499997,
+        "industry": "Specialty Chemicals",
+        "exchange": null
+      },
+      {
+        "ticker": "ORN",
+        "adv": 6792374.211300001,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "PACS",
+        "adv": 33169974.283000004,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "M",
+        "adv": 181482796.98425,
+        "industry": "Department Stores",
+        "exchange": null
+      },
+      {
+        "ticker": "GKOS",
+        "adv": 131799887.70899999,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "FA",
+        "adv": 34194265.27425001,
+        "industry": "Specialty Business Services",
+        "exchange": null
+      },
+      {
+        "ticker": "RSI",
+        "adv": 93794955.104,
+        "industry": "Gambling",
+        "exchange": null
+      },
+      {
+        "ticker": "TENB",
+        "adv": 86757317.814,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "AVNS",
+        "adv": 31060689.170999993,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "OSCR",
+        "adv": 204990739.20600003,
+        "industry": "Healthcare Plans",
+        "exchange": null
+      },
+      {
+        "ticker": "FTNT",
+        "adv": 1004756585.2214998,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "MOV",
+        "adv": 12244613.818500001,
+        "industry": "Luxury Goods",
+        "exchange": null
+      },
+      {
+        "ticker": "BLLN",
+        "adv": 84835195.6345,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "PUBM",
+        "adv": 7101515.3637500005,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "ZD",
+        "adv": 30217691.690500002,
+        "industry": "Advertising Agencies",
+        "exchange": null
+      },
+      {
+        "ticker": "ILMN",
+        "adv": 338581521.8285001,
+        "industry": "Diagnostics & Research",
+        "exchange": null
+      },
+      {
+        "ticker": "BLBD",
+        "adv": 30534566.495750003,
+        "industry": "Farm & Heavy Construction Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "EGBN",
+        "adv": 8581718.814,
+        "industry": "Banks - Regional",
+        "exchange": null
+      },
+      {
+        "ticker": "PSTL",
+        "adv": 9276585.01625,
+        "industry": "REIT - Office",
+        "exchange": null
+      },
+      {
+        "ticker": "XMTR",
+        "adv": 73771690.14674999,
+        "industry": "Industrial Distribution",
+        "exchange": null
+      },
+      {
+        "ticker": "BBGI",
+        "adv": 893917.0430000003,
+        "industry": "Broadcasting",
+        "exchange": null
+      },
+      {
+        "ticker": "PENN",
+        "adv": 87495139.65224999,
+        "industry": "Resorts & Casinos",
+        "exchange": null
+      },
+      {
+        "ticker": "EXTR",
+        "adv": 69157016.38904001,
+        "industry": "Communication Equipment",
+        "exchange": null
+      },
+      {
+        "ticker": "NSP",
+        "adv": 30548356.905500002,
+        "industry": "Staffing & Employment Services",
+        "exchange": null
+      },
+      {
+        "ticker": "KGS",
+        "adv": 134292792.075,
+        "industry": "Oil & Gas Equipment & Services",
+        "exchange": null
+      },
+      {
+        "ticker": "CYRX",
+        "adv": 13755382.731999999,
+        "industry": "Integrated Freight & Logistics",
+        "exchange": null
+      },
+      {
+        "ticker": "SNEX",
+        "adv": 134484969.9695,
+        "industry": "Capital Markets",
+        "exchange": null
+      },
+      {
+        "ticker": "MD",
+        "adv": 18110963.3215,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "GHM",
+        "adv": 33913994.02225001,
+        "industry": "Specialty Industrial Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "WYY",
+        "adv": 9665792.010499999,
+        "industry": "Information Technology Services",
+        "exchange": null
+      },
+      {
+        "ticker": "BRKR",
+        "adv": 151478177.7155,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "HPP",
+        "adv": 15918751.320499996,
+        "industry": "REIT - Office",
+        "exchange": null
+      },
+      {
+        "ticker": "OUT",
+        "adv": 67396015.3025,
+        "industry": "REIT - Specialty",
+        "exchange": null
+      },
+      {
+        "ticker": "AMN",
+        "adv": 32456254.7185,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "GTX",
+        "adv": 99950233.46650001,
+        "industry": "Auto Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "MSGS",
+        "adv": 118816843.57900003,
+        "industry": "Entertainment",
+        "exchange": null
+      },
+      {
+        "ticker": "NESR",
+        "adv": 61224954.705000006,
+        "industry": "Oil & Gas Equipment & Services",
+        "exchange": null
+      },
+      {
+        "ticker": "SNOW",
+        "adv": 2072053886.166,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "FROG",
+        "adv": 300000669.05050004,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "CBC",
+        "adv": 23815111.77975,
+        "industry": "Banks - Regional",
+        "exchange": null
+      },
+      {
+        "ticker": "ALNT",
+        "adv": 28613877.255264997,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "KLIC",
+        "adv": 142481322.05325,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "AFRM",
+        "adv": 328554907.90349996,
+        "industry": "Credit Services",
+        "exchange": null
+      },
+      {
+        "ticker": "OKTA",
+        "adv": 509925760.29055005,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "CRI",
+        "adv": 37162958.722,
+        "industry": "Apparel Retail",
+        "exchange": null
+      },
+      {
+        "ticker": "RELY",
+        "adv": 95809664.319,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "CNC",
+        "adv": 348409466.6465,
+        "industry": "Healthcare Plans",
+        "exchange": null
+      },
+      {
+        "ticker": "HIMS",
+        "adv": 563794014.5508399,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "VIRT",
+        "adv": 77676304.097,
+        "industry": "Capital Markets",
+        "exchange": null
+      },
+      {
+        "ticker": "TZOO",
+        "adv": 1463038.709,
+        "industry": "Internet Content & Information",
+        "exchange": null
+      },
+      {
+        "ticker": "AMAT",
+        "adv": 6561284049.925,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "WRBY",
+        "adv": 98294577.34286001,
+        "industry": "Medical Instruments & Supplies",
+        "exchange": null
+      },
+      {
+        "ticker": "ATI",
+        "adv": 374890293.56324995,
+        "industry": "Metal Fabrication",
+        "exchange": null
+      },
+      {
+        "ticker": "UCTT",
+        "adv": 142068791.20999998,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "KFRC",
+        "adv": 7858619.716,
+        "industry": "Staffing & Employment Services",
+        "exchange": null
+      },
+      {
+        "ticker": "ACMR",
+        "adv": 170378434.07100004,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "PLSE",
+        "adv": 9710361.94775,
+        "industry": "Medical Instruments & Supplies",
+        "exchange": null
+      },
+      {
+        "ticker": "TKR",
+        "adv": 145982741.9185,
+        "industry": "Tools & Accessories",
+        "exchange": null
+      },
+      {
+        "ticker": "AIP",
+        "adv": 41666205.55049999,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "WTTR",
+        "adv": 33224262.684000004,
+        "industry": "Oil & Gas Equipment & Services",
+        "exchange": null
+      },
+      {
+        "ticker": "REAL",
+        "adv": 37083012.6105,
+        "industry": "Luxury Goods",
+        "exchange": null
+      },
+      {
+        "ticker": "ICHR",
+        "adv": 104980437.20699999,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "CBLL",
+        "adv": 6538982.967000001,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "AGX",
+        "adv": 279486061.75549996,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "WSC",
+        "adv": 54707711.173,
+        "industry": "Rental & Leasing Services",
+        "exchange": null
+      },
+      {
+        "ticker": "RIOT",
+        "adv": 414261969.35925,
+        "industry": "Capital Markets",
+        "exchange": null
+      },
+      {
+        "ticker": "DDOG",
+        "adv": 1357405201.4345002,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "HLIO",
+        "adv": 34623518.411999986,
+        "industry": "Specialty Industrial Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "RFIL",
+        "adv": 7637084.165999999,
+        "industry": "Electrical Equipment & Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "BELFB",
+        "adv": 84874686.2535,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "ACHC",
+        "adv": 82341866.1511111,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "NAVN",
+        "adv": 121843617.41275,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "DGII",
+        "adv": 25129453.987749998,
+        "industry": "Communication Equipment",
+        "exchange": null
+      },
+      {
+        "ticker": "GLW",
+        "adv": 3134961665.964,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "PHIN",
+        "adv": 38001167.32125,
+        "industry": "Auto Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "WYFI",
+        "adv": 80270497.03999999,
+        "industry": "Information Technology Services",
+        "exchange": null
+      },
+      {
+        "ticker": "TTI",
+        "adv": 20152284.281499997,
+        "industry": "Conglomerates",
+        "exchange": null
+      },
+      {
+        "ticker": "CRWD",
+        "adv": 2463644402.1849995,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "ESE",
+        "adv": 97385648.54849999,
+        "industry": "Scientific & Technical Instruments",
+        "exchange": null
+      },
+      {
+        "ticker": "PII",
+        "adv": 58438220.51849999,
+        "industry": "Recreational Vehicles",
+        "exchange": null
+      },
+      {
+        "ticker": "WERN",
+        "adv": 42923503.287999995,
+        "industry": "Trucking",
+        "exchange": null
+      },
+      {
+        "ticker": "NP",
+        "adv": 26602741.252,
+        "industry": "Insurance Brokers",
+        "exchange": null
+      },
+      {
+        "ticker": "ALAB",
+        "adv": 2359865315.1775007,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "AXGN",
+        "adv": 60270692.63199999,
+        "industry": "Medical Devices",
+        "exchange": null
+      },
+      {
+        "ticker": "MYRG",
+        "adv": 136191274.84,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "OII",
+        "adv": 43637888.505,
+        "industry": "Oil & Gas Equipment & Services",
+        "exchange": null
+      },
+      {
+        "ticker": "MKSI",
+        "adv": 464332644.72975004,
+        "industry": "Scientific & Technical Instruments",
+        "exchange": null
+      },
+      {
+        "ticker": "DK",
+        "adv": 51824725.8185,
+        "industry": "Oil & Gas Refining & Marketing",
+        "exchange": null
+      },
+      {
+        "ticker": "DY",
+        "adv": 329723603.9925,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "MU",
+        "adv": 58818042280.3865,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "AMCX",
+        "adv": 5443178.5915,
+        "industry": "Entertainment",
+        "exchange": null
+      },
+      {
+        "ticker": "FCEL",
+        "adv": 257390874.62925005,
+        "industry": "Electrical Equipment & Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "GRDN",
+        "adv": 17953848.372999996,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "HTLD",
+        "adv": 10823088.0235,
+        "industry": "Trucking",
+        "exchange": null
+      },
+      {
+        "ticker": "KLAC",
+        "adv": 3262566818.4935,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "ROG",
+        "adv": 50623207.476500005,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "RXO",
+        "adv": 58065323.543500006,
+        "industry": "Trucking",
+        "exchange": null
+      },
+      {
+        "ticker": "ALGM",
+        "adv": 167263186.53825,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "COHU",
+        "adv": 96681000.97475,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "MXL",
+        "adv": 348214838.6825,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "CHRN",
+        "adv": 8253636.4875,
+        "industry": "Information Technology Services",
+        "exchange": null
+      },
+      {
+        "ticker": "CAT",
+        "adv": 3554182088.9129996,
+        "industry": "Farm & Heavy Construction Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "LINC",
+        "adv": 24645989.93,
+        "industry": "Education & Training Services",
+        "exchange": null
+      },
+      {
+        "ticker": "VLO",
+        "adv": 807645570.359,
+        "industry": "Oil & Gas Refining & Marketing",
+        "exchange": null
+      },
+      {
+        "ticker": "NTCT",
+        "adv": 30247056.845,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "NVRI",
+        "adv": 11546908.979000002,
+        "industry": "Waste Management",
+        "exchange": null
+      },
+      {
+        "ticker": "TRGP",
+        "adv": 301783441.286,
+        "industry": "Oil & Gas Midstream",
+        "exchange": null
+      },
+      {
+        "ticker": "LRCX",
+        "adv": 4600731552.4845,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "SNDK",
+        "adv": 21497075217.878,
+        "industry": "Computer Hardware",
+        "exchange": null
+      },
+      {
+        "ticker": "LIFE",
+        "adv": 7463410.50425,
+        "industry": "Insurance Brokers",
+        "exchange": null
+      },
+      {
+        "ticker": "AMG",
+        "adv": 116737573.85749999,
+        "industry": "Asset Management",
+        "exchange": null
+      },
+      {
+        "ticker": "HUT",
+        "adv": 500516779.35100013,
+        "industry": "Capital Markets",
+        "exchange": null
+      },
+      {
+        "ticker": "JBHT",
+        "adv": 274127541.64799994,
+        "industry": "Integrated Freight & Logistics",
+        "exchange": null
+      },
+      {
+        "ticker": "PDFS",
+        "adv": 49559466.9995,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "RMIX",
+        "adv": 14252579.505,
+        "industry": "Building Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "DELL",
+        "adv": 4117465215.8605003,
+        "industry": "Computer Hardware",
+        "exchange": null
+      },
+      {
+        "ticker": "BRUN",
+        "adv": 68830592.69649997,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "PBF",
+        "adv": 102660989.05500002,
+        "industry": "Oil & Gas Refining & Marketing",
+        "exchange": null
+      },
+      {
+        "ticker": "OOMA",
+        "adv": 6458472.164999999,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "VISN",
+        "adv": 66572575.065,
+        "industry": "Communication Equipment",
+        "exchange": null
+      },
+      {
+        "ticker": "INTC",
+        "adv": 15479850740.581747,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "KALU",
+        "adv": 52967585.73025,
+        "industry": "Aluminum",
+        "exchange": null
+      },
+      {
+        "ticker": "CLMT",
+        "adv": 30763659.848500002,
+        "industry": "Specialty Chemicals",
+        "exchange": null
+      },
+      {
+        "ticker": "BHE",
+        "adv": 48709613.063999996,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "MRTN",
+        "adv": 16277005.420000002,
+        "industry": "Trucking",
+        "exchange": null
+      },
+      {
+        "ticker": "ONTO",
+        "adv": 404966726.47299993,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "ELAN",
+        "adv": 127100028.88,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "CGNX",
+        "adv": 138315528.865,
+        "industry": "Scientific & Technical Instruments",
+        "exchange": null
+      },
+      {
+        "ticker": "TER",
+        "adv": 2145882773.657,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "MTZ",
+        "adv": 419905390.6475,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "VTRS",
+        "adv": 151729325.60125,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": null
+      },
+      {
+        "ticker": "MARA",
+        "adv": 570257314.2844999,
+        "industry": "Capital Markets",
+        "exchange": null
+      },
+      {
+        "ticker": "UTI",
+        "adv": 48193736.02949999,
+        "industry": "Education & Training Services",
+        "exchange": null
+      },
+      {
+        "ticker": "APEI",
+        "adv": 12424654.26475,
+        "industry": "Education & Training Services",
+        "exchange": null
+      },
+      {
+        "ticker": "AMD",
+        "adv": 15909010013.8275,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "KN",
+        "adv": 49655684.7475,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "MATX",
+        "adv": 55263439.1515,
+        "industry": "Marine Shipping",
+        "exchange": null
+      },
+      {
+        "ticker": "CMP",
+        "adv": 18197838.634,
+        "industry": "Other Industrial Metals & Mining",
+        "exchange": null
+      },
+      {
+        "ticker": "HLIT",
+        "adv": 44645699.685499996,
+        "industry": "Communication Equipment",
+        "exchange": null
+      },
+      {
+        "ticker": "NPKI",
+        "adv": 18550782.432000004,
+        "industry": "Building Products & Equipment",
+        "exchange": null
+      },
+      {
+        "ticker": "SNDR",
+        "adv": 39003706.74599999,
+        "industry": "Trucking",
+        "exchange": null
+      },
+      {
+        "ticker": "ESI",
+        "adv": 148950516.8865,
+        "industry": "Specialty Chemicals",
+        "exchange": null
+      },
+      {
+        "ticker": "CIFR",
+        "adv": 633002671.49175,
+        "industry": "Information Technology Services",
+        "exchange": null
+      },
+      {
+        "ticker": "VICR",
+        "adv": 273993672.4945,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "KNX",
+        "adv": 344729176.51400006,
+        "industry": "Trucking",
+        "exchange": null
+      },
+      {
+        "ticker": "PENG",
+        "adv": 203731764.9935,
+        "industry": "Information Technology Services",
+        "exchange": null
+      },
+      {
+        "ticker": "VPG",
+        "adv": 74450874.5915,
+        "industry": "Scientific & Technical Instruments",
+        "exchange": null
+      },
+      {
+        "ticker": "ENTG",
+        "adv": 542703734.4104999,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "CECO",
+        "adv": 87742866.76500002,
+        "industry": "Pollution & Treatment Controls",
+        "exchange": null
+      },
+      {
+        "ticker": "PLXS",
+        "adv": 99712813.206,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "VECO",
+        "adv": 132389605.49249998,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "RELL",
+        "adv": 3323494.645,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "SVCO",
+        "adv": 9397569.785,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "ACLS",
+        "adv": 112641171.95375001,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "GEV",
+        "adv": 3133812335.5354996,
+        "industry": "Specialty Industrial Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "GNRC",
+        "adv": 264583786.729,
+        "industry": "Specialty Industrial Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "AMBQ",
+        "adv": 64430031.99849999,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "EZPW",
+        "adv": 32925022.672500003,
+        "industry": "Credit Services",
+        "exchange": null
+      },
+      {
+        "ticker": "UNF",
+        "adv": 69266302.96000001,
+        "industry": "Specialty Business Services",
+        "exchange": null
+      },
+      {
+        "ticker": "MRCY",
+        "adv": 93277691.82699999,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "OUST",
+        "adv": 198620197.46200004,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "VSH",
+        "adv": 528256899.077645,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "PKE",
+        "adv": 14062661.598000001,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "MRVL",
+        "adv": 20392050714.181503,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "PIII",
+        "adv": 822031.8259999999,
+        "industry": "Medical Care Facilities",
+        "exchange": null
+      },
+      {
+        "ticker": "BAND",
+        "adv": 94837938.73100002,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "ALOY",
+        "adv": 52914033.562,
+        "industry": "Other Industrial Metals & Mining",
+        "exchange": null
+      },
+      {
+        "ticker": "CORZ",
+        "adv": 335565353.8575,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "SEI",
+        "adv": 163067183.20268002,
+        "industry": "Oil & Gas Equipment & Services",
+        "exchange": null
+      },
+      {
+        "ticker": "ECG",
+        "adv": 95161016.63399999,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "SHOO",
+        "adv": 50975815.3865,
+        "industry": "Footwear & Accessories",
+        "exchange": null
+      },
+      {
+        "ticker": "FTAI",
+        "adv": 248121235.84074998,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "ADEA",
+        "adv": 76974495.3335,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "PRM",
+        "adv": 66261819.6625,
+        "industry": "Specialty Chemicals",
+        "exchange": null
+      },
+      {
+        "ticker": "OCC",
+        "adv": 33260533.883500002,
+        "industry": "Communication Equipment",
+        "exchange": null
+      },
+      {
+        "ticker": "FLEX",
+        "adv": 1443288623.2205002,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "SLAB",
+        "adv": 110460066.94987503,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "Q",
+        "adv": 321544272.373,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "IESC",
+        "adv": 189300406.15949997,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "CTS",
+        "adv": 25764241.592250004,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "CLSK",
+        "adv": 360224859.29700005,
+        "industry": "Capital Markets",
+        "exchange": null
+      },
+      {
+        "ticker": "CRNC",
+        "adv": 11236099.023,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "TTMI",
+        "adv": 546260040.655,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "ARCB",
+        "adv": 78883197.75725,
+        "industry": "Trucking",
+        "exchange": null
+      },
+      {
+        "ticker": "CMI",
+        "adv": 806383199.40175,
+        "industry": "Specialty Industrial Machinery",
+        "exchange": null
+      },
+      {
+        "ticker": "FTK",
+        "adv": 8283915.830499997,
+        "industry": "Oil & Gas Equipment & Services",
+        "exchange": null
+      },
+      {
+        "ticker": "ANDG",
+        "adv": 11092508.871499998,
+        "industry": "Personal Services",
+        "exchange": null
+      },
+      {
+        "ticker": "AEIS",
+        "adv": 357926698.91099995,
+        "industry": "Electrical Equipment & Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "STAA",
+        "adv": 17030574.996000003,
+        "industry": "Medical Instruments & Supplies",
+        "exchange": null
+      },
+      {
+        "ticker": "AMKR",
+        "adv": 510572554.10249996,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": null
+      },
+      {
+        "ticker": "SWBI",
+        "adv": 16458746.785499996,
+        "industry": "Aerospace & Defense",
+        "exchange": null
+      },
+      {
+        "ticker": "MTSI",
+        "adv": 675437532.29074,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "WULF",
+        "adv": 725389654.1605,
+        "industry": "Capital Markets",
+        "exchange": null
+      },
+      {
+        "ticker": "POWI",
+        "adv": 89477287.47850001,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "GFS",
+        "adv": 291749217.165,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "WDC",
+        "adv": 6259265032.26475,
+        "industry": "Computer Hardware",
+        "exchange": null
+      },
+      {
+        "ticker": "AOSL",
+        "adv": 43132432.1275,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "COHR",
+        "adv": 2399402746.7855,
+        "industry": "Scientific & Technical Instruments",
+        "exchange": null
+      },
+      {
+        "ticker": "FPS",
+        "adv": 353908656.69200003,
+        "industry": "Electrical Equipment & Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "SNX",
+        "adv": 269059897.49,
+        "industry": "Electronics & Computer Distribution",
+        "exchange": null
+      },
+      {
+        "ticker": "DUOT",
+        "adv": 9160059.50775,
+        "industry": "Software - Application",
+        "exchange": null
+      },
+      {
+        "ticker": "GCO",
+        "adv": 7848364.326499999,
+        "industry": "Apparel Retail",
+        "exchange": null
+      },
+      {
+        "ticker": "CEVA",
+        "adv": 46850480.59775001,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "LSCC",
+        "adv": 276924796.1265,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "STX",
+        "adv": 4266150223.226999,
+        "industry": "Computer Hardware",
+        "exchange": null
+      },
+      {
+        "ticker": "SMTC",
+        "adv": 705883449.9005,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "TWLO",
+        "adv": 560374332.2169999,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "HPE",
+        "adv": 2028203493.6975002,
+        "industry": "Communication Equipment",
+        "exchange": null
+      },
+      {
+        "ticker": "INSW",
+        "adv": 49455975.641499996,
+        "industry": "Oil & Gas Midstream",
+        "exchange": null
+      },
+      {
+        "ticker": "OPTX",
+        "adv": 12987355.3875,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "OSS",
+        "adv": 24015901.26875,
+        "industry": "Computer Hardware",
+        "exchange": null
+      },
+      {
+        "ticker": "AVT",
+        "adv": 136574592.764,
+        "industry": "Electronics & Computer Distribution",
+        "exchange": null
+      },
+      {
+        "ticker": "STRL",
+        "adv": 760953248.684,
+        "industry": "Engineering & Construction",
+        "exchange": null
+      },
+      {
+        "ticker": "LFUS",
+        "adv": 139226501.63099998,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "CHRW",
+        "adv": 253920858.4475,
+        "industry": "Integrated Freight & Logistics",
+        "exchange": null
+      },
+      {
+        "ticker": "AAMI",
+        "adv": 45260853.07399999,
+        "industry": "Asset Management",
+        "exchange": null
+      },
+      {
+        "ticker": "FDX",
+        "adv": 759286977.2835,
+        "industry": "Integrated Freight & Logistics",
+        "exchange": null
+      },
+      {
+        "ticker": "JBL",
+        "adv": 583785805.00875,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "ARW",
+        "adv": 125231342.17624998,
+        "industry": "Electronics & Computer Distribution",
+        "exchange": null
+      },
+      {
+        "ticker": "QMCO",
+        "adv": 24694210.86025,
+        "industry": "Computer Hardware",
+        "exchange": null
+      },
+      {
+        "ticker": "AAON",
+        "adv": 127595932.546,
+        "industry": "Building Products & Equipment",
+        "exchange": null
+      },
+      {
+        "ticker": "BWA",
+        "adv": 233728305.47199994,
+        "industry": "Auto Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "STI",
+        "adv": 223785632.27799997,
+        "industry": "Electrical Equipment & Parts",
+        "exchange": null
+      },
+      {
+        "ticker": "NUE",
+        "adv": 439264615.8707,
+        "industry": "Steel",
+        "exchange": null
+      },
+      {
+        "ticker": "SANM",
+        "adv": 389649719.96524996,
+        "industry": "Electronic Components",
+        "exchange": null
+      },
+      {
+        "ticker": "AEVA",
+        "adv": 51995721.38200001,
+        "industry": "Software - Infrastructure",
+        "exchange": null
+      },
+      {
+        "ticker": "STLD",
+        "adv": 333862858.0537499,
+        "industry": "Steel",
+        "exchange": null
+      },
+      {
+        "ticker": "SYNA",
+        "adv": 146541094.4205,
+        "industry": "Semiconductors",
+        "exchange": null
+      },
+      {
+        "ticker": "COCO",
+        "adv": 81622292.4385,
+        "industry": "Beverages - Non-Alcoholic",
+        "exchange": null
+      }
+    ]
   }
 ]
