@@ -1,5 +1,106 @@
 [
   {
+    "id": "mqz906uq",
+    "name": "Sniper List",
+    "tickers": [
+      {
+        "ticker": "MU",
+        "adv": 60487371567.3245,
+        "industry": "Semiconductors"
+      },
+      {
+        "ticker": "ALAB",
+        "adv": 2425747524.308001,
+        "industry": "Semiconductors"
+      },
+      {
+        "ticker": "TER",
+        "adv": 2196436907.2715,
+        "industry": "Semiconductor Equipment & Materials"
+      },
+      {
+        "ticker": "HIMS",
+        "adv": 581838748.295,
+        "industry": "Drug Manufacturers - Specialty & Generic"
+      },
+      {
+        "ticker": "FTNT",
+        "adv": 1056666356.9965,
+        "industry": "Software - Infrastructure"
+      },
+      {
+        "ticker": "DELL",
+        "adv": 4960656156.0585,
+        "industry": "Computer Hardware"
+      },
+      {
+        "ticker": "ALHC",
+        "adv": 121355543.82624999,
+        "industry": "Healthcare Plans"
+      },
+      {
+        "ticker": "RAL",
+        "adv": 112330709.84299998,
+        "industry": "Electronic Components"
+      },
+      {
+        "ticker": "PANW",
+        "adv": 2608416218.7929997,
+        "industry": "Software - Infrastructure"
+      },
+      {
+        "ticker": "RSI",
+        "adv": 95651171.38900001,
+        "industry": "Gambling"
+      },
+      {
+        "ticker": "CVLT",
+        "adv": 118650623.126,
+        "industry": "Software - Application"
+      },
+      {
+        "ticker": "GH",
+        "adv": 430346799.1584999,
+        "industry": "Diagnostics & Research"
+      },
+      {
+        "ticker": "AFRM",
+        "adv": 347946675.6219999,
+        "industry": "Credit Services"
+      },
+      {
+        "ticker": "SPHR",
+        "adv": 119070824.448,
+        "industry": "Entertainment"
+      },
+      {
+        "ticker": "COMP",
+        "adv": 143569540.3465,
+        "industry": "Real Estate Services"
+      },
+      {
+        "ticker": "CAKE",
+        "adv": 100689493.4885,
+        "industry": "Restaurants"
+      },
+      {
+        "ticker": "APPS",
+        "adv": 72497231.7615,
+        "industry": "Software - Application"
+      },
+      {
+        "ticker": "GRPN",
+        "adv": 31274352.178000003,
+        "industry": "Internet Content & Information"
+      },
+      {
+        "ticker": "BRKR",
+        "adv": 168368289.23450002,
+        "industry": "Medical Devices"
+      }
+    ]
+  },
+  {
     "id": "mqyepx21",
     "name": "Momentum Leaders",
     "tickers": [
@@ -712,107 +813,6 @@
         "ticker": "SYNA",
         "adv": 150469288.5285,
         "industry": "Semiconductors"
-      }
-    ]
-  },
-  {
-    "id": "mqz906uq",
-    "name": "Sniper List",
-    "tickers": [
-      {
-        "ticker": "MU",
-        "adv": 60487371567.3245,
-        "industry": "Semiconductors"
-      },
-      {
-        "ticker": "ALAB",
-        "adv": 2425747524.308001,
-        "industry": "Semiconductors"
-      },
-      {
-        "ticker": "TER",
-        "adv": 2196436907.2715,
-        "industry": "Semiconductor Equipment & Materials"
-      },
-      {
-        "ticker": "HIMS",
-        "adv": 581838748.295,
-        "industry": "Drug Manufacturers - Specialty & Generic"
-      },
-      {
-        "ticker": "FTNT",
-        "adv": 1056666356.9965,
-        "industry": "Software - Infrastructure"
-      },
-      {
-        "ticker": "DELL",
-        "adv": 4960656156.0585,
-        "industry": "Computer Hardware"
-      },
-      {
-        "ticker": "ALHC",
-        "adv": 121355543.82624999,
-        "industry": "Healthcare Plans"
-      },
-      {
-        "ticker": "RAL",
-        "adv": 112330709.84299998,
-        "industry": "Electronic Components"
-      },
-      {
-        "ticker": "PANW",
-        "adv": 2608416218.7929997,
-        "industry": "Software - Infrastructure"
-      },
-      {
-        "ticker": "RSI",
-        "adv": 95651171.38900001,
-        "industry": "Gambling"
-      },
-      {
-        "ticker": "CVLT",
-        "adv": 118650623.126,
-        "industry": "Software - Application"
-      },
-      {
-        "ticker": "GH",
-        "adv": 430346799.1584999,
-        "industry": "Diagnostics & Research"
-      },
-      {
-        "ticker": "AFRM",
-        "adv": 347946675.6219999,
-        "industry": "Credit Services"
-      },
-      {
-        "ticker": "SPHR",
-        "adv": 119070824.448,
-        "industry": "Entertainment"
-      },
-      {
-        "ticker": "COMP",
-        "adv": 143569540.3465,
-        "industry": "Real Estate Services"
-      },
-      {
-        "ticker": "CAKE",
-        "adv": 100689493.4885,
-        "industry": "Restaurants"
-      },
-      {
-        "ticker": "APPS",
-        "adv": 72497231.7615,
-        "industry": "Software - Application"
-      },
-      {
-        "ticker": "GRPN",
-        "adv": 31274352.178000003,
-        "industry": "Internet Content & Information"
-      },
-      {
-        "ticker": "BRKR",
-        "adv": 168368289.23450002,
-        "industry": "Medical Devices"
       }
     ]
   },
