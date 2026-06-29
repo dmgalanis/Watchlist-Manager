@@ -2510,6 +2510,66 @@
         "ticker": "ALHC",
         "adv": 127256573.55800001,
         "industry": null
+      },
+      {
+        "ticker": "RAL",
+        "adv": 112330709.84299998,
+        "industry": null
+      },
+      {
+        "ticker": "PANW",
+        "adv": 2608416218.7929997,
+        "industry": null
+      },
+      {
+        "ticker": "RSI",
+        "adv": 95651171.38900001,
+        "industry": null
+      },
+      {
+        "ticker": "CVLT",
+        "adv": 118650623.126,
+        "industry": null
+      },
+      {
+        "ticker": "GH",
+        "adv": 430346799.1584999,
+        "industry": null
+      },
+      {
+        "ticker": "AFRM",
+        "adv": 347946675.6219999,
+        "industry": null
+      },
+      {
+        "ticker": "SPHR",
+        "adv": 119070824.448,
+        "industry": null
+      },
+      {
+        "ticker": "COMP",
+        "adv": 143569540.3465,
+        "industry": null
+      },
+      {
+        "ticker": "CAKE",
+        "adv": 100689493.4885,
+        "industry": null
+      },
+      {
+        "ticker": "APPS",
+        "adv": 72497231.7615,
+        "industry": null
+      },
+      {
+        "ticker": "GRPN",
+        "adv": 31274352.178000003,
+        "industry": null
+      },
+      {
+        "ticker": "BRKR",
+        "adv": 168368289.23450002,
+        "industry": null
       }
     ]
   }
