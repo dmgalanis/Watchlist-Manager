@@ -4,6 +4,18 @@
     "name": "Sniper List",
     "tickers": [
       {
+        "ticker": "FTNT",
+        "adv": 1056666356.9965,
+        "industry": "Software - Infrastructure",
+        "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "HIMS",
+        "adv": 581838748.295,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "exchange": "NYSE"
+      },
+      {
         "ticker": "ALHC",
         "adv": 121355543.82624999,
         "industry": "Healthcare Plans",
@@ -22,12 +34,6 @@
         "exchange": "NYSE"
       },
       {
-        "ticker": "FTNT",
-        "adv": 1056666356.9965,
-        "industry": "Software - Infrastructure",
-        "exchange": "NASDAQ"
-      },
-      {
         "ticker": "RAL",
         "adv": 112330709.84299998,
         "industry": "Electronic Components",
@@ -38,12 +44,6 @@
         "adv": 2425747524.308001,
         "industry": "Semiconductors",
         "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "HIMS",
-        "adv": 581838748.295,
-        "industry": "Drug Manufacturers - Specialty & Generic",
-        "exchange": "NYSE"
       },
       {
         "ticker": "TER",
