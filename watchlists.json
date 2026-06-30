@@ -29,12 +29,6 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "ALAB",
-          "adv": 2425747524.308001,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "APPS",
           "adv": 72497231.7615,
           "industry": "Software - Application",
@@ -127,6 +121,12 @@
         {
           "ticker": "MU",
           "adv": 60487371567.3245,
+          "industry": "Semiconductors",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "ALAB",
+          "adv": 2425747524.308001,
           "industry": "Semiconductors",
           "exchange": "NASDAQ"
         }
