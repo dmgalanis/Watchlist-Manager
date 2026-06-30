@@ -4,6 +4,12 @@
     "name": "Sniper List",
     "tickers": [
       {
+        "ticker": "DELL",
+        "adv": 4960656156.0585,
+        "industry": "Computer Hardware",
+        "exchange": "NYSE"
+      },
+      {
         "ticker": "MU",
         "adv": 60487371567.3245,
         "industry": "Semiconductors",
@@ -32,12 +38,6 @@
         "adv": 1056666356.9965,
         "industry": "Software - Infrastructure",
         "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "DELL",
-        "adv": 4960656156.0585,
-        "industry": "Computer Hardware",
-        "exchange": "NYSE"
       },
       {
         "ticker": "ALHC",
