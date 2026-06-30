@@ -2608,6 +2608,16 @@
   ],
   "trash": [
     {
+      "id": "mr1aguardbeyf",
+      "ticker": "NBIS",
+      "adv": 4223163574.2865,
+      "industry": null,
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782862781283
+    },
+    {
       "id": "mr1agtjw36w4m",
       "ticker": "VSAT",
       "adv": 204707006.6785,
