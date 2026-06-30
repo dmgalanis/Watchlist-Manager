@@ -122,6 +122,12 @@
         "adv": 215556666.42550007,
         "industry": "Electronic Components",
         "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "ONTO",
+        "adv": 434823386.04475003,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": "NYSE"
       }
     ]
   },
