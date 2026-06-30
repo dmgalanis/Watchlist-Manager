@@ -2608,6 +2608,16 @@
   ],
   "trash": [
     {
+      "id": "mr12dq3njzzmm",
+      "ticker": "MU",
+      "adv": 60487371567.3245,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782849198947
+    },
+    {
       "id": "mr12cvtp8mzft",
       "ticker": "MU",
       "adv": 60487371567.3245,
