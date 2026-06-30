@@ -4,6 +4,18 @@
     "name": "Sniper List",
     "tickers": [
       {
+        "ticker": "RAL",
+        "adv": 112330709.84299998,
+        "industry": "Electronic Components",
+        "exchange": "NYSE"
+      },
+      {
+        "ticker": "ALAB",
+        "adv": 2425747524.308001,
+        "industry": "Semiconductors",
+        "exchange": "NASDAQ"
+      },
+      {
         "ticker": "PANW",
         "adv": 2608416218.7929997,
         "industry": "Software - Infrastructure",
@@ -22,12 +34,6 @@
         "exchange": "NYSE"
       },
       {
-        "ticker": "RAL",
-        "adv": 112330709.84299998,
-        "industry": "Electronic Components",
-        "exchange": "NYSE"
-      },
-      {
         "ticker": "FTNT",
         "adv": 1056666356.9965,
         "industry": "Software - Infrastructure",
@@ -42,12 +48,6 @@
       {
         "ticker": "MU",
         "adv": 60487371567.3245,
-        "industry": "Semiconductors",
-        "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "ALAB",
-        "adv": 2425747524.308001,
         "industry": "Semiconductors",
         "exchange": "NASDAQ"
       },
