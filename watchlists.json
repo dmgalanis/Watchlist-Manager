@@ -4,6 +4,18 @@
     "name": "Sniper List",
     "tickers": [
       {
+        "ticker": "NBIS",
+        "adv": 4223163574.2865,
+        "industry": null,
+        "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "ONTO",
+        "adv": 434823386.04475003,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": "NYSE"
+      },
+      {
         "ticker": "PANW",
         "adv": 2608416218.7929997,
         "industry": "Software - Infrastructure",
@@ -121,18 +133,6 @@
         "ticker": "OUST",
         "adv": 215556666.42550007,
         "industry": "Electronic Components",
-        "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "ONTO",
-        "adv": 434823386.04475003,
-        "industry": "Semiconductor Equipment & Materials",
-        "exchange": "NYSE"
-      },
-      {
-        "ticker": "NBIS",
-        "adv": 4223163574.2865,
-        "industry": null,
         "exchange": "NASDAQ"
       }
     ]
