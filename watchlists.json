@@ -4,6 +4,18 @@
     "name": "Sniper List",
     "tickers": [
       {
+        "ticker": "ALHC",
+        "adv": 121355543.82624999,
+        "industry": "Healthcare Plans",
+        "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "PANW",
+        "adv": 2608416218.7929997,
+        "industry": "Software - Infrastructure",
+        "exchange": "NASDAQ"
+      },
+      {
         "ticker": "DELL",
         "adv": 4960656156.0585,
         "industry": "Computer Hardware",
@@ -25,18 +37,6 @@
         "ticker": "ALAB",
         "adv": 2425747524.308001,
         "industry": "Semiconductors",
-        "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "PANW",
-        "adv": 2608416218.7929997,
-        "industry": "Software - Infrastructure",
-        "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "ALHC",
-        "adv": 121355543.82624999,
-        "industry": "Healthcare Plans",
         "exchange": "NASDAQ"
       },
       {
