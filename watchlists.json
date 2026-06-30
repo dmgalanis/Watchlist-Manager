@@ -2606,5 +2606,16 @@
       ]
     }
   ],
-  "trash": []
+  "trash": [
+    {
+      "id": "mr11y67vq0ggg",
+      "ticker": "HIMS",
+      "adv": 581838748.295,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NYSE",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782848473339
+    }
+  ]
 }
