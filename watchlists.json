@@ -88,12 +88,6 @@
         "exchange": "NYSE"
       },
       {
-        "ticker": "RSI",
-        "adv": 95651171.38900001,
-        "industry": "Gambling",
-        "exchange": "NYSE"
-      },
-      {
         "ticker": "CVLT",
         "adv": 118650623.126,
         "industry": "Software - Application",
