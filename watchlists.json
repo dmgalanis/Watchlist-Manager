@@ -4,6 +4,18 @@
     "name": "Sniper List",
     "tickers": [
       {
+        "ticker": "MU",
+        "adv": 60487371567.3245,
+        "industry": "Semiconductors",
+        "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "DELL",
+        "adv": 4960656156.0585,
+        "industry": "Computer Hardware",
+        "exchange": "NYSE"
+      },
+      {
         "ticker": "HIMS",
         "adv": 581838748.295,
         "industry": "Drug Manufacturers - Specialty & Generic",
@@ -28,12 +40,6 @@
         "exchange": "NASDAQ"
       },
       {
-        "ticker": "DELL",
-        "adv": 4960656156.0585,
-        "industry": "Computer Hardware",
-        "exchange": "NYSE"
-      },
-      {
         "ticker": "FTNT",
         "adv": 1056666356.9965,
         "industry": "Software - Infrastructure",
@@ -48,12 +54,6 @@
       {
         "ticker": "ALAB",
         "adv": 2425747524.308001,
-        "industry": "Semiconductors",
-        "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "MU",
-        "adv": 60487371567.3245,
         "industry": "Semiconductors",
         "exchange": "NASDAQ"
       },
