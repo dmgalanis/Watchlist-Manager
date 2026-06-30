@@ -128,6 +128,12 @@
         "adv": 434823386.04475003,
         "industry": "Semiconductor Equipment & Materials",
         "exchange": "NYSE"
+      },
+      {
+        "ticker": "NBIS",
+        "adv": 4223163574.2865,
+        "industry": null,
+        "exchange": "NASDAQ"
       }
     ]
   },
