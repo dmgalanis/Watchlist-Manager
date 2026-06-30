@@ -4,6 +4,18 @@
     "name": "Sniper List",
     "tickers": [
       {
+        "ticker": "DELL",
+        "adv": 4960656156.0585,
+        "industry": "Computer Hardware",
+        "exchange": "NYSE"
+      },
+      {
+        "ticker": "FTNT",
+        "adv": 1056666356.9965,
+        "industry": "Software - Infrastructure",
+        "exchange": "NASDAQ"
+      },
+      {
         "ticker": "RAL",
         "adv": 112330709.84299998,
         "industry": "Electronic Components",
@@ -34,12 +46,6 @@
         "exchange": "NYSE"
       },
       {
-        "ticker": "FTNT",
-        "adv": 1056666356.9965,
-        "industry": "Software - Infrastructure",
-        "exchange": "NASDAQ"
-      },
-      {
         "ticker": "TER",
         "adv": 2196436907.2715,
         "industry": "Semiconductor Equipment & Materials",
@@ -50,12 +56,6 @@
         "adv": 60487371567.3245,
         "industry": "Semiconductors",
         "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "DELL",
-        "adv": 4960656156.0585,
-        "industry": "Computer Hardware",
-        "exchange": "NYSE"
       },
       {
         "ticker": "RSI",
