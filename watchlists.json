@@ -28,6 +28,18 @@
         "exchange": "NASDAQ"
       },
       {
+        "ticker": "ALAB",
+        "adv": 2425747524.308001,
+        "industry": "Semiconductors",
+        "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "APPS",
+        "adv": 72497231.7615,
+        "industry": "Software - Application",
+        "exchange": "NASDAQ"
+      },
+      {
         "ticker": "PANW",
         "adv": 2608416218.7929997,
         "industry": "Software - Infrastructure",
@@ -76,12 +88,6 @@
         "exchange": "NYSE"
       },
       {
-        "ticker": "ALAB",
-        "adv": 2425747524.308001,
-        "industry": "Semiconductors",
-        "exchange": "NASDAQ"
-      },
-      {
         "ticker": "RSI",
         "adv": 95651171.38900001,
         "industry": "Gambling",
@@ -121,12 +127,6 @@
         "ticker": "CAKE",
         "adv": 100689493.4885,
         "industry": "Restaurants",
-        "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "APPS",
-        "adv": 72497231.7615,
-        "industry": "Software - Application",
         "exchange": "NASDAQ"
       },
       {
