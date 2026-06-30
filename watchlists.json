@@ -110,6 +110,18 @@
         "adv": 168368289.23450002,
         "industry": "Medical Devices",
         "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "VSAT",
+        "adv": 204707006.6785,
+        "industry": null,
+        "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "OUST",
+        "adv": 215556666.42550007,
+        "industry": "Electronic Components",
+        "exchange": "NASDAQ"
       }
     ]
   },
