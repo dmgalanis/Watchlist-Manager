@@ -2608,6 +2608,16 @@
   ],
   "trash": [
     {
+      "id": "mr1ajo3pnu8zb",
+      "ticker": "AAPL",
+      "adv": 19868554041.925,
+      "industry": "Consumer Electronics",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782862913221
+    },
+    {
       "id": "mr1aguardbeyf",
       "ticker": "NBIS",
       "adv": 4223163574.2865,
