@@ -2606,16 +2606,5 @@
       ]
     }
   ],
-  "trash": [
-    {
-      "id": "mr11x1v4h1ley",
-      "ticker": "APPS",
-      "adv": 72497231.7615,
-      "industry": "Software - Application",
-      "exchange": "NASDAQ",
-      "listId": "mqz906uq",
-      "listName": "Sniper List",
-      "deletedAt": 1782848421040
-    }
-  ]
+  "trash": []
 }
