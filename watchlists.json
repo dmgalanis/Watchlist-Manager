@@ -4,6 +4,18 @@
     "name": "Sniper List",
     "tickers": [
       {
+        "ticker": "PANW",
+        "adv": 2608416218.7929997,
+        "industry": "Software - Infrastructure",
+        "exchange": "NASDAQ"
+      },
+      {
+        "ticker": "TER",
+        "adv": 2196436907.2715,
+        "industry": "Semiconductor Equipment & Materials",
+        "exchange": "NASDAQ"
+      },
+      {
         "ticker": "MU",
         "adv": 60487371567.3245,
         "industry": "Semiconductors",
@@ -22,21 +34,9 @@
         "exchange": "NYSE"
       },
       {
-        "ticker": "TER",
-        "adv": 2196436907.2715,
-        "industry": "Semiconductor Equipment & Materials",
-        "exchange": "NASDAQ"
-      },
-      {
         "ticker": "ALHC",
         "adv": 121355543.82624999,
         "industry": "Healthcare Plans",
-        "exchange": "NASDAQ"
-      },
-      {
-        "ticker": "PANW",
-        "adv": 2608416218.7929997,
-        "industry": "Software - Infrastructure",
         "exchange": "NASDAQ"
       },
       {
