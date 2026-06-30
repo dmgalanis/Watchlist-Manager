@@ -5,15 +5,15 @@
       "name": "Sniper List",
       "tickers": [
         {
-          "ticker": "OUST",
-          "adv": 215556666.42550007,
-          "industry": "Electronic Components",
+          "ticker": "VSAT",
+          "adv": 227820657.50100002,
+          "industry": "Communication Equipment",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "VSAT",
-          "adv": 204707006.6785,
-          "industry": null,
+          "ticker": "OUST",
+          "adv": 215556666.42550007,
+          "industry": "Electronic Components",
           "exchange": "NASDAQ"
         },
         {
@@ -23,15 +23,15 @@
           "exchange": "NYSE"
         },
         {
-          "ticker": "NBIS",
-          "adv": 4223163574.2865,
-          "industry": null,
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "ALAB",
           "adv": 2425747524.308001,
           "industry": "Semiconductors",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "NBIS",
+          "adv": 4304397897.652499,
+          "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
@@ -113,12 +113,6 @@
           "exchange": "NYSE"
         },
         {
-          "ticker": "COMP",
-          "adv": 143569540.3465,
-          "industry": "Real Estate Services",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "CAKE",
           "adv": 100689493.4885,
           "industry": "Restaurants",
@@ -129,6 +123,12 @@
           "adv": 168368289.23450002,
           "industry": "Medical Devices",
           "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "COMP",
+          "adv": 143569540.3465,
+          "industry": "Real Estate Services",
+          "exchange": "NYSE"
         }
       ]
     },
