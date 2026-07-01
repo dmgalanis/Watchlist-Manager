@@ -123,6 +123,12 @@
           "adv": 143569540.3465,
           "industry": "Real Estate Services",
           "exchange": "NYSE"
+        },
+        {
+          "ticker": "GRPN",
+          "adv": 32461239.86356,
+          "industry": "Internet Content & Information",
+          "exchange": null
         }
       ]
     },
