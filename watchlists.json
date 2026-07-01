@@ -35,12 +35,6 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "NBIS",
-          "adv": 4304397897.652499,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "APPS",
           "adv": 72497231.7615,
           "industry": "Software - Application",
