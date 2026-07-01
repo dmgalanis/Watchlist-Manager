@@ -2608,6 +2608,16 @@
   ],
   "trash": [
     {
+      "id": "mr24jbpyedjuj",
+      "ticker": "NBIS",
+      "adv": 4304397897.652499,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782913285654
+    },
+    {
       "id": "mr1z2hq9dibl9",
       "ticker": "MU",
       "adv": 60487371567.3245,
