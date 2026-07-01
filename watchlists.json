@@ -2608,6 +2608,16 @@
   ],
   "trash": [
     {
+      "id": "mr281uab2j4hc",
+      "ticker": "GRPN",
+      "adv": 32461239.86356,
+      "industry": "Internet Content & Information",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782919188371
+    },
+    {
       "id": "mr27szhkdb4yd",
       "ticker": "AAPL",
       "adv": 19373573319.766,
