@@ -2608,6 +2608,16 @@
   ],
   "trash": [
     {
+      "id": "mr29b2k33zsi7",
+      "ticker": "AEHR",
+      "adv": 170020586.35999998,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782921298611
+    },
+    {
       "id": "mr28y8k628tis",
       "ticker": "GRPN",
       "adv": 32614237.47676,
