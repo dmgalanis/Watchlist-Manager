@@ -2614,6 +2614,16 @@
   ],
   "trash": [
     {
+      "id": "mr2wetdt20afa",
+      "ticker": "PL",
+      "adv": 580543250.452,
+      "industry": "Aerospace & Defense",
+      "exchange": "NYSE",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782960104513
+    },
+    {
       "id": "mr2vw8xrzv1mo",
       "ticker": "AAON",
       "adv": 126761651.49200001,
