@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3obsim9zxu2",
+      "ticker": "VSXY",
+      "adv": 173796518.13450003,
+      "industry": "Apparel Retail",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006992670
+    },
+    {
       "id": "mr3obr60t5rl8",
       "ticker": "CAT",
       "adv": 3738817847.494001,
@@ -5203,16 +5213,6 @@
       "adv": 71975279.388,
       "industry": "Medical Care Facilities",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeqkggg",
-      "ticker": "ETON",
-      "adv": 13598303.425749999,
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
