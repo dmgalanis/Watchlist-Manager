@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocjgkdrs52",
+      "ticker": "ENTG",
+      "adv": 588490721.9944999,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007027588
+    },
+    {
       "id": "mr3oci3iy8ems",
       "ticker": "MRVL",
       "adv": 18129765250.710003,
@@ -5202,16 +5212,6 @@
       "ticker": "CBRL",
       "adv": 83043806.468,
       "industry": "Restaurants",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqet3hpl",
-      "ticker": "NSP",
-      "adv": 30946492.9235,
-      "industry": "Staffing & Employment Services",
       "exchange": null,
       "listId": null,
       "listName": null,
