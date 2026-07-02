@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oal7ohiziw",
+      "ticker": "CHRW",
+      "adv": 260028539.70674998,
+      "industry": "Integrated Freight & Logistics",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006936548
+    },
+    {
       "id": "mr3oajrc97gui",
       "ticker": "TWLO",
       "adv": 460168701.8862499,
@@ -5202,16 +5212,6 @@
       "ticker": "FA",
       "adv": 37283956.728750005,
       "industry": "Specialty Business Services",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqelzxij",
-      "ticker": "CARE",
-      "adv": 13707091.066484997,
-      "industry": "Banks - Regional",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
