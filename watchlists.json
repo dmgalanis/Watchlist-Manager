@@ -2798,6 +2798,16 @@
   ],
   "trash": [
     {
+      "id": "mr3otveaptyus",
+      "ticker": "TXG",
+      "adv": 117537558.79750001,
+      "industry": "Health Information Services",
+      "exchange": "NASDAQ",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783007836210
+    },
+    {
       "id": "mr3otfb3r9k7b",
       "ticker": "DAL",
       "adv": 682279476.196,
@@ -4782,16 +4792,6 @@
       "ticker": "CLDT",
       "adv": 6285515.672145,
       "industry": "REIT - Hotel & Motel",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe3ecvk",
-      "ticker": "MYE",
-      "adv": 17510418.1035,
-      "industry": "Packaging & Containers",
       "exchange": null,
       "listId": null,
       "listName": null,
