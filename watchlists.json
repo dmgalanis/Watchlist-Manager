@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o8suvzipu6",
+      "ticker": "CAKE",
+      "adv": 102600094.208,
+      "industry": "Restaurants",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006853143
+    },
+    {
       "id": "mr3o8o41ptubo",
       "ticker": "PBF",
       "adv": 108203180.40550001,
@@ -5202,16 +5212,6 @@
       "ticker": "PGNY",
       "adv": 36402028.959,
       "industry": "Healthcare Plans",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqefrrmn",
-      "ticker": "PTRN",
-      "adv": 56420104.31,
-      "industry": "Software - Application",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
