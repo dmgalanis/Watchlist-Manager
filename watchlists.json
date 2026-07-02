@@ -159,6 +159,12 @@
           "adv": 162400540.3685,
           "industry": "Drug Manufacturers - Specialty & Generic",
           "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "FTNT",
+          "adv": 998854402.345,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
         }
       ]
     },
