@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocogorxer6",
+      "ticker": "TER",
+      "adv": 2325222260.7790003,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007034072
+    },
+    {
       "id": "mr3ocncujtfzo",
       "ticker": "LSCC",
       "adv": 285770811.3715001,
@@ -5202,16 +5212,6 @@
       "ticker": "SCHL",
       "adv": 15544436.330499997,
       "industry": "Publishing",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeudawv",
-      "ticker": "CDNA",
-      "adv": 24396753.471499998,
-      "industry": "Diagnostics & Research",
       "exchange": null,
       "listId": null,
       "listName": null,
