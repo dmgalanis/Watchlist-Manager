@@ -3218,6 +3218,26 @@
   ],
   "trash": [
     {
+      "id": "mr3obb990hzba",
+      "ticker": "AMAT",
+      "adv": 7538937690.644501,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006970301
+    },
+    {
+      "id": "mr3obaqrqki71",
+      "ticker": "UCTT",
+      "adv": 158699753.901,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006969635
+    },
+    {
       "id": "mr3oba1ad9hmq",
       "ticker": "MTRN",
       "adv": 117878862.45150001,
@@ -5193,26 +5213,6 @@
       "adv": 14540040.870500002,
       "industry": "Drug Manufacturers - Specialty & Generic",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe3p596",
-      "ticker": "FLYW",
-      "adv": 40042502.05449499,
-      "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqexbdlo",
-      "ticker": "CBL",
-      "adv": 16845399.247999996,
-      "industry": "REIT - Retail",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
