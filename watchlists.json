@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oc5wlqjobn",
+      "ticker": "LRCX",
+      "adv": 5217446511.027999,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007010021
+    },
+    {
       "id": "mr3oc582st9nz",
       "ticker": "GLW",
       "adv": 3603123475.7980003,
@@ -5202,16 +5212,6 @@
       "ticker": "UVE",
       "adv": 8037577.754499999,
       "industry": "Insurance - Property & Casualty",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeehtfz",
-      "ticker": "NP",
-      "adv": 29320369.443,
-      "industry": "Insurance Brokers",
       "exchange": null,
       "listId": null,
       "listName": null,
