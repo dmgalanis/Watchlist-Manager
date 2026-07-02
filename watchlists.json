@@ -2798,6 +2798,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oxggwnjxk2",
+      "ticker": "RSI",
+      "adv": 101523863.35499999,
+      "industry": "Gambling",
+      "exchange": "NYSE",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783008003488
+    },
+    {
       "id": "mr3ownj5qnjdo",
       "ticker": "MSGS",
       "adv": 124884557.18249997,
@@ -4782,16 +4792,6 @@
       "ticker": "VIRT",
       "adv": 77875891.02450001,
       "industry": "Capital Markets",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqed6j0n",
-      "ticker": "PSTL",
-      "adv": 9906384.367000002,
-      "industry": "REIT - Office",
       "exchange": null,
       "listId": null,
       "listName": null,
