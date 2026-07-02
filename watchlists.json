@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oc3iwgunhk",
+      "ticker": "ESI",
+      "adv": 158093697.07999998,
+      "industry": "Specialty Chemicals",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007006936
+    },
+    {
       "id": "mr3oc2m14dg5p",
       "ticker": "FTAI",
       "adv": 257968804.46450004,
@@ -5202,16 +5212,6 @@
       "ticker": "HPP",
       "adv": 15491613.6535,
       "industry": "REIT - Office",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqejvbvq",
-      "ticker": "PSNL",
-      "adv": 41743745.3975,
-      "industry": "Diagnostics & Research",
       "exchange": null,
       "listId": null,
       "listName": null,
