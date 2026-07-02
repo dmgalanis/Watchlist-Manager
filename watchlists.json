@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oayo2l12yu",
+      "ticker": "ELAN",
+      "adv": 121155530.39050002,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006953986
+    },
+    {
       "id": "mr3oawtcw63os",
       "ticker": "RAL",
       "adv": 111062952.9935,
@@ -5202,16 +5212,6 @@
       "ticker": "WNC",
       "adv": 11318288.062,
       "industry": "Farm & Heavy Construction Machinery",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqezafmf",
-      "ticker": "GEO",
-      "adv": 68320786.81600001,
-      "industry": "Security & Protection Services",
       "exchange": "NYSE",
       "listId": null,
       "listName": null,
