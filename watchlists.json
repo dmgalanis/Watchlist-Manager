@@ -129,6 +129,12 @@
           "adv": 126761651.49200001,
           "industry": "Building Products & Equipment",
           "exchange": null
+        },
+        {
+          "ticker": "TWLO",
+          "adv": 491653431.31899995,
+          "industry": "Software - Infrastructure",
+          "exchange": null
         }
       ]
     },
