@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3obwkhh7gdu",
+      "ticker": "ATI",
+      "adv": 371828665.755,
+      "industry": "Metal Fabrication",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006997921
+    },
+    {
       "id": "mr3obu0blllau",
       "ticker": "ESE",
       "adv": 104410152.498,
@@ -5203,16 +5213,6 @@
       "adv": 75612575.73050001,
       "industry": "Diagnostics & Research",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeb2nov",
-      "ticker": "LMND",
-      "adv": 87413777.331,
-      "industry": "Insurance - Property & Casualty",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
