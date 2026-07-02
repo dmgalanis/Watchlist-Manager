@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocq69c7c6i",
+      "ticker": "SYNA",
+      "adv": 171352049.54950002,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007036289
+    },
+    {
       "id": "mr3ocpb96uvfg",
       "ticker": "WDC",
       "adv": 6601793596.25825,
@@ -5202,16 +5212,6 @@
       "ticker": "ATEN",
       "adv": 43426808.31899999,
       "industry": "Software - Infrastructure",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqey41j7",
-      "ticker": "ESTA",
-      "adv": 71408376.85325,
-      "industry": "Medical Devices",
       "exchange": null,
       "listId": null,
       "listName": null,
