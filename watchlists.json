@@ -29,22 +29,10 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "MEDP",
-          "adv": 147679732.779,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "PANW",
           "adv": 2176921300.6235,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "HUM",
-          "adv": 565112141.912,
-          "industry": "Healthcare Plans",
-          "exchange": "NYSE"
         },
         {
           "ticker": "DAVE",
@@ -56,30 +44,6 @@
           "ticker": "CVLT",
           "adv": 118746043.27550001,
           "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "TWST",
-          "adv": 190227592.46700004,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "NTRA",
-          "adv": 386967808.147,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "MOH",
-          "adv": 222720621.14200005,
-          "industry": "Healthcare Plans",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "BTSG",
-          "adv": 275187838.467,
-          "industry": "Health Information Services",
           "exchange": "NASDAQ"
         },
         {
@@ -95,22 +59,10 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "DAL",
-          "adv": 682279476.196,
-          "industry": "Airlines",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "SN",
           "adv": 232451412.23399997,
           "industry": "Furnishings, Fixtures & Appliances",
           "exchange": "NYSE"
-        },
-        {
-          "ticker": "TXG",
-          "adv": 117537558.79750001,
-          "industry": "Health Information Services",
-          "exchange": "NASDAQ"
         },
         {
           "ticker": "STUB",
@@ -185,12 +137,6 @@
           "exchange": "NYSE"
         },
         {
-          "ticker": "LLY",
-          "adv": 3900982114.718999,
-          "industry": "Drug Manufacturers - General",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "BRKR",
           "adv": 142217651.89599997,
           "industry": "Medical Devices",
@@ -219,18 +165,6 @@
           "adv": 237714384.147,
           "industry": "Communication Equipment",
           "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "MSGS",
-          "adv": 124884557.18249997,
-          "industry": "Entertainment",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "RSI",
-          "adv": 101523863.35499999,
-          "industry": "Gambling",
-          "exchange": "NYSE"
         },
         {
           "ticker": "GKOS",
