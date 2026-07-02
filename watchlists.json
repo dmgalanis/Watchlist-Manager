@@ -2614,6 +2614,16 @@
   ],
   "trash": [
     {
+      "id": "mr2vsu6erksj1",
+      "ticker": "HUT",
+      "adv": 515147988.71125,
+      "industry": "Capital Markets",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782959079110
+    },
+    {
       "id": "mr29b2k33zsi7",
       "ticker": "AEHR",
       "adv": 170020586.35999998,
