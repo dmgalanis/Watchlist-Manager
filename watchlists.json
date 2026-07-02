@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oc0fc9kvs1",
+      "ticker": "INTC",
+      "adv": 15785749208.549997,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007002920
+    },
+    {
       "id": "mr3obzecfdr1f",
       "ticker": "AGX",
       "adv": 289238999.0675,
@@ -5202,16 +5212,6 @@
       "ticker": "CBC",
       "adv": 25652041.246499997,
       "industry": "Banks - Regional",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeiughk",
-      "ticker": "EVC",
-      "adv": 22844817.599,
-      "industry": "Advertising Agencies",
       "exchange": null,
       "listId": null,
       "listName": null,
