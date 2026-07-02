@@ -2726,6 +2726,46 @@
   ],
   "trash": [
     {
+      "id": "mr3vx8f6exok0",
+      "ticker": "VTRS",
+      "adv": 158294849.64299998,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783019750370
+    },
+    {
+      "id": "mr3vx8f69rnrv",
+      "ticker": "ROKU",
+      "adv": 1115026215.57425,
+      "industry": "Entertainment",
+      "exchange": "NASDAQ",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783019750370
+    },
+    {
+      "id": "mr3vx8f6n1ino",
+      "ticker": "FTNT",
+      "adv": 984071936.3470001,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783019750370
+    },
+    {
+      "id": "mr3vwzz3fpk2n",
+      "ticker": "DVA",
+      "adv": 172563890.78599998,
+      "industry": "Medical Care Facilities",
+      "exchange": "NYSE",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783019739423
+    },
+    {
       "id": "mr3vn9uh986f1",
       "ticker": "STLD",
       "adv": 345224363.02849996,
@@ -4679,46 +4719,6 @@
       "id": "mr3o5cqezamcg",
       "ticker": "VISN",
       "adv": 69676557.04638001,
-      "industry": "Communication Equipment",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeyk0xt",
-      "ticker": "HLIO",
-      "adv": 36127049.56425001,
-      "industry": "Specialty Industrial Machinery",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqewenni",
-      "ticker": "AIP",
-      "adv": 45498245.459,
-      "industry": "Semiconductors",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqehi3a4",
-      "ticker": "DUOT",
-      "adv": 8508691.4925,
-      "industry": "Software - Application",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqekw0o8",
-      "ticker": "OCC",
-      "adv": 33439634.191499997,
       "industry": "Communication Equipment",
       "exchange": null,
       "listId": null,
