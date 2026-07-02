@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oauwcyjw7c",
+      "ticker": "ALAB",
+      "adv": 2517957014.75925,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006949100
+    },
+    {
       "id": "mr3oarrcu7r61",
       "ticker": "OUST",
       "adv": 241577575.73650008,
@@ -5201,16 +5211,6 @@
       "id": "mr3o5cqeeo1ay",
       "ticker": "TCMD",
       "adv": 6746105.1757499995,
-      "industry": "Medical Devices",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqehlff4",
-      "ticker": "VMD",
-      "adv": 3514300.992,
       "industry": "Medical Devices",
       "exchange": "NASDAQ",
       "listId": null,
