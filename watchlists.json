@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o7qdm5hqw8",
+      "ticker": "CNC",
+      "adv": 361758932.41099995,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006803274
+    },
+    {
       "id": "mr3o7nzgaqa97",
       "ticker": "MOG-A",
       "adv": 138142509.56849998,
@@ -5203,16 +5213,6 @@
       "adv": 17445913.96246,
       "industry": "Travel Services",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe94a93",
-      "ticker": "QLYS",
-      "adv": 92981416.23725,
-      "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
