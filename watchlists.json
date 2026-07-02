@@ -2798,6 +2798,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ownj5qnjdo",
+      "ticker": "MSGS",
+      "adv": 124884557.18249997,
+      "industry": "Entertainment",
+      "exchange": "NYSE",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783007965985
+    },
+    {
       "id": "mr3ovlu3au361",
       "ticker": "LLY",
       "adv": 3900982114.718999,
@@ -4782,16 +4792,6 @@
       "ticker": "PSTL",
       "adv": 9906384.367000002,
       "industry": "REIT - Office",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqelfzg3",
-      "ticker": "CLPT",
-      "adv": 17499171.7655,
-      "industry": "Medical Devices",
       "exchange": null,
       "listId": null,
       "listName": null,
