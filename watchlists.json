@@ -5,12 +5,6 @@
       "name": "Sniper List 2.0",
       "tickers": [
         {
-          "ticker": "DVA",
-          "adv": 168530742.13225,
-          "industry": "Medical Care Facilities",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "HNGE",
           "adv": 175876098.95100003,
           "industry": "Health Information Services",
@@ -203,12 +197,6 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "CRS",
-          "adv": 533385926.2887499,
-          "industry": "Metal Fabrication",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "ROKU",
           "adv": 1103889666.93025,
           "industry": "Entertainment",
@@ -237,12 +225,6 @@
           "adv": 128916802.26899998,
           "industry": "Medical Devices",
           "exchange": "NYSE"
-        },
-        {
-          "ticker": "VTRS",
-          "adv": 156076403.26749998,
-          "industry": "Drug Manufacturers - Specialty & Generic",
-          "exchange": "NASDAQ"
         }
       ]
     },
