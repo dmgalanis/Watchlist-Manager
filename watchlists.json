@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o8o41ptubo",
+      "ticker": "PBF",
+      "adv": 108203180.40550001,
+      "industry": "Oil & Gas Refining & Marketing",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006846993
+    },
+    {
       "id": "mr3o89xtksksr",
       "ticker": "UNH",
       "adv": 2871495488.3625,
@@ -5203,16 +5213,6 @@
       "adv": 56420104.31,
       "industry": "Software - Application",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqedndc0",
-      "ticker": "CXW",
-      "adv": 42660873.702999994,
-      "industry": "Security & Protection Services",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
