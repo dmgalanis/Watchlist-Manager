@@ -2798,6 +2798,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ortsd317qc",
+      "ticker": "HUM",
+      "adv": 565112141.912,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783007740813
+    },
+    {
       "id": "mr3or43t62bly",
       "ticker": "MEDP",
       "adv": 147679732.779,
@@ -4782,16 +4792,6 @@
       "ticker": "DK",
       "adv": 56606594.617000006,
       "industry": "Oil & Gas Refining & Marketing",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqefvkv5",
-      "ticker": "BJRI",
-      "adv": 31634568.359750003,
-      "industry": "Restaurants",
       "exchange": null,
       "listId": null,
       "listName": null,
