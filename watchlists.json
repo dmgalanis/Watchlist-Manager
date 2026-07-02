@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o83j8pu5q3",
+      "ticker": "IRDM",
+      "adv": 171947969.40625,
+      "industry": "Telecom Services",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006820324
+    },
+    {
       "id": "mr3o7qdm5hqw8",
       "ticker": "CNC",
       "adv": 361758932.41099995,
@@ -5203,16 +5213,6 @@
       "adv": 67457812.01049998,
       "industry": "Software - Application",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe6bncw",
-      "ticker": "PRSU",
-      "adv": 17445913.96246,
-      "industry": "Travel Services",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
