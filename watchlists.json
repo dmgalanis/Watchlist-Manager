@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o87uqj0h7r",
+      "ticker": "SDOT",
+      "adv": 131257928.7855,
+      "industry": "Farm Products",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006825922
+    },
+    {
       "id": "mr3o83j8pu5q3",
       "ticker": "IRDM",
       "adv": 171947969.40625,
@@ -5202,16 +5212,6 @@
       "ticker": "TENB",
       "adv": 93050835.90900001,
       "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe3ye8w",
-      "ticker": "APPS",
-      "adv": 67457812.01049998,
-      "industry": "Software - Application",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
