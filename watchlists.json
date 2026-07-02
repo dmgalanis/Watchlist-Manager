@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocgh5f3ibu",
+      "ticker": "SNDK",
+      "adv": 22798982727.113102,
+      "industry": "Computer Hardware",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007023721
+    },
+    {
       "id": "mr3ocfkb1idt3",
       "ticker": "M",
       "adv": 165380552.37449998,
@@ -5202,16 +5212,6 @@
       "ticker": "PACS",
       "adv": 36618867.676000014,
       "industry": "Medical Care Facilities",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqek0dmb",
-      "ticker": "KMTS",
-      "adv": 9189398.423750002,
-      "industry": "Medical Instruments & Supplies",
       "exchange": null,
       "listId": null,
       "listName": null,
