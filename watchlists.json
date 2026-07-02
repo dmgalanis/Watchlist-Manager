@@ -839,6 +839,252 @@
       ]
     },
     {
+      "id": "mr3odocv",
+      "name": "Sniper List 2.0",
+      "tickers": [
+        {
+          "ticker": "DVA",
+          "adv": 168530742.13225,
+          "industry": "Medical Care Facilities",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "HNGE",
+          "adv": 175876098.95100003,
+          "industry": "Health Information Services",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "COMP",
+          "adv": 153153171.30324998,
+          "industry": "Real Estate Services",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "GH",
+          "adv": 480665010.871,
+          "industry": "Diagnostics & Research",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "MEDP",
+          "adv": 147679732.779,
+          "industry": "Diagnostics & Research",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "PANW",
+          "adv": 2176921300.6235,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "HUM",
+          "adv": 565112141.912,
+          "industry": "Healthcare Plans",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "DAVE",
+          "adv": 196497492.92874998,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "CVLT",
+          "adv": 118746043.27550001,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "TWST",
+          "adv": 190227592.46700004,
+          "industry": "Diagnostics & Research",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "NTRA",
+          "adv": 386967808.147,
+          "industry": "Diagnostics & Research",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "MOH",
+          "adv": 222720621.14200005,
+          "industry": "Healthcare Plans",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "BTSG",
+          "adv": 275187838.467,
+          "industry": "Health Information Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "ALHC",
+          "adv": 120703798.27949998,
+          "industry": "Healthcare Plans",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "OKTA",
+          "adv": 424420589.829,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "DAL",
+          "adv": 682279476.196,
+          "industry": "Airlines",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "SN",
+          "adv": 232451412.23399997,
+          "industry": "Furnishings, Fixtures & Appliances",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "TXG",
+          "adv": 117537558.79750001,
+          "industry": "Health Information Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "STUB",
+          "adv": 100468047.70025,
+          "industry": "Internet Content & Information",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "OSCR",
+          "adv": 211706151.99300003,
+          "industry": "Healthcare Plans",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "ILMN",
+          "adv": 334894547.5905,
+          "industry": "Diagnostics & Research",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "LQDA",
+          "adv": 194109163.65325,
+          "industry": "Drug Manufacturers - Specialty & Generic",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "VSEC",
+          "adv": 111646262.31400001,
+          "industry": "Aerospace & Defense",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "FTNT",
+          "adv": 974328440.767,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "RBRK",
+          "adv": 325547242.44,
+          "industry": "Software - Infrastructure",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "FROG",
+          "adv": 304510979.837,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "AFRM",
+          "adv": 321931639.7255,
+          "industry": "Credit Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "HIMS",
+          "adv": 599096857.1489999,
+          "industry": "Drug Manufacturers - Specialty & Generic",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "DDOG",
+          "adv": 1148610214.49575,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "SNOW",
+          "adv": 1688013523.1715,
+          "industry": "Software - Application",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "LLY",
+          "adv": 3900982114.718999,
+          "industry": "Drug Manufacturers - General",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "BRKR",
+          "adv": 142217651.89599997,
+          "industry": "Medical Devices",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "NAVN",
+          "adv": 125569281.21800001,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "CRS",
+          "adv": 533385926.2887499,
+          "industry": "Metal Fabrication",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "ROKU",
+          "adv": 1103889666.93025,
+          "industry": "Entertainment",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "VSAT",
+          "adv": 237714384.147,
+          "industry": "Communication Equipment",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "MSGS",
+          "adv": 124884557.18249997,
+          "industry": "Entertainment",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "RSI",
+          "adv": 101523863.35499999,
+          "industry": "Gambling",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "GKOS",
+          "adv": 128916802.26899998,
+          "industry": "Medical Devices",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "VTRS",
+          "adv": 156076403.26749998,
+          "industry": "Drug Manufacturers - Specialty & Generic",
+          "exchange": "NASDAQ"
+        }
+      ]
+    },
+    {
       "id": "mqyeodtv",
       "name": "FinViz Full List (6-28-26)",
       "tickers": [
@@ -2546,252 +2792,6 @@
           "ticker": "COCO",
           "adv": 84678687.022,
           "industry": "Beverages - Non-Alcoholic"
-        }
-      ]
-    },
-    {
-      "id": "mr3odocv",
-      "name": "Sniper List 2.0",
-      "tickers": [
-        {
-          "ticker": "DVA",
-          "adv": 168530742.13225,
-          "industry": "Medical Care Facilities",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "HNGE",
-          "adv": 175876098.95100003,
-          "industry": "Health Information Services",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "COMP",
-          "adv": 153153171.30324998,
-          "industry": "Real Estate Services",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "GH",
-          "adv": 480665010.871,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "MEDP",
-          "adv": 147679732.779,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "PANW",
-          "adv": 2176921300.6235,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "HUM",
-          "adv": 565112141.912,
-          "industry": "Healthcare Plans",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "DAVE",
-          "adv": 196497492.92874998,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "CVLT",
-          "adv": 118746043.27550001,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "TWST",
-          "adv": 190227592.46700004,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "NTRA",
-          "adv": 386967808.147,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "MOH",
-          "adv": 222720621.14200005,
-          "industry": "Healthcare Plans",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "BTSG",
-          "adv": 275187838.467,
-          "industry": "Health Information Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "ALHC",
-          "adv": 120703798.27949998,
-          "industry": "Healthcare Plans",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "OKTA",
-          "adv": 424420589.829,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "DAL",
-          "adv": 682279476.196,
-          "industry": "Airlines",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "SN",
-          "adv": 232451412.23399997,
-          "industry": "Furnishings, Fixtures & Appliances",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "TXG",
-          "adv": 117537558.79750001,
-          "industry": "Health Information Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "STUB",
-          "adv": 100468047.70025,
-          "industry": "Internet Content & Information",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "OSCR",
-          "adv": 211706151.99300003,
-          "industry": "Healthcare Plans",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "ILMN",
-          "adv": 334894547.5905,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "LQDA",
-          "adv": 194109163.65325,
-          "industry": "Drug Manufacturers - Specialty & Generic",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "VSEC",
-          "adv": 111646262.31400001,
-          "industry": "Aerospace & Defense",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "FTNT",
-          "adv": 974328440.767,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "RBRK",
-          "adv": 325547242.44,
-          "industry": "Software - Infrastructure",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "FROG",
-          "adv": 304510979.837,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "AFRM",
-          "adv": 321931639.7255,
-          "industry": "Credit Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "HIMS",
-          "adv": 599096857.1489999,
-          "industry": "Drug Manufacturers - Specialty & Generic",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "DDOG",
-          "adv": 1148610214.49575,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "SNOW",
-          "adv": 1688013523.1715,
-          "industry": "Software - Application",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "LLY",
-          "adv": 3900982114.718999,
-          "industry": "Drug Manufacturers - General",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "BRKR",
-          "adv": 142217651.89599997,
-          "industry": "Medical Devices",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "NAVN",
-          "adv": 125569281.21800001,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "CRS",
-          "adv": 533385926.2887499,
-          "industry": "Metal Fabrication",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "ROKU",
-          "adv": 1103889666.93025,
-          "industry": "Entertainment",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "VSAT",
-          "adv": 237714384.147,
-          "industry": "Communication Equipment",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "MSGS",
-          "adv": 124884557.18249997,
-          "industry": "Entertainment",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "RSI",
-          "adv": 101523863.35499999,
-          "industry": "Gambling",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "GKOS",
-          "adv": 128916802.26899998,
-          "industry": "Medical Devices",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "VTRS",
-          "adv": 156076403.26749998,
-          "industry": "Drug Manufacturers - Specialty & Generic",
-          "exchange": "NASDAQ"
         }
       ]
     }
