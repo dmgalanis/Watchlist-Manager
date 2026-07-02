@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocdp5i932o",
+      "ticker": "SNEX",
+      "adv": 148743687.7485,
+      "industry": "Capital Markets",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007020121
+    },
+    {
       "id": "mr3ocbm5sgl1a",
       "ticker": "ONTO",
       "adv": 460003435.279,
@@ -5202,16 +5212,6 @@
       "ticker": "AIR",
       "adv": 66614691.98299998,
       "industry": "Aerospace & Defense",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe5tcge",
-      "ticker": "ZD",
-      "adv": 35196446.8955,
-      "industry": "Advertising Agencies",
       "exchange": null,
       "listId": null,
       "listName": null,
