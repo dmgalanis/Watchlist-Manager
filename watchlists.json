@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3obr60t5rl8",
+      "ticker": "CAT",
+      "adv": 3738817847.494001,
+      "industry": "Farm & Heavy Construction Machinery",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006990920
+    },
+    {
       "id": "mr3obpqkxt9jb",
       "ticker": "UMAC",
       "adv": 132165355.03700002,
@@ -5202,16 +5212,6 @@
       "ticker": "ETON",
       "adv": 13598303.425749999,
       "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqec6gin",
-      "ticker": "GRPN",
-      "adv": 32745747.431,
-      "industry": "Internet Content & Information",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
