@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o97v6plqem",
+      "ticker": "LNTH",
+      "adv": 100900688.41450001,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006872594
+    },
+    {
       "id": "mr3o8suvzipu6",
       "ticker": "CAKE",
       "adv": 102600094.208,
@@ -5202,16 +5212,6 @@
       "ticker": "VRNS",
       "adv": 81943720.103,
       "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqee6fk9",
-      "ticker": "PGNY",
-      "adv": 36402028.959,
-      "industry": "Healthcare Plans",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
