@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o70ujzdc5c",
+      "ticker": "CRWD",
+      "adv": 2316628100.1165,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006770187
+    },
+    {
       "id": "mr3o5cqeasc8i",
       "ticker": "CHRN",
       "adv": 8587064.985,
@@ -5202,16 +5212,6 @@
       "ticker": "NEO",
       "adv": 44525366.789,
       "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe7t1i2",
-      "ticker": "INNV",
-      "adv": 4787392.987999999,
-      "industry": "Medical Care Facilities",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
