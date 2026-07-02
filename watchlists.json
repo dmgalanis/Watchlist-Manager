@@ -3218,6 +3218,26 @@
   ],
   "trash": [
     {
+      "id": "mr3oca4xssils",
+      "ticker": "SLAB",
+      "adv": 123610715.194,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007015505
+    },
+    {
+      "id": "mr3oc6ko2pj9s",
+      "ticker": "MU",
+      "adv": 60380183071.6,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007010888
+    },
+    {
       "id": "mr3oc5wlqjobn",
       "ticker": "LRCX",
       "adv": 5217446511.027999,
@@ -5192,26 +5212,6 @@
       "ticker": "BBCP",
       "adv": 6811150.3330000015,
       "industry": "Engineering & Construction",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqelj3qt",
-      "ticker": "VCYT",
-      "adv": 78398801.205,
-      "industry": "Diagnostics & Research",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqed3hrb",
-      "ticker": "UVE",
-      "adv": 8037577.754499999,
-      "industry": "Insurance - Property & Casualty",
       "exchange": null,
       "listId": null,
       "listName": null,
