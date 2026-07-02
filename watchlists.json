@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oby1osa5fz",
+      "ticker": "MKSI",
+      "adv": 544881222.6102501,
+      "industry": "Scientific & Technical Instruments",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006999836
+    },
+    {
       "id": "mr3obwkhh7gdu",
       "ticker": "ATI",
       "adv": 371828665.755,
@@ -5202,16 +5212,6 @@
       "ticker": "PUBM",
       "adv": 7038244.467999999,
       "industry": "Software - Application",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeohxkp",
-      "ticker": "ADPT",
-      "adv": 75612575.73050001,
-      "industry": "Diagnostics & Research",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
