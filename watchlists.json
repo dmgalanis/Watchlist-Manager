@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ob6aze6tf4",
+      "ticker": "SSRM",
+      "adv": 103390574.71825,
+      "industry": "Gold",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006963883
+    },
+    {
       "id": "mr3ob03fsauhg",
       "ticker": "KLIC",
       "adv": 154106130.92911002,
@@ -5202,16 +5212,6 @@
       "ticker": "AMRX",
       "adv": 38751181.814,
       "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqey5ews",
-      "ticker": "MITK",
-      "adv": 21374655.668000005,
-      "industry": "Software - Application",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
