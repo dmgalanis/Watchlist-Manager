@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oc2m14dg5p",
+      "ticker": "FTAI",
+      "adv": 257968804.46450004,
+      "industry": "Aerospace & Defense",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007005753
+    },
+    {
       "id": "mr3oc1iptkg50",
       "ticker": "KLAC",
       "adv": 3831970987.107,
@@ -5202,16 +5212,6 @@
       "ticker": "PSNL",
       "adv": 41743745.3975,
       "industry": "Diagnostics & Research",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqen9fq4",
-      "ticker": "VSTS",
-      "adv": 18866690.5385,
-      "industry": "Rental & Leasing Services",
       "exchange": null,
       "listId": null,
       "listName": null,
