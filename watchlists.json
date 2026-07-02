@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oaelq0ypkl",
+      "ticker": "WWD",
+      "adv": 388596807.37200004,
+      "industry": "Aerospace & Defense",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006927982
+    },
+    {
       "id": "mr3oa59l7qxp1",
       "ticker": "WRBY",
       "adv": 102053318.257,
@@ -5202,16 +5212,6 @@
       "ticker": "MD",
       "adv": 18653523.7875,
       "industry": "Medical Care Facilities",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeum0co",
-      "ticker": "DCO",
-      "adv": 47732746.7085,
-      "industry": "Aerospace & Defense",
       "exchange": "NYSE",
       "listId": null,
       "listName": null,
