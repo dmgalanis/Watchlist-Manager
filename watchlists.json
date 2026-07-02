@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oap0afz0b8",
+      "ticker": "FCEL",
+      "adv": 325324112.40510005,
+      "industry": "Electrical Equipment & Parts",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006941466
+    },
+    {
       "id": "mr3oanmqa581c",
       "ticker": "GEV",
       "adv": 3293805800.0905,
@@ -5202,16 +5212,6 @@
       "ticker": "ACHC",
       "adv": 65805898.21687499,
       "industry": "Medical Care Facilities",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqem8o01",
-      "ticker": "ATEX",
-      "adv": 51070302.01895,
-      "industry": "Telecom Services",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
