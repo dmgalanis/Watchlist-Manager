@@ -2726,6 +2726,836 @@
   ],
   "trash": [
     {
+      "id": "mr3vn9uh986f1",
+      "ticker": "STLD",
+      "adv": 345224363.02849996,
+      "industry": "Steel",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uhvf9zn",
+      "ticker": "NUE",
+      "adv": 456391912.1,
+      "industry": "Steel",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uhuz1fm",
+      "ticker": "BWA",
+      "adv": 217090057.96099997,
+      "industry": "Auto Parts",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uhlpscl",
+      "ticker": "ARW",
+      "adv": 126806904.07049999,
+      "industry": "Electronics & Computer Distribution",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uh070g3",
+      "ticker": "FDX",
+      "adv": 770224165.5795,
+      "industry": "Integrated Freight & Logistics",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uh42wvz",
+      "ticker": "CHRW",
+      "adv": 263698861.82275,
+      "industry": "Integrated Freight & Logistics",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uhdgmo5",
+      "ticker": "AVT",
+      "adv": 131918408.57000001,
+      "industry": "Electronics & Computer Distribution",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uh0vj0m",
+      "ticker": "STAA",
+      "adv": 17319940.3175,
+      "industry": "Medical Instruments & Supplies",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uhlq3g0",
+      "ticker": "CMI",
+      "adv": 811398797.5755001,
+      "industry": "Specialty Industrial Machinery",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uhigdx5",
+      "ticker": "SLAB",
+      "adv": 125301386.13225003,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uhgcxdc",
+      "ticker": "SHOO",
+      "adv": 53251456.495000005,
+      "industry": "Footwear & Accessories",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9ugy29ag",
+      "ticker": "UNF",
+      "adv": 69432106.33600001,
+      "industry": "Specialty Business Services",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285657
+    },
+    {
+      "id": "mr3vn9uguv76z",
+      "ticker": "KNX",
+      "adv": 350654415.15525,
+      "industry": "Trucking",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug8na2a",
+      "ticker": "SNDR",
+      "adv": 39268267.51349999,
+      "industry": "Trucking",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugyj3vy",
+      "ticker": "MATX",
+      "adv": 62456622.6515,
+      "industry": "Marine Shipping",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugjzjg0",
+      "ticker": "VTRS",
+      "adv": 158123761.32,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9uge2l6k",
+      "ticker": "MRTN",
+      "adv": 16034425.3685,
+      "industry": "Trucking",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug30dlg",
+      "ticker": "VISN",
+      "adv": 72639323.09925,
+      "industry": "Communication Equipment",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ughcdo4",
+      "ticker": "JBHT",
+      "adv": 285223966.2255,
+      "industry": "Integrated Freight & Logistics",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug8kk1a",
+      "ticker": "AMG",
+      "adv": 125835631.27699998,
+      "industry": "Asset Management",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugvrk7l",
+      "ticker": "TRGP",
+      "adv": 340711365.82449996,
+      "industry": "Oil & Gas Midstream",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugaq92t",
+      "ticker": "NTCT",
+      "adv": 29050757.278999995,
+      "industry": "Software - Infrastructure",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug4azg6",
+      "ticker": "VLO",
+      "adv": 829204369.6197499,
+      "industry": "Oil & Gas Refining & Marketing",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugqrrc6",
+      "ticker": "CAT",
+      "adv": 3796040094.2515006,
+      "industry": "Farm & Heavy Construction Machinery",
+      "exchange": null,
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9uglpz1u",
+      "ticker": "HTLD",
+      "adv": 10619204.441499999,
+      "industry": "Trucking",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugxax6h",
+      "ticker": "WERN",
+      "adv": 44630712.499,
+      "industry": "Trucking",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug62oj7",
+      "ticker": "ESE",
+      "adv": 105786323.02780001,
+      "industry": "Scientific & Technical Instruments",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugvz3ob",
+      "ticker": "PHIN",
+      "adv": 40154582.359500006,
+      "industry": "Auto Parts",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugjp9da",
+      "ticker": "WTTR",
+      "adv": 36861978.1825,
+      "industry": "Oil & Gas Equipment & Services",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugpbybm",
+      "ticker": "TKR",
+      "adv": 150891363.82950002,
+      "industry": "Tools & Accessories",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugd4jdr",
+      "ticker": "KFRC",
+      "adv": 8131455.7524999995,
+      "industry": "Staffing & Employment Services",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugpi1np",
+      "ticker": "ATI",
+      "adv": 375845314.719,
+      "industry": "Metal Fabrication",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugxc7o2",
+      "ticker": "CNC",
+      "adv": 365208650.0372499,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugtertr",
+      "ticker": "CRI",
+      "adv": 37182077.57924999,
+      "industry": "Apparel Retail",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugb22b3",
+      "ticker": "CBC",
+      "adv": 26100634.825999998,
+      "industry": "Banks - Regional",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugisi39",
+      "ticker": "MSGS",
+      "adv": 125905808.6995,
+      "industry": "Entertainment",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugs0rof",
+      "ticker": "OUT",
+      "adv": 67702115.27724999,
+      "industry": "REIT - Specialty",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugdnps4",
+      "ticker": "MD",
+      "adv": 18885870.9895,
+      "industry": "Medical Care Facilities",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugbhuoi",
+      "ticker": "PENN",
+      "adv": 84761607.44524999,
+      "industry": "Resorts & Casinos",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugthusi",
+      "ticker": "PSTL",
+      "adv": 10019521.137000002,
+      "industry": "REIT - Office",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug9z0bq",
+      "ticker": "EGBN",
+      "adv": 9623075.6785,
+      "industry": "Banks - Regional",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug19xct",
+      "ticker": "BLBD",
+      "adv": 31302372.631249994,
+      "industry": "Farm & Heavy Construction Machinery",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugz5j9u",
+      "ticker": "MOV",
+      "adv": 12422461.114750003,
+      "industry": "Luxury Goods",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug1p0nt",
+      "ticker": "FTNT",
+      "adv": 983727592.2485001,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugmoaho",
+      "ticker": "AVNS",
+      "adv": 24446648.433249995,
+      "industry": "Medical Devices",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugyngiq",
+      "ticker": "NGVT",
+      "adv": 23118237.799749997,
+      "industry": "Specialty Chemicals",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugr0y4b",
+      "ticker": "WWD",
+      "adv": 393464907.34650004,
+      "industry": "Aerospace & Defense",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug4ksyx",
+      "ticker": "PEB",
+      "adv": 62015461.763,
+      "industry": "REIT - Hotel & Motel",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugqbel4",
+      "ticker": "LNTH",
+      "adv": 101640626.6575,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug9lgrg",
+      "ticker": "PBI",
+      "adv": 54208309.52750001,
+      "industry": "Integrated Freight & Logistics",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug3l663",
+      "ticker": "SCHL",
+      "adv": 15680295.041499998,
+      "industry": "Publishing",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugiskst",
+      "ticker": "UNH",
+      "adv": 2897499422.2135,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugncv9h",
+      "ticker": "RAL",
+      "adv": 112960169.58899999,
+      "industry": "Electronic Components",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugm6bpz",
+      "ticker": "LLY",
+      "adv": 3943137280.664499,
+      "industry": "Drug Manufacturers - General",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugnopqo",
+      "ticker": "INDV",
+      "adv": 74709615.03875001,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug1l6ns",
+      "ticker": "OGN",
+      "adv": 30897715.893500008,
+      "industry": "Drug Manufacturers - General",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9uguofig",
+      "ticker": "CBL",
+      "adv": 17300597.525499996,
+      "industry": "REIT - Retail",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug4pcg0",
+      "ticker": "LOCO",
+      "adv": 5447177.665000001,
+      "industry": "Restaurants",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug8gbd7",
+      "ticker": "AROC",
+      "adv": 88447941.54249999,
+      "industry": "Oil & Gas Equipment & Services",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug5jxvu",
+      "ticker": "HCSG",
+      "adv": 17219192.567250002,
+      "industry": "Medical Care Facilities",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9uguoido",
+      "ticker": "DAL",
+      "adv": 689712183.1144999,
+      "industry": "Airlines",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugrtreb",
+      "ticker": "CHEF",
+      "adv": 52698739.607,
+      "industry": "Food Distribution",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugogte9",
+      "ticker": "AIN",
+      "adv": 21450145.446000002,
+      "industry": "Textile Manufacturing",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugwl1c9",
+      "ticker": "BTSG",
+      "adv": 277819695.992,
+      "industry": "Health Information Services",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug73ira",
+      "ticker": "DVA",
+      "adv": 172452889.65850002,
+      "industry": "Medical Care Facilities",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug6yqfo",
+      "ticker": "CALY",
+      "adv": 43632985.09499999,
+      "industry": "Leisure",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ughyxqy",
+      "ticker": "ECPG",
+      "adv": 29337252.061,
+      "industry": "Credit Services",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugc77w0",
+      "ticker": "CRS",
+      "adv": 539302795.6709999,
+      "industry": "Metal Fabrication",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug3gl5r",
+      "ticker": "OPLN",
+      "adv": 47488015.93549999,
+      "industry": "Auto & Truck Dealerships",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug2vcy2",
+      "ticker": "CLDT",
+      "adv": 6319215.827499999,
+      "industry": "REIT - Hotel & Motel",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugpifoc",
+      "ticker": "HUM",
+      "adv": 573439202.25125,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugkgb4v",
+      "ticker": "VMD",
+      "adv": 3580322.8745,
+      "industry": "Medical Devices",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugyy0ni",
+      "ticker": "MSGE",
+      "adv": 45845387.93425,
+      "industry": "Entertainment",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugtl3nz",
+      "ticker": "BFH",
+      "adv": 76264556.266,
+      "industry": "Credit Services",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugez2wq",
+      "ticker": "CAKE",
+      "adv": 104597205.77800001,
+      "industry": "Restaurants",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugtyw5s",
+      "ticker": "PLOW",
+      "adv": 11968385.285,
+      "industry": "Auto Parts",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugvzn1o",
+      "ticker": "AMRX",
+      "adv": 39044254.1145,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugm59it",
+      "ticker": "TBRG",
+      "adv": 8055322.035249999,
+      "industry": "Health Information Services",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugt2iv6",
+      "ticker": "PSMT",
+      "adv": 62460151.437999986,
+      "industry": "Discount Stores",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9uguio37",
+      "ticker": "RLJ",
+      "adv": 24335849.5845,
+      "industry": "REIT - Hotel & Motel",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugboou8",
+      "ticker": "CARE",
+      "adv": 13934695.718249997,
+      "industry": "Banks - Regional",
+      "exchange": "NASDAQ",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ugiaywk",
+      "ticker": "PRSU",
+      "adv": 17651419.873499997,
+      "industry": "Travel Services",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
+      "id": "mr3vn9ug7cr7t",
+      "ticker": "ENVA",
+      "adv": 98602407.91250001,
+      "industry": "Credit Services",
+      "exchange": "NYSE",
+      "listId": "mqyeodtv",
+      "listName": "FinViz Full List (6-28-26)",
+      "deletedAt": 1783019285656
+    },
+    {
       "id": "mr3vb90wucwsu",
       "ticker": "SLAB",
       "adv": 124954586.23525003,
@@ -3889,836 +4719,6 @@
       "id": "mr3o5cqekw0o8",
       "ticker": "OCC",
       "adv": 33439634.191499997,
-      "industry": "Communication Equipment",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqecxg1i",
-      "ticker": "ATRO",
-      "adv": 71392264.4058,
-      "industry": "Aerospace & Defense",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqelskfl",
-      "ticker": "CTOS",
-      "adv": 11802564.086749997,
-      "industry": "Rental & Leasing Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqei4dhj",
-      "ticker": "BELFB",
-      "adv": 93921856.06950001,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe70hm0",
-      "ticker": "SVCO",
-      "adv": 7957191.861250001,
-      "industry": "Software - Application",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe78d6v",
-      "ticker": "GTX",
-      "adv": 98273142.813,
-      "industry": "Auto Parts",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe9zuyo",
-      "ticker": "CEVA",
-      "adv": 39632105.485750005,
-      "industry": "Semiconductors",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqenu68e",
-      "ticker": "PLXS",
-      "adv": 98886985.058,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeaz36q",
-      "ticker": "ROG",
-      "adv": 52062380.05200001,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe58rx8",
-      "ticker": "OSS",
-      "adv": 22358670.672500003,
-      "industry": "Computer Hardware",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqegjlkj",
-      "ticker": "SWMR",
-      "adv": 24815507.02425,
-      "industry": "Software - Infrastructure",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqervlgv",
-      "ticker": "ORN",
-      "adv": 7459595.769999999,
-      "industry": "Engineering & Construction",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe3t9kz",
-      "ticker": "BRUN",
-      "adv": 57352914.106000006,
-      "industry": "Software - Infrastructure",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqelsfdk",
-      "ticker": "RELL",
-      "adv": 3139801.898499999,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqejo12d",
-      "ticker": "KN",
-      "adv": 50557935.191999994,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe1v8wx",
-      "ticker": "PRLB",
-      "adv": 19681311.95425,
-      "industry": "Metal Fabrication",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqen09zq",
-      "ticker": "HLIT",
-      "adv": 39569465.8045,
-      "industry": "Communication Equipment",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqemipnh",
-      "ticker": "ANDG",
-      "adv": 14620998.51925,
-      "industry": "Personal Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqei3hc6",
-      "ticker": "OPTX",
-      "adv": 11722365.451500002,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe5eapr",
-      "ticker": "KALU",
-      "adv": 55191477.31125001,
-      "industry": "Aluminum",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqew45ct",
-      "ticker": "ALOY",
-      "adv": 51447302.63932501,
-      "industry": "Other Industrial Metals & Mining",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqerpq7l",
-      "ticker": "BHE",
-      "adv": 51975525.33850001,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe8dh5l",
-      "ticker": "WYFI",
-      "adv": 91891895.60850002,
-      "industry": "Information Technology Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqegr4y8",
-      "ticker": "RFIL",
-      "adv": 7771068.260500001,
-      "industry": "Electrical Equipment & Parts",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe5qlbe",
-      "ticker": "WTTR",
-      "adv": 36333282.2465,
-      "industry": "Oil & Gas Equipment & Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe2b5fe",
-      "ticker": "PRM",
-      "adv": 70197323.01925,
-      "industry": "Specialty Chemicals",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeqzwl9",
-      "ticker": "AAMI",
-      "adv": 46604613.68049999,
-      "industry": "Asset Management",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe047ol",
-      "ticker": "NTCT",
-      "adv": 28781023.1535,
-      "industry": "Software - Infrastructure",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqew4a11",
-      "ticker": "SPIR",
-      "adv": 26774109.2125,
-      "industry": "Specialty Business Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeps5ud",
-      "ticker": "PIII",
-      "adv": 544000.2621250001,
-      "industry": "Medical Care Facilities",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeuivs1",
-      "ticker": "AXGN",
-      "adv": 65114891.88249999,
-      "industry": "Medical Devices",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqejnb8r",
-      "ticker": "PDFS",
-      "adv": 51718561.80600001,
-      "industry": "Software - Application",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeqt7iu",
-      "ticker": "EXTR",
-      "adv": 69998597.1935,
-      "industry": "Communication Equipment",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqemgt32",
-      "ticker": "ALNT",
-      "adv": 28363159.637500007,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeoafmm",
-      "ticker": "CMP",
-      "adv": 15726484.097499996,
-      "industry": "Other Industrial Metals & Mining",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqekyubo",
-      "ticker": "FTK",
-      "adv": 7223493.634000001,
-      "industry": "Oil & Gas Equipment & Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe4nf09",
-      "ticker": "EGBN",
-      "adv": 9540082.084,
-      "industry": "Banks - Regional",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe3s0hq",
-      "ticker": "BOT",
-      "adv": 30680771.12200001,
-      "industry": "Closed-End Fund - Equity",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqebxj6j",
-      "ticker": "COHU",
-      "adv": 89357967.539,
-      "industry": "Semiconductor Equipment & Materials",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqee6jki",
-      "ticker": "VPG",
-      "adv": 83664889.28299999,
-      "industry": "Scientific & Technical Instruments",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe54ujz",
-      "ticker": "AMBQ",
-      "adv": 66362407.4758,
-      "industry": "Semiconductors",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqethvzz",
-      "ticker": "NGVT",
-      "adv": 22851718.856499996,
-      "industry": "Specialty Chemicals",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqearrc2",
-      "ticker": "OII",
-      "adv": 44645102.641499996,
-      "industry": "Oil & Gas Equipment & Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeao2iy",
-      "ticker": "LPTH",
-      "adv": 54410084.24000001,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqemn1x5",
-      "ticker": "HTLD",
-      "adv": 10483936.65625,
-      "industry": "Trucking",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeettbv",
-      "ticker": "CRNC",
-      "adv": 9919774.826369999,
-      "industry": "Software - Application",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqew1ezh",
-      "ticker": "GLAS",
-      "adv": 13439654.853333334,
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqep2btb",
-      "ticker": "AEVA",
-      "adv": 60981638.11450001,
-      "industry": "Software - Infrastructure",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeh7giu",
-      "ticker": "MRTN",
-      "adv": 15868894.058500001,
-      "industry": "Trucking",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqee30ye",
-      "ticker": "INSW",
-      "adv": 52053773.75049999,
-      "industry": "Oil & Gas Midstream",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqerg2sz",
-      "ticker": "MOV",
-      "adv": 12290551.971000005,
-      "industry": "Luxury Goods",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqefldgg",
-      "ticker": "PBI",
-      "adv": 53563325.1775,
-      "industry": "Integrated Freight & Logistics",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqepo2wr",
-      "ticker": "LIFE",
-      "adv": 7077706.9275,
-      "industry": "Insurance Brokers",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqefeed5",
-      "ticker": "ISSC",
-      "adv": 7991271.1515,
-      "industry": "Aerospace & Defense",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeq9s6h",
-      "ticker": "GHM",
-      "adv": 33875742.17,
-      "industry": "Specialty Industrial Machinery",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqebve94",
-      "ticker": "RMIX",
-      "adv": 15079859.9875,
-      "industry": "Building Materials",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqea6m5e",
-      "ticker": "NATL",
-      "adv": 33858655.819000006,
-      "industry": "Software - Application",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe9kjhj",
-      "ticker": "GNK",
-      "adv": 8402188.1545,
-      "industry": "Marine Shipping",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqev1reh",
-      "ticker": "CDNL",
-      "adv": 65591945.27499999,
-      "industry": "Engineering & Construction",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeiuk6r",
-      "ticker": "MEC",
-      "adv": 23077836.2285,
-      "industry": "Metal Fabrication",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe938tt",
-      "ticker": "KSS",
-      "adv": 90558322.39325002,
-      "industry": "Department Stores",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqejnyjo",
-      "ticker": "INDV",
-      "adv": 73724392.92650001,
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqegbuib",
-      "ticker": "GOLD",
-      "adv": 17362261.019,
-      "industry": "Capital Markets",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqev0ljk",
-      "ticker": "PLSE",
-      "adv": 10136175.572250001,
-      "industry": "Medical Instruments & Supplies",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe77hev",
-      "ticker": "RXO",
-      "adv": 56934329.76774999,
-      "industry": "Trucking",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe7k54b",
-      "ticker": "LIND",
-      "adv": 27107298.919750005,
-      "industry": "Travel Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe4lyar",
-      "ticker": "WERN",
-      "adv": 44235880.594,
-      "industry": "Trucking",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqedyy4h",
-      "ticker": "BFH",
-      "adv": 75209687.54699999,
-      "industry": "Credit Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe2w6d1",
-      "ticker": "AMCX",
-      "adv": 5025119.89825,
-      "industry": "Entertainment",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe60lkp",
-      "ticker": "BAND",
-      "adv": 93467963.48779501,
-      "industry": "Software - Infrastructure",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe9wrvw",
-      "ticker": "BNED",
-      "adv": 4786855.0125,
-      "industry": "Specialty Retail",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe7oljo",
-      "ticker": "TH",
-      "adv": 27606907.86349999,
-      "industry": "Specialty Business Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe0ww3l",
-      "ticker": "NSIT",
-      "adv": 54266175.227499984,
-      "industry": "Electronics & Computer Distribution",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe904fh",
-      "ticker": "PLOW",
-      "adv": 11801498.075,
-      "industry": "Auto Parts",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqej7ihu",
-      "ticker": "AVNS",
-      "adv": 24197865.776999995,
-      "industry": "Medical Devices",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqelvzpx",
-      "ticker": "PARR",
-      "adv": 44864837.3355,
-      "industry": "Oil & Gas Refining & Marketing",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqesdyjd",
-      "ticker": "CALY",
-      "adv": 43152190.3925,
-      "industry": "Leisure",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqehf856",
-      "ticker": "MAMA",
-      "adv": 14407109.4025,
-      "industry": "Packaged Foods",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeqi16p",
-      "ticker": "AGL",
-      "adv": 34782694.67899999,
-      "industry": "Medical Care Facilities",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeeznfo",
-      "ticker": "GRDN",
-      "adv": 20333753.5035,
-      "industry": "Medical Care Facilities",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqet4id7",
-      "ticker": "MCS",
-      "adv": 7285577.516,
-      "industry": "Entertainment",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqevdlau",
-      "ticker": "MEI",
-      "adv": 15069868.711000001,
-      "industry": "Electronic Components",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeibigx",
-      "ticker": "CLMT",
-      "adv": 29465433.204000007,
-      "industry": "Specialty Chemicals",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqedhiuy",
-      "ticker": "DGII",
-      "adv": 27563680.89925,
       "industry": "Communication Equipment",
       "exchange": null,
       "listId": null,
