@@ -123,18 +123,6 @@
           "adv": 143569540.3465,
           "industry": "Real Estate Services",
           "exchange": "NYSE"
-        },
-        {
-          "ticker": "HUT",
-          "adv": 515147988.71125,
-          "industry": "Capital Markets",
-          "exchange": null
-        },
-        {
-          "ticker": "FORM",
-          "adv": 270373809.00374997,
-          "industry": "Semiconductor Equipment & Materials",
-          "exchange": null
         }
       ]
     },
