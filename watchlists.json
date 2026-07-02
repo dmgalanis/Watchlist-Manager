@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o89xtksksr",
+      "ticker": "UNH",
+      "adv": 2871495488.3625,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006828625
+    },
+    {
       "id": "mr3o87uqj0h7r",
       "ticker": "SDOT",
       "adv": 131257928.7855,
@@ -5203,16 +5213,6 @@
       "adv": 42660873.702999994,
       "industry": "Security & Protection Services",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqerdgo9",
-      "ticker": "TENB",
-      "adv": 93050835.90900001,
-      "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
