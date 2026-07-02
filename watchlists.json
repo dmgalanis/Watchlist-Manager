@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o9cj9yxfxh",
+      "ticker": "SPHR",
+      "adv": 115423108.96775003,
+      "industry": "Entertainment",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006878645
+    },
+    {
       "id": "mr3o97v6plqem",
       "ticker": "LNTH",
       "adv": 100900688.41450001,
@@ -5202,16 +5212,6 @@
       "ticker": "TBRG",
       "adv": 7797703.255,
       "industry": "Health Information Services",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqek873f",
-      "ticker": "VRNS",
-      "adv": 81943720.103,
-      "industry": "Software - Infrastructure",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
