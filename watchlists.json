@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3obzecfdr1f",
+      "ticker": "AGX",
+      "adv": 289238999.0675,
+      "industry": "Engineering & Construction",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007001588
+    },
+    {
       "id": "mr3oby1osa5fz",
       "ticker": "MKSI",
       "adv": 544881222.6102501,
@@ -5203,16 +5213,6 @@
       "adv": 22844817.599,
       "industry": "Advertising Agencies",
       "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe2km0y",
-      "ticker": "PUBM",
-      "adv": 7038244.467999999,
-      "industry": "Software - Application",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
