@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocncujtfzo",
+      "ticker": "LSCC",
+      "adv": 285770811.3715001,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007032639
+    },
+    {
       "id": "mr3ocm7ozd4vy",
       "ticker": "FLEX",
       "adv": 1438483158.1185002,
@@ -5201,16 +5211,6 @@
       "id": "mr3o5cqeudawv",
       "ticker": "CDNA",
       "adv": 24396753.471499998,
-      "industry": "Diagnostics & Research",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqewfks7",
-      "ticker": "BLLN",
-      "adv": 82737994.53425002,
       "industry": "Diagnostics & Research",
       "exchange": null,
       "listId": null,
