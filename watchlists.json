@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocfkb1idt3",
+      "ticker": "M",
+      "adv": 165380552.37449998,
+      "industry": "Department Stores",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007022539
+    },
+    {
       "id": "mr3oceotjpcv4",
       "ticker": "SOLS",
       "adv": 151121612.93899998,
@@ -5202,16 +5212,6 @@
       "ticker": "KMTS",
       "adv": 9189398.423750002,
       "industry": "Medical Instruments & Supplies",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe07wq5",
-      "ticker": "AMLX",
-      "adv": 29973363.865000002,
-      "industry": "Drug Manufacturers - Specialty & Generic",
       "exchange": null,
       "listId": null,
       "listName": null,
