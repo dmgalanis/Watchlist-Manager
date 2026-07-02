@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oc1iptkg50",
+      "ticker": "KLAC",
+      "adv": 3831970987.107,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007004337
+    },
+    {
       "id": "mr3oc0fc9kvs1",
       "ticker": "INTC",
       "adv": 15785749208.549997,
@@ -5202,16 +5212,6 @@
       "ticker": "VSTS",
       "adv": 18866690.5385,
       "industry": "Rental & Leasing Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqef6tg7",
-      "ticker": "CBC",
-      "adv": 25652041.246499997,
-      "industry": "Banks - Regional",
       "exchange": null,
       "listId": null,
       "listName": null,
