@@ -2614,6 +2614,16 @@
   ],
   "trash": [
     {
+      "id": "mr2vw7nk1edj8",
+      "ticker": "TWLO",
+      "adv": 491653431.31899995,
+      "industry": "Software - Infrastructure",
+      "exchange": "NYSE",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782959236544
+    },
+    {
       "id": "mr2vsvchogyaw",
       "ticker": "FORM",
       "adv": 270373809.00374997,
