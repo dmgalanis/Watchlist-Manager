@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ob9cauerh0",
+      "ticker": "KNX",
+      "adv": 346135001.0325,
+      "industry": "Trucking",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006967818
+    },
+    {
       "id": "mr3ob8gtjak3u",
       "ticker": "CGNX",
       "adv": 154342291.57299998,
@@ -5202,16 +5212,6 @@
       "ticker": "HCSG",
       "adv": 16954230.714250002,
       "industry": "Medical Care Facilities",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqen8zyg",
-      "ticker": "MGNI",
-      "adv": 62367451.26324999,
-      "industry": "Advertising Agencies",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
