@@ -2614,6 +2614,16 @@
   ],
   "trash": [
     {
+      "id": "mr2wev0i7haw3",
+      "ticker": "WDC",
+      "adv": 6742900231.2872505,
+      "industry": "Computer Hardware",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782960106626
+    },
+    {
       "id": "mr2wetdt20afa",
       "ticker": "PL",
       "adv": 580543250.452,
