@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o7nzgaqa97",
+      "ticker": "MOG-A",
+      "adv": 138142509.56849998,
+      "industry": "Aerospace & Defense",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006800172
+    },
+    {
       "id": "mr3o70ujzdc5c",
       "ticker": "CRWD",
       "adv": 2316628100.1165,
@@ -5202,16 +5212,6 @@
       "ticker": "QLYS",
       "adv": 92981416.23725,
       "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe2ebk6",
-      "ticker": "NEO",
-      "adv": 44525366.789,
-      "industry": "Diagnostics & Research",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
