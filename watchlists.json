@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oceotjpcv4",
+      "ticker": "SOLS",
+      "adv": 151121612.93899998,
+      "industry": "Specialty Chemicals",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007021405
+    },
+    {
       "id": "mr3ocdp5i932o",
       "ticker": "SNEX",
       "adv": 148743687.7485,
@@ -5202,16 +5212,6 @@
       "ticker": "AMLX",
       "adv": 29973363.865000002,
       "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe5vdgt",
-      "ticker": "AIR",
-      "adv": 66614691.98299998,
-      "industry": "Aerospace & Defense",
       "exchange": null,
       "listId": null,
       "listName": null,
