@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ob03fsauhg",
+      "ticker": "KLIC",
+      "adv": 154106130.92911002,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006955835
+    },
+    {
       "id": "mr3oayo2l12yu",
       "ticker": "ELAN",
       "adv": 121155530.39050002,
@@ -5203,16 +5213,6 @@
       "adv": 21374655.668000005,
       "industry": "Software - Application",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqey1si2",
-      "ticker": "WNC",
-      "adv": 11318288.062,
-      "industry": "Farm & Heavy Construction Machinery",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
