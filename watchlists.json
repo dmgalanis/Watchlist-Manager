@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3obn9qkxqt1",
+      "ticker": "AMD",
+      "adv": 16150840261.355495,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006985870
+    },
+    {
       "id": "mr3oblf29cy2m",
       "ticker": "MXL",
       "adv": 360704685.57025003,
@@ -5202,16 +5212,6 @@
       "ticker": "RLJ",
       "adv": 23846865.0345,
       "industry": "REIT - Hotel & Motel",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqezmma5",
-      "ticker": "OGN",
-      "adv": 30594288.054500006,
-      "industry": "Drug Manufacturers - General",
       "exchange": "NYSE",
       "listId": null,
       "listName": null,
