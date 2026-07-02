@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o9pym0jwxi",
+      "ticker": "VLO",
+      "adv": 820861642.826,
+      "industry": "Oil & Gas Refining & Marketing",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006896046
+    },
+    {
       "id": "mr3o9lvuq9l63",
       "ticker": "FFIV",
       "adv": 237518394.060535,
@@ -5203,16 +5213,6 @@
       "adv": 20565778.621999998,
       "industry": "Health Information Services",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqemqbbu",
-      "ticker": "ENVA",
-      "adv": 95503633.62650001,
-      "industry": "Credit Services",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
