@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3octc5y4yrl",
+      "ticker": "VSH",
+      "adv": 530148148.778,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007040389
+    },
+    {
       "id": "mr3ocsfq8c7t6",
       "ticker": "HPE",
       "adv": 1300844661.828,
@@ -5202,16 +5212,6 @@
       "ticker": "MRCY",
       "adv": 92121213.66300002,
       "industry": "Aerospace & Defense",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeqhqzu",
-      "ticker": "PRAA",
-      "adv": 15777854.147499999,
-      "industry": "Credit Services",
       "exchange": null,
       "listId": null,
       "listName": null,
