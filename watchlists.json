@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o9lvuq9l63",
+      "ticker": "FFIV",
+      "adv": 237518394.060535,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006890762
+    },
+    {
       "id": "mr3o9cj9yxfxh",
       "ticker": "SPHR",
       "adv": 115423108.96775003,
@@ -5203,16 +5213,6 @@
       "adv": 95503633.62650001,
       "industry": "Credit Services",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe8c6yb",
-      "ticker": "TBRG",
-      "adv": 7797703.255,
-      "industry": "Health Information Services",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
