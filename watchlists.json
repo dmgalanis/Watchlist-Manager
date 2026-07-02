@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocsfq8c7t6",
+      "ticker": "HPE",
+      "adv": 1300844661.828,
+      "industry": "Communication Equipment",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007039222
+    },
+    {
       "id": "mr3ocqzw58332",
       "ticker": "STX",
       "adv": 4484178988.668501,
@@ -5202,16 +5212,6 @@
       "ticker": "PRAA",
       "adv": 15777854.147499999,
       "industry": "Credit Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe3zf2h",
-      "ticker": "MSGE",
-      "adv": 45414336.2605,
-      "industry": "Entertainment",
       "exchange": null,
       "listId": null,
       "listName": null,
