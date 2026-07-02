@@ -149,6 +149,12 @@
           "exchange": "NASDAQ"
         },
         {
+          "ticker": "CRS",
+          "adv": 533385926.2887499,
+          "industry": "Metal Fabrication",
+          "exchange": "NYSE"
+        },
+        {
           "ticker": "ROKU",
           "adv": 1103889666.93025,
           "industry": "Entertainment",
@@ -2726,14 +2732,14 @@
   ],
   "trash": [
     {
-      "id": "mr3p9qjzol5ke",
+      "id": "mr3pmyase68qf",
       "ticker": "CRS",
       "adv": 533385926.2887499,
       "industry": "Metal Fabrication",
       "exchange": "NYSE",
       "listId": "mr3odocv",
       "listName": "Sniper List 2.0",
-      "deletedAt": 1783008576431
+      "deletedAt": 1783009192996
     },
     {
       "id": "mr3oxggwnjxk2",
