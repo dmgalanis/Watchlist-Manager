@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o9zt9poowr",
+      "ticker": "JBHT",
+      "adv": 281758747.474,
+      "industry": "Integrated Freight & Logistics",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006908813
+    },
+    {
       "id": "mr3o9s3hrmkon",
       "ticker": "ICHR",
       "adv": 117425427.117655,
@@ -5202,16 +5212,6 @@
       "ticker": "SEZL",
       "adv": 97472960.52999999,
       "industry": "Credit Services",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeyugyc",
-      "ticker": "PSMT",
-      "adv": 61538699.310699984,
-      "industry": "Discount Stores",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
