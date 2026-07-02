@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oc4dylsv4b",
+      "ticker": "PENG",
+      "adv": 201412646.6045,
+      "industry": "Information Technology Services",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007008054
+    },
+    {
       "id": "mr3oc3iwgunhk",
       "ticker": "ESI",
       "adv": 158093697.07999998,
@@ -5202,16 +5212,6 @@
       "ticker": "LMRI",
       "adv": 8193958.307000002,
       "industry": "Medical Devices",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe09z3c",
-      "ticker": "HPP",
-      "adv": 15491613.6535,
-      "industry": "REIT - Office",
       "exchange": null,
       "listId": null,
       "listName": null,
