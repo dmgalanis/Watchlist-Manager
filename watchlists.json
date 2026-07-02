@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oa59l7qxp1",
+      "ticker": "WRBY",
+      "adv": 102053318.257,
+      "industry": "Medical Instruments & Supplies",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006915881
+    },
+    {
       "id": "mr3o9zt9poowr",
       "ticker": "JBHT",
       "adv": 281758747.474,
@@ -5203,16 +5213,6 @@
       "adv": 47732746.7085,
       "industry": "Aerospace & Defense",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqedbtz6",
-      "ticker": "SEZL",
-      "adv": 97472960.52999999,
-      "industry": "Credit Services",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
