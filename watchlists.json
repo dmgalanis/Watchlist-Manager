@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocqzw58332",
+      "ticker": "STX",
+      "adv": 4484178988.668501,
+      "industry": "Computer Hardware",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007037356
+    },
+    {
       "id": "mr3ocq69c7c6i",
       "ticker": "SYNA",
       "adv": 171352049.54950002,
@@ -5202,16 +5212,6 @@
       "ticker": "MSGE",
       "adv": 45414336.2605,
       "industry": "Entertainment",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqebnwrr",
-      "ticker": "ATEN",
-      "adv": 43426808.31899999,
-      "industry": "Software - Infrastructure",
       "exchange": null,
       "listId": null,
       "listName": null,
