@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocpb96uvfg",
+      "ticker": "WDC",
+      "adv": 6601793596.25825,
+      "industry": "Computer Hardware",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007035173
+    },
+    {
       "id": "mr3ocogorxer6",
       "ticker": "TER",
       "adv": 2325222260.7790003,
@@ -5202,16 +5212,6 @@
       "ticker": "ESTA",
       "adv": 71408376.85325,
       "industry": "Medical Devices",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqek48r4",
-      "ticker": "SCHL",
-      "adv": 15544436.330499997,
-      "industry": "Publishing",
       "exchange": null,
       "listId": null,
       "listName": null,
