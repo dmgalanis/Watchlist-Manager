@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oc582st9nz",
+      "ticker": "GLW",
+      "adv": 3603123475.7980003,
+      "industry": "Electronic Components",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007009138
+    },
+    {
       "id": "mr3oc4dylsv4b",
       "ticker": "PENG",
       "adv": 201412646.6045,
@@ -5202,16 +5212,6 @@
       "ticker": "NP",
       "adv": 29320369.443,
       "industry": "Insurance Brokers",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqesrt4x",
-      "ticker": "LMRI",
-      "adv": 8193958.307000002,
-      "industry": "Medical Devices",
       "exchange": null,
       "listId": null,
       "listName": null,
