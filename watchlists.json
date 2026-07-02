@@ -2614,6 +2614,16 @@
   ],
   "trash": [
     {
+      "id": "mr2vsvchogyaw",
+      "ticker": "FORM",
+      "adv": 270373809.00374997,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782959080625
+    },
+    {
       "id": "mr2vsu6erksj1",
       "ticker": "HUT",
       "adv": 515147988.71125,
