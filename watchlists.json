@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3o9s3hrmkon",
+      "ticker": "ICHR",
+      "adv": 117425427.117655,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006898813
+    },
+    {
       "id": "mr3o9pym0jwxi",
       "ticker": "VLO",
       "adv": 820861642.826,
@@ -5202,16 +5212,6 @@
       "ticker": "PSMT",
       "adv": 61538699.310699984,
       "industry": "Discount Stores",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe2amp9",
-      "ticker": "OMDA",
-      "adv": 20565778.621999998,
-      "industry": "Health Information Services",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
