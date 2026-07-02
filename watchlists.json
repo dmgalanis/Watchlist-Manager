@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oba1ad9hmq",
+      "ticker": "MTRN",
+      "adv": 117878862.45150001,
+      "industry": "Other Industrial Metals & Mining",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006968718
+    },
+    {
       "id": "mr3ob9cauerh0",
       "ticker": "KNX",
       "adv": 346135001.0325,
@@ -5203,16 +5213,6 @@
       "adv": 16845399.247999996,
       "industry": "REIT - Retail",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqefi3fg",
-      "ticker": "HCSG",
-      "adv": 16954230.714250002,
-      "industry": "Medical Care Facilities",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
