@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3obk63l3jj5",
+      "ticker": "DELL",
+      "adv": 3463434466.6990004,
+      "industry": "Computer Hardware",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006981851
+    },
+    {
       "id": "mr3obf39ut473",
       "ticker": "ALGM",
       "adv": 199548244.85775,
@@ -5203,16 +5213,6 @@
       "adv": 28784168.329000004,
       "industry": "Credit Services",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeqgf51",
-      "ticker": "WLY",
-      "adv": 30743070.7995,
-      "industry": "Publishing",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
