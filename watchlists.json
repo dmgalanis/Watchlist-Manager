@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ob8gtjak3u",
+      "ticker": "CGNX",
+      "adv": 154342291.57299998,
+      "industry": "Scientific & Technical Instruments",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006966685
+    },
+    {
       "id": "mr3ob6aze6tf4",
       "ticker": "SSRM",
       "adv": 103390574.71825,
@@ -5202,16 +5212,6 @@
       "ticker": "MGNI",
       "adv": 62367451.26324999,
       "industry": "Advertising Agencies",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqegocpm",
-      "ticker": "AMRX",
-      "adv": 38751181.814,
-      "industry": "Drug Manufacturers - Specialty & Generic",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
