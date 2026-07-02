@@ -18,25 +18,25 @@
         },
         {
           "ticker": "GH",
-          "adv": 497570671.13499993,
+          "adv": 497633806.41800004,
           "industry": "Diagnostics & Research",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "PANW",
-          "adv": 2275052392.0435,
+          "adv": 2276549815.7755,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "DAVE",
-          "adv": 203718108.40899998,
+          "adv": 203718127.77699995,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "CVLT",
-          "adv": 122518388.77450001,
+          "adv": 122518403.7725,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
@@ -48,7 +48,7 @@
         },
         {
           "ticker": "OKTA",
-          "adv": 436215164.21800005,
+          "adv": 436347936.38500005,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
@@ -66,61 +66,61 @@
         },
         {
           "ticker": "OSCR",
-          "adv": 220431115.94100004,
+          "adv": 220520466.92900005,
           "industry": "Healthcare Plans",
           "exchange": "NYSE"
         },
         {
           "ticker": "ILMN",
-          "adv": 349950847.8945,
+          "adv": 349950866.7625,
           "industry": "Diagnostics & Research",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "LQDA",
-          "adv": 198632902.32175,
+          "adv": 198632981.25175,
           "industry": "Drug Manufacturers - Specialty & Generic",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "VSEC",
-          "adv": 115316174.6935,
+          "adv": 115375302.67850001,
           "industry": "Aerospace & Defense",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "RBRK",
-          "adv": 334535167.532,
+          "adv": 334567276.92800003,
           "industry": "Software - Infrastructure",
           "exchange": "NYSE"
         },
         {
           "ticker": "FROG",
-          "adv": 313895541.757,
+          "adv": 313895555.9785,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "AFRM",
-          "adv": 332090321.6645,
+          "adv": 332207363.4685,
           "industry": "Credit Services",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "HIMS",
-          "adv": 615779876.2529999,
+          "adv": 615785368.6529999,
           "industry": "Drug Manufacturers - Specialty & Generic",
           "exchange": "NYSE"
         },
         {
           "ticker": "DDOG",
-          "adv": 1177745632.504,
+          "adv": 1177748366.284,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "SNOW",
-          "adv": 1775101120.65,
+          "adv": 1775101666.9650002,
           "industry": "Software - Application",
           "exchange": "NYSE"
         },
@@ -132,13 +132,13 @@
         },
         {
           "ticker": "NAVN",
-          "adv": 131927462.53500001,
+          "adv": 131927507.45750001,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "VSAT",
-          "adv": 245397371.567,
+          "adv": 245397421.40300003,
           "industry": "Communication Equipment",
           "exchange": "NASDAQ"
         },
@@ -152,6 +152,12 @@
           "ticker": "ROKU",
           "adv": 1144473291.10825,
           "industry": "Entertainment",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "VTRS",
+          "adv": 162400540.3685,
+          "industry": "Drug Manufacturers - Specialty & Generic",
           "exchange": "NASDAQ"
         }
       ]
