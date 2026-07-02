@@ -2614,6 +2614,16 @@
   ],
   "trash": [
     {
+      "id": "mr2vw8xrzv1mo",
+      "ticker": "AAON",
+      "adv": 126761651.49200001,
+      "industry": "Building Products & Equipment",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1782959238207
+    },
+    {
       "id": "mr2vw7nk1edj8",
       "ticker": "TWLO",
       "adv": 491653431.31899995,
