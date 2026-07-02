@@ -129,6 +129,12 @@
           "adv": 515147988.71125,
           "industry": "Capital Markets",
           "exchange": null
+        },
+        {
+          "ticker": "FORM",
+          "adv": 270373809.00374997,
+          "industry": "Semiconductor Equipment & Materials",
+          "exchange": null
         }
       ]
     },
