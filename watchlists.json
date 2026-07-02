@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oanmqa581c",
+      "ticker": "GEV",
+      "adv": 3293805800.0905,
+      "industry": "Specialty Industrial Machinery",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006939682
+    },
+    {
       "id": "mr3oal7ohiziw",
       "ticker": "CHRW",
       "adv": 260028539.70674998,
@@ -5202,16 +5212,6 @@
       "ticker": "ATEX",
       "adv": 51070302.01895,
       "industry": "Telecom Services",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeysaxu",
-      "ticker": "FA",
-      "adv": 37283956.728750005,
-      "industry": "Specialty Business Services",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
