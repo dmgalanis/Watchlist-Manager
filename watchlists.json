@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oblf29cy2m",
+      "ticker": "MXL",
+      "adv": 360704685.57025003,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006983470
+    },
+    {
       "id": "mr3obk63l3jj5",
       "ticker": "DELL",
       "adv": 3463434466.6990004,
@@ -5203,16 +5213,6 @@
       "adv": 30594288.054500006,
       "industry": "Drug Manufacturers - General",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe2g1rr",
-      "ticker": "ECPG",
-      "adv": 28784168.329000004,
-      "industry": "Credit Services",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
