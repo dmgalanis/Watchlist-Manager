@@ -2798,6 +2798,16 @@
   ],
   "trash": [
     {
+      "id": "mr3otfb3r9k7b",
+      "ticker": "DAL",
+      "adv": 682279476.196,
+      "industry": "Airlines",
+      "exchange": "NYSE",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783007815359
+    },
+    {
       "id": "mr3ot1rsc1srm",
       "ticker": "BTSG",
       "adv": 275187838.467,
@@ -4782,16 +4792,6 @@
       "ticker": "MYE",
       "adv": 17510418.1035,
       "industry": "Packaging & Containers",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqep35px",
-      "ticker": "LOCO",
-      "adv": 5392089.376750002,
-      "industry": "Restaurants",
       "exchange": null,
       "listId": null,
       "listName": null,
