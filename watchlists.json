@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocbm5sgl1a",
+      "ticker": "ONTO",
+      "adv": 460003435.279,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007017421
+    },
+    {
       "id": "mr3oca4xssils",
       "ticker": "SLAB",
       "adv": 123610715.194,
@@ -5202,16 +5212,6 @@
       "ticker": "ZD",
       "adv": 35196446.8955,
       "industry": "Advertising Agencies",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqesz7gc",
-      "ticker": "BBCP",
-      "adv": 6811150.3330000015,
-      "industry": "Engineering & Construction",
       "exchange": null,
       "listId": null,
       "listName": null,
