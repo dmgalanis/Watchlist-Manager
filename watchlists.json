@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ocm7ozd4vy",
+      "ticker": "FLEX",
+      "adv": 1438483158.1185002,
+      "industry": "Electronic Components",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007031156
+    },
+    {
       "id": "mr3ocl4bpmxhm",
       "ticker": "MYRG",
       "adv": 151068178.86799997,
@@ -5202,16 +5212,6 @@
       "ticker": "BLLN",
       "adv": 82737994.53425002,
       "industry": "Diagnostics & Research",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqey3hih",
-      "ticker": "RMAX",
-      "adv": 2877525.78,
-      "industry": "Real Estate Services",
       "exchange": null,
       "listId": null,
       "listName": null,
