@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oaqeqna64m",
+      "ticker": "TKR",
+      "adv": 148102953.286,
+      "industry": "Tools & Accessories",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006943282
+    },
+    {
       "id": "mr3oap0afz0b8",
       "ticker": "FCEL",
       "adv": 325324112.40510005,
@@ -5203,16 +5213,6 @@
       "adv": 6116638.9275,
       "industry": "Insurance - Life",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeadhrh",
-      "ticker": "ACHC",
-      "adv": 65805898.21687499,
-      "industry": "Medical Care Facilities",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
