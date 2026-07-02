@@ -2732,6 +2732,16 @@
   ],
   "trash": [
     {
+      "id": "mr3p9qjzol5ke",
+      "ticker": "CRS",
+      "adv": 533385926.2887499,
+      "industry": "Metal Fabrication",
+      "exchange": "NYSE",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783008576431
+    },
+    {
       "id": "mr3oxggwnjxk2",
       "ticker": "RSI",
       "adv": 101523863.35499999,
@@ -4716,16 +4726,6 @@
       "ticker": "DIN",
       "adv": 13104521.4855,
       "industry": "Restaurants",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqe4zn0g",
-      "ticker": "VIRT",
-      "adv": 77875891.02450001,
-      "industry": "Capital Markets",
       "exchange": null,
       "listId": null,
       "listName": null,
