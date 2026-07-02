@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oci3iy8ems",
+      "ticker": "MRVL",
+      "adv": 18129765250.710003,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007025822
+    },
+    {
       "id": "mr3ochatfn3qv",
       "ticker": "VICR",
       "adv": 290161118.87899995,
@@ -5202,16 +5212,6 @@
       "ticker": "NSP",
       "adv": 30946492.9235,
       "industry": "Staffing & Employment Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeej1ds",
-      "ticker": "AMN",
-      "adv": 31334809.639499992,
-      "industry": "Medical Care Facilities",
       "exchange": null,
       "listId": null,
       "listName": null,
