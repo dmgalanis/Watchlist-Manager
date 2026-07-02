@@ -149,12 +149,6 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "CRS",
-          "adv": 533385926.2887499,
-          "industry": "Metal Fabrication",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "ROKU",
           "adv": 1103889666.93025,
           "industry": "Entertainment",
