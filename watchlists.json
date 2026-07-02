@@ -123,18 +123,6 @@
           "adv": 143569540.3465,
           "industry": "Real Estate Services",
           "exchange": "NYSE"
-        },
-        {
-          "ticker": "PL",
-          "adv": 580543250.452,
-          "industry": "Aerospace & Defense",
-          "exchange": null
-        },
-        {
-          "ticker": "WDC",
-          "adv": 6742900231.2872505,
-          "industry": "Computer Hardware",
-          "exchange": null
         }
       ]
     },
