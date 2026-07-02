@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oawtcw63os",
+      "ticker": "RAL",
+      "adv": 111062952.9935,
+      "industry": "Electronic Components",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006951584
+    },
+    {
       "id": "mr3oauwcyjw7c",
       "ticker": "ALAB",
       "adv": 2517957014.75925,
@@ -5203,16 +5213,6 @@
       "adv": 68320786.81600001,
       "industry": "Security & Protection Services",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeeo1ay",
-      "ticker": "TCMD",
-      "adv": 6746105.1757499995,
-      "industry": "Medical Devices",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
