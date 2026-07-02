@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3oajrc97gui",
+      "ticker": "TWLO",
+      "adv": 460168701.8862499,
+      "industry": "Software - Infrastructure",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006934664
+    },
+    {
       "id": "mr3oaelq0ypkl",
       "ticker": "WWD",
       "adv": 388596807.37200004,
@@ -5203,16 +5213,6 @@
       "adv": 13707091.066484997,
       "industry": "Banks - Regional",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqepqywe",
-      "ticker": "MD",
-      "adv": 18653523.7875,
-      "industry": "Medical Care Facilities",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
