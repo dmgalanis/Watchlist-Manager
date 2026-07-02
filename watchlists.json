@@ -2798,6 +2798,16 @@
   ],
   "trash": [
     {
+      "id": "mr3os82otpour",
+      "ticker": "TWST",
+      "adv": 190227592.46700004,
+      "industry": "Diagnostics & Research",
+      "exchange": "NASDAQ",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783007759328
+    },
+    {
       "id": "mr3ortsd317qc",
       "ticker": "HUM",
       "adv": 565112141.912,
@@ -4782,16 +4792,6 @@
       "ticker": "TZOO",
       "adv": 1587958.5550000002,
       "industry": "Internet Content & Information",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqerqbaz",
-      "ticker": "DK",
-      "adv": 56606594.617000006,
-      "industry": "Oil & Gas Refining & Marketing",
       "exchange": null,
       "listId": null,
       "listName": null,
