@@ -3218,6 +3218,26 @@
   ],
   "trash": [
     {
+      "id": "mr3obf39ut473",
+      "ticker": "ALGM",
+      "adv": 199548244.85775,
+      "industry": "Semiconductors",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006975269
+    },
+    {
+      "id": "mr3obc0krr6tn",
+      "ticker": "ACMR",
+      "adv": 189285155.144,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006971284
+    },
+    {
       "id": "mr3obb990hzba",
       "ticker": "AMAT",
       "adv": 7538937690.644501,
@@ -5193,26 +5213,6 @@
       "adv": 30743070.7995,
       "industry": "Publishing",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeecc2i",
-      "ticker": "ALGT",
-      "adv": 69930438.21200001,
-      "industry": "Airlines",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqep286s",
-      "ticker": "BIOA",
-      "adv": 14540040.870500002,
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
