@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3obpqkxt9jb",
+      "ticker": "UMAC",
+      "adv": 132165355.03700002,
+      "industry": "Computer Hardware",
+      "exchange": "AMEX",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783006989068
+    },
+    {
       "id": "mr3obn9qkxqt1",
       "ticker": "AMD",
       "adv": 16150840261.355495,
@@ -5203,16 +5213,6 @@
       "adv": 32745747.431,
       "industry": "Internet Content & Information",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeouv68",
-      "ticker": "RLJ",
-      "adv": 23846865.0345,
-      "industry": "REIT - Hotel & Motel",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1783006692278
