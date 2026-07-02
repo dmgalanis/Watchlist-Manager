@@ -1,132 +1,6 @@
 {
   "lists": [
     {
-      "id": "mqz906uq",
-      "name": "Sniper List",
-      "tickers": [
-        {
-          "ticker": "VSAT",
-          "adv": 227820657.50100002,
-          "industry": "Communication Equipment",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "OUST",
-          "adv": 215556666.42550007,
-          "industry": "Electronic Components",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "ONTO",
-          "adv": 434823386.04475003,
-          "industry": "Semiconductor Equipment & Materials",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "AMD",
-          "adv": 16526406020.406498,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "ALAB",
-          "adv": 2425747524.308001,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "APPS",
-          "adv": 72497231.7615,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "PANW",
-          "adv": 2608416218.7929997,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "TER",
-          "adv": 2196436907.2715,
-          "industry": "Semiconductor Equipment & Materials",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "DELL",
-          "adv": 4960656156.0585,
-          "industry": "Computer Hardware",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "HIMS",
-          "adv": 581838748.295,
-          "industry": "Drug Manufacturers - Specialty & Generic",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "ALHC",
-          "adv": 121355543.82624999,
-          "industry": "Healthcare Plans",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "FTNT",
-          "adv": 1056666356.9965,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "RAL",
-          "adv": 112330709.84299998,
-          "industry": "Electronic Components",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "CVLT",
-          "adv": 118650623.126,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "GH",
-          "adv": 430346799.1584999,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "AFRM",
-          "adv": 347946675.6219999,
-          "industry": "Credit Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "SPHR",
-          "adv": 119070824.448,
-          "industry": "Entertainment",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "CAKE",
-          "adv": 100689493.4885,
-          "industry": "Restaurants",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "BRKR",
-          "adv": 168368289.23450002,
-          "industry": "Medical Devices",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "COMP",
-          "adv": 143569540.3465,
-          "industry": "Real Estate Services",
-          "exchange": "NYSE"
-        }
-      ]
-    },
-    {
       "id": "mr3odocv",
       "name": "Sniper List 2.0",
       "tickers": [
@@ -369,6 +243,132 @@
           "adv": 156076403.26749998,
           "industry": "Drug Manufacturers - Specialty & Generic",
           "exchange": "NASDAQ"
+        }
+      ]
+    },
+    {
+      "id": "mqz906uq",
+      "name": "Sniper List",
+      "tickers": [
+        {
+          "ticker": "VSAT",
+          "adv": 227820657.50100002,
+          "industry": "Communication Equipment",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "OUST",
+          "adv": 215556666.42550007,
+          "industry": "Electronic Components",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "ONTO",
+          "adv": 434823386.04475003,
+          "industry": "Semiconductor Equipment & Materials",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "AMD",
+          "adv": 16526406020.406498,
+          "industry": "Semiconductors",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "ALAB",
+          "adv": 2425747524.308001,
+          "industry": "Semiconductors",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "APPS",
+          "adv": 72497231.7615,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "PANW",
+          "adv": 2608416218.7929997,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "TER",
+          "adv": 2196436907.2715,
+          "industry": "Semiconductor Equipment & Materials",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "DELL",
+          "adv": 4960656156.0585,
+          "industry": "Computer Hardware",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "HIMS",
+          "adv": 581838748.295,
+          "industry": "Drug Manufacturers - Specialty & Generic",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "ALHC",
+          "adv": 121355543.82624999,
+          "industry": "Healthcare Plans",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "FTNT",
+          "adv": 1056666356.9965,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "RAL",
+          "adv": 112330709.84299998,
+          "industry": "Electronic Components",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "CVLT",
+          "adv": 118650623.126,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "GH",
+          "adv": 430346799.1584999,
+          "industry": "Diagnostics & Research",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "AFRM",
+          "adv": 347946675.6219999,
+          "industry": "Credit Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "SPHR",
+          "adv": 119070824.448,
+          "industry": "Entertainment",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "CAKE",
+          "adv": 100689493.4885,
+          "industry": "Restaurants",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "BRKR",
+          "adv": 168368289.23450002,
+          "industry": "Medical Devices",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "COMP",
+          "adv": 143569540.3465,
+          "industry": "Real Estate Services",
+          "exchange": "NYSE"
         }
       ]
     },
