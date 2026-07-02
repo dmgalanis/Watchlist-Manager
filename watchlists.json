@@ -3218,6 +3218,16 @@
   ],
   "trash": [
     {
+      "id": "mr3ochatfn3qv",
+      "ticker": "VICR",
+      "adv": 290161118.87899995,
+      "industry": "Electronic Components",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1783007024789
+    },
+    {
       "id": "mr3ocgh5f3ibu",
       "ticker": "SNDK",
       "adv": 22798982727.113102,
@@ -5201,16 +5211,6 @@
       "id": "mr3o5cqeej1ds",
       "ticker": "AMN",
       "adv": 31334809.639499992,
-      "industry": "Medical Care Facilities",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeih2ci",
-      "ticker": "PACS",
-      "adv": 36618867.676000014,
       "industry": "Medical Care Facilities",
       "exchange": null,
       "listId": null,
