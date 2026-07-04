@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr5m4mdicmcuk",
+      "ticker": "CAST",
+      "adv": 111007015.80257502,
+      "industry": "Broadcasting",
+      "exchange": "NASDAQ",
+      "listId": "mqyevsq9",
+      "listName": "IPO’s",
+      "deletedAt": 1783124231238
+    },
+    {
       "id": "mr3vx8f6exok0",
       "ticker": "VTRS",
       "adv": 158294849.64299998,
@@ -4704,16 +4714,6 @@
       "ticker": "ARCB",
       "adv": 80934618.52800001,
       "industry": "Trucking",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqezamcg",
-      "ticker": "VISN",
-      "adv": 69676557.04638001,
-      "industry": "Communication Equipment",
       "exchange": null,
       "listId": null,
       "listName": null,
