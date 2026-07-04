@@ -2726,6 +2726,16 @@
   ],
   "trash": [
     {
+      "id": "mr5ma8ityxp5r",
+      "ticker": "HNGE",
+      "adv": 179205863.43850002,
+      "industry": "Health Information Services",
+      "exchange": "NYSE",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1783124493221
+    },
+    {
       "id": "mr5m4mdicmcuk",
       "ticker": "CAST",
       "adv": 111007015.80257502,
@@ -4710,16 +4720,6 @@
       "ticker": "CHRN",
       "adv": 8587064.985,
       "industry": "Information Technology Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
-    },
-    {
-      "id": "mr3o5cqeydzqk",
-      "ticker": "ARCB",
-      "adv": 80934618.52800001,
-      "industry": "Trucking",
       "exchange": null,
       "listId": null,
       "listName": null,
