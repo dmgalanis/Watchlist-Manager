@@ -291,6 +291,12 @@
           "adv": 143569540.3465,
           "industry": "Real Estate Services",
           "exchange": "NYSE"
+        },
+        {
+          "ticker": "HNGE",
+          "adv": 179205863.43850002,
+          "industry": "Health Information Services",
+          "exchange": "NYSE"
         }
       ]
     },
