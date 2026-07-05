@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr8dqi926byod",
+      "ticker": "COMP",
+      "adv": 159524668.34899998,
+      "industry": "Real Estate Services",
+      "exchange": "NYSE",
+      "listId": "mr3o1emk",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783291534310
+    },
+    {
       "id": "mr5ma8ityxp5r",
       "ticker": "HNGE",
       "adv": 179205863.43850002,
@@ -4708,16 +4718,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006770187
-    },
-    {
-      "id": "mr3o5cqeasc8i",
-      "ticker": "CHRN",
-      "adv": 8587064.985,
-      "industry": "Information Technology Services",
-      "exchange": null,
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006692278
     }
   ]
 }
