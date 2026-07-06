@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr9a0muhrxrz3",
+      "ticker": "BRKR",
+      "adv": 132158251.7455,
+      "industry": "Medical Devices",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1783345754537
+    },
+    {
       "id": "mr9a0j039u6sk",
       "ticker": "CAKE",
       "adv": 104093843.0985,
@@ -4708,16 +4718,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006853143
-    },
-    {
-      "id": "mr3o8o41ptubo",
-      "ticker": "PBF",
-      "adv": 108203180.40550001,
-      "industry": "Oil & Gas Refining & Marketing",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006846993
     }
   ]
 }
