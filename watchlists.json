@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr9a0j039u6sk",
+      "ticker": "CAKE",
+      "adv": 104093843.0985,
+      "industry": "Restaurants",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1783345749555
+    },
+    {
       "id": "mr9a0gp85nnvu",
       "ticker": "SPHR",
       "adv": 111863906.16450003,
@@ -4708,16 +4718,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006846993
-    },
-    {
-      "id": "mr3o89xtksksr",
-      "ticker": "UNH",
-      "adv": 2871495488.3625,
-      "industry": "Healthcare Plans",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006828625
     }
   ]
 }
