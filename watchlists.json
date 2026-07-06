@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr9a0gp85nnvu",
+      "ticker": "SPHR",
+      "adv": 111863906.16450003,
+      "industry": "Entertainment",
+      "exchange": "NYSE",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1783345746572
+    },
+    {
       "id": "mr9a0c4ufeahp",
       "ticker": "RAL",
       "adv": 111675015.701,
@@ -4708,16 +4718,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006828625
-    },
-    {
-      "id": "mr3o87uqj0h7r",
-      "ticker": "SDOT",
-      "adv": 131257928.7855,
-      "industry": "Farm Products",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006825922
     }
   ]
 }
