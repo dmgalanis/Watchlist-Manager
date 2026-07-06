@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr99zvlg5ppm0",
+      "ticker": "ONTO",
+      "adv": 468729301.46999997,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NYSE",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1783345719220
+    },
+    {
       "id": "mr99zsps5qfv8",
       "ticker": "OUST",
       "adv": 241213525.2850001,
@@ -4708,16 +4718,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006803274
-    },
-    {
-      "id": "mr3o7nzgaqa97",
-      "ticker": "MOG-A",
-      "adv": 138142509.56849998,
-      "industry": "Aerospace & Defense",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006800172
     }
   ]
 }
