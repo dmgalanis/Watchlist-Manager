@@ -174,121 +174,79 @@
       "tickers": [
         {
           "ticker": "VSAT",
-          "adv": 245400041.946,
+          "adv": 238172014.29300004,
           "industry": "Communication Equipment",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "OUST",
-          "adv": 251817999.85650006,
-          "industry": "Electronic Components",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "ONTO",
-          "adv": 478171949.2515,
-          "industry": "Semiconductor Equipment & Materials",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "AMD",
-          "adv": 16592556914.697498,
+          "adv": 15951562893.623749,
           "industry": "Semiconductors",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "ALAB",
-          "adv": 2603012000.766,
+          "adv": 2551816682.94075,
           "industry": "Semiconductors",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "APPS",
-          "adv": 69739842.8615,
+          "adv": 65926427.495000005,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "PANW",
-          "adv": 2273686709.0215,
+          "adv": 2154051858.6885,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "TER",
-          "adv": 2404751157.17,
-          "industry": "Semiconductor Equipment & Materials",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "DELL",
-          "adv": 3534862825.315,
+          "adv": 3295880177.6195,
           "industry": "Computer Hardware",
           "exchange": "NYSE"
         },
         {
           "ticker": "HIMS",
-          "adv": 615839656.0129999,
+          "adv": 585023829.1324999,
           "industry": "Drug Manufacturers - Specialty & Generic",
           "exchange": "NYSE"
         },
         {
           "ticker": "ALHC",
-          "adv": 109789420.15583332,
+          "adv": 114660356.98574999,
           "industry": "Healthcare Plans",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "FTNT",
-          "adv": 998859949.22,
+          "adv": 961751520.2257502,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "RAL",
-          "adv": 115158574.56399998,
-          "industry": "Electronic Components",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "CVLT",
-          "adv": 122518486.2615,
+          "adv": 119879927.60149999,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "GH",
-          "adv": 497634335.555,
+          "adv": 485951076.18100005,
           "industry": "Diagnostics & Research",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "AFRM",
-          "adv": 332215626.93450004,
+          "adv": 316887000.144,
           "industry": "Credit Services",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "SPHR",
-          "adv": 119510756.33550003,
-          "industry": "Entertainment",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "CAKE",
-          "adv": 106904809.665,
-          "industry": "Restaurants",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "BRKR",
-          "adv": 149126437.07349998,
-          "industry": "Medical Devices",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "COMP",
-          "adv": 159524668.34899998,
+          "adv": 153654754.93925,
           "industry": "Real Estate Services",
           "exchange": "NYSE"
         }
