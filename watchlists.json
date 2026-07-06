@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr99zsps5qfv8",
+      "ticker": "OUST",
+      "adv": 241213525.2850001,
+      "industry": "Electronic Components",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1783345715488
+    },
+    {
       "id": "mr8dqi926byod",
       "ticker": "COMP",
       "adv": 159524668.34899998,
@@ -4708,16 +4718,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006800172
-    },
-    {
-      "id": "mr3o70ujzdc5c",
-      "ticker": "CRWD",
-      "adv": 2316628100.1165,
-      "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006770187
     }
   ]
 }
