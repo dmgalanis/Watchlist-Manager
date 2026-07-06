@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr9a03c7jzhy8",
+      "ticker": "TER",
+      "adv": 2327589708.587375,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1783345729255
+    },
+    {
       "id": "mr99zvlg5ppm0",
       "ticker": "ONTO",
       "adv": 468729301.46999997,
@@ -4708,16 +4718,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006820324
-    },
-    {
-      "id": "mr3o7qdm5hqw8",
-      "ticker": "CNC",
-      "adv": 361758932.41099995,
-      "industry": "Healthcare Plans",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006803274
     }
   ]
 }
