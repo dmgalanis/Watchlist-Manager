@@ -2720,6 +2720,16 @@
   ],
   "trash": [
     {
+      "id": "mr9a0c4ufeahp",
+      "ticker": "RAL",
+      "adv": 111675015.701,
+      "industry": "Electronic Components",
+      "exchange": "NYSE",
+      "listId": "mqz906uq",
+      "listName": "Sniper List",
+      "deletedAt": 1783345740654
+    },
+    {
       "id": "mr9a03c7jzhy8",
       "ticker": "TER",
       "adv": 2327589708.587375,
@@ -4708,16 +4718,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006825922
-    },
-    {
-      "id": "mr3o83j8pu5q3",
-      "ticker": "IRDM",
-      "adv": 171947969.40625,
-      "industry": "Telecom Services",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006820324
     }
   ]
 }
