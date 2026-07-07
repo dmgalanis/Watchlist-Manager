@@ -2684,6 +2684,16 @@
   ],
   "trash": [
     {
+      "id": "mrb6vmikcb8gw",
+      "ticker": "COMP",
+      "adv": 172647563.2145,
+      "industry": "Real Estate Services",
+      "exchange": "NYSE",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783461414332
+    },
+    {
       "id": "mrb6tttcw8ftz",
       "ticker": "BRKR",
       "adv": 162666658.17400002,
@@ -4672,16 +4682,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006890762
-    },
-    {
-      "id": "mr3o9cj9yxfxh",
-      "ticker": "SPHR",
-      "adv": 115423108.96775003,
-      "industry": "Entertainment",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006878645
     }
   ]
 }
