@@ -165,6 +165,12 @@
           "adv": 998854402.345,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "DELL",
+          "adv": 3354540162.1700006,
+          "industry": "Computer Hardware",
+          "exchange": "NYSE"
         }
       ]
     },
