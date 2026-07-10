@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rqdupukl1",
+      "ticker": "MU",
+      "adv": 56476943207.89425,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698058578
+    },
+    {
       "id": "mrf3rp6i30hf5",
       "ticker": "OUST",
       "adv": 259506892.97045,
@@ -4373,16 +4383,6 @@
       "ticker": "NSIT",
       "adv": 52169835.58449999,
       "industry": "Electronics & Computer Distribution",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6w9t1t",
-      "ticker": "ZD",
-      "adv": 36222510.541250005,
-      "industry": "Advertising Agencies",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
