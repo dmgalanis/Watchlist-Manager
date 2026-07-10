@@ -2660,6 +2660,16 @@
   ],
   "trash": [
     {
+      "id": "mreddt27h7lb3",
+      "ticker": "HIMS",
+      "adv": 590046847.8815,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NYSE",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783653738847
+    },
+    {
       "id": "mredd274ei25j",
       "ticker": "STUB",
       "adv": 105995732.937,
@@ -4648,16 +4658,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006934664
-    },
-    {
-      "id": "mr3oaelq0ypkl",
-      "ticker": "WWD",
-      "adv": 388596807.37200004,
-      "industry": "Aerospace & Defense",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006927982
     }
   ]
 }
