@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rsm9hm9xd",
+      "ticker": "LRCX",
+      "adv": 5336959046.682001,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698061473
+    },
+    {
       "id": "mrf3rqdupukl1",
       "ticker": "MU",
       "adv": 56476943207.89425,
@@ -4373,16 +4383,6 @@
       "ticker": "ACHC",
       "adv": 58156516.467499994,
       "industry": "Medical Care Facilities",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav63jlvy",
-      "ticker": "NSIT",
-      "adv": 52169835.58449999,
-      "industry": "Electronics & Computer Distribution",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
