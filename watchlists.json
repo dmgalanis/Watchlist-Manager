@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3q4aqdk7or",
+      "ticker": "AMAT",
+      "adv": 7894136468.243999,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697983298
+    },
+    {
       "id": "mrf3q3869fjm6",
       "ticker": "TWST",
       "adv": 198996722.764,
@@ -4374,16 +4384,6 @@
       "adv": 51427170.48600002,
       "industry": "Oil & Gas Refining & Marketing",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6tqout",
-      "ticker": "ATEX",
-      "adv": 55996896.85875001,
-      "industry": "Telecom Services",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
