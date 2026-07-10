@@ -787,18 +787,6 @@
           "adv": 2373141570.9715,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "WYFI",
-          "adv": 116003397.937,
-          "industry": "Information Technology Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "AMD",
-          "adv": 15773222439.698751,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
         }
       ]
     }
