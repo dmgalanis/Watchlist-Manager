@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3pwyy7w0k1",
+      "ticker": "ICHR",
+      "adv": 128322795.3695,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697973802
+    },
+    {
       "id": "mrf3pu6ylcdtx",
       "ticker": "FROG",
       "adv": 312527222.2875,
@@ -4374,16 +4384,6 @@
       "adv": 68276693.88300002,
       "industry": "Discount Stores",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6eyyi9",
-      "ticker": "PBI",
-      "adv": 52718219.647,
-      "industry": "Integrated Freight & Logistics",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
