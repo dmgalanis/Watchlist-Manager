@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3pu6ylcdtx",
+      "ticker": "FROG",
+      "adv": 312527222.2875,
+      "industry": "Software - Application",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697970202
+    },
+    {
       "id": "mrf3pn8rpo6r4",
       "ticker": "CRWD",
       "adv": 1979709065.5754998,
@@ -4374,16 +4384,6 @@
       "adv": 52718219.647,
       "industry": "Integrated Freight & Logistics",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6iecac",
-      "ticker": "FIVN",
-      "adv": 53947216.456499994,
-      "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
