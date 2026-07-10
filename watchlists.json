@@ -2365,6 +2365,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3yvi6qnui6",
+      "ticker": "TXG",
+      "adv": 118042368.296,
+      "industry": "Health Information Services",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698391806
+    },
+    {
       "id": "mrf3s8auefox3",
       "ticker": "SPHR",
       "adv": 118983861.955,
@@ -4350,16 +4360,6 @@
       "adv": 69675873.45699999,
       "industry": "Communication Equipment",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6xyv4c",
-      "ticker": "EE",
-      "adv": 14019141.305000002,
-      "industry": "Oil & Gas Midstream",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
