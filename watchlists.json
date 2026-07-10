@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rl6rz698v",
+      "ticker": "MXL",
+      "adv": 349121769.58550006,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698051843
+    },
+    {
       "id": "mrf3rkmjs9b1n",
       "ticker": "CGNX",
       "adv": 162518253.43699998,
@@ -4374,16 +4384,6 @@
       "adv": 98361351.55875,
       "industry": "Software - Infrastructure",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav66rmyi",
-      "ticker": "WT",
-      "adv": 61262646.63375001,
-      "industry": "Asset Management",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
