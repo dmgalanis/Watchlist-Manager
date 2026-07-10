@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3s8auefox3",
+      "ticker": "SPHR",
+      "adv": 118983861.955,
+      "industry": "Entertainment",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698081798
+    },
+    {
       "id": "mrf3rx8afno94",
       "ticker": "MRVL",
       "adv": 14022065879.33428,
@@ -4374,16 +4384,6 @@
       "adv": 14019141.305000002,
       "industry": "Oil & Gas Midstream",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav67mcqr",
-      "ticker": "NEO",
-      "adv": 48482247.136,
-      "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
