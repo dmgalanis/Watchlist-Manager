@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3ruzoazlij",
+      "ticker": "KLIC",
+      "adv": 169394954.69875,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698064548
+    },
+    {
       "id": "mrf3ruhcgj8te",
       "ticker": "LSCC",
       "adv": 272302973.0075,
@@ -4373,16 +4383,6 @@
       "ticker": "OGN",
       "adv": 34544585.3185,
       "industry": "Drug Manufacturers - General",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6wxmak",
-      "ticker": "NSP",
-      "adv": 28799310.614499997,
-      "industry": "Staffing & Employment Services",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
