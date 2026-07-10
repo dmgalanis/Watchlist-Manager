@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3q0wfx25bz",
+      "ticker": "TXN",
+      "adv": 2995098040.3434997,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697978895
+    },
+    {
       "id": "mrf3pyy0om3jp",
       "ticker": "ALAB",
       "adv": 2501042482.3494997,
@@ -4374,16 +4384,6 @@
       "adv": 20144697.032,
       "industry": "Medical Care Facilities",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav69t93o",
-      "ticker": "PRCH",
-      "adv": 30095215.773000002,
-      "industry": "Insurance - Property & Casualty",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
