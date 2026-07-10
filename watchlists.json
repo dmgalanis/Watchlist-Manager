@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rnyr2ugc1",
+      "ticker": "WDC",
+      "adv": 6696514576.00925,
+      "industry": "Computer Hardware",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698055443
+    },
+    {
       "id": "mrf3rnf6hdv26",
       "ticker": "ALGM",
       "adv": 232626475.97600007,
@@ -4374,16 +4384,6 @@
       "adv": 43000770.010500014,
       "industry": "Specialty Business Services",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav695q77",
-      "ticker": "AAMI",
-      "adv": 48816394.16175,
-      "industry": "Asset Management",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
