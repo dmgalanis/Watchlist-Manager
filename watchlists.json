@@ -805,6 +805,16 @@
   ],
   "trash": [
     {
+      "id": "mrf40xwnmnml8",
+      "ticker": "WYFI",
+      "adv": 116003397.937,
+      "industry": "Information Technology Services",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698488231
+    },
+    {
       "id": "mrf40hvcb3lz4",
       "ticker": "AMD",
       "adv": 15773222439.698751,
@@ -2790,16 +2800,6 @@
       "adv": 33518679.62075,
       "industry": "Farm & Heavy Construction Machinery",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6a2syh",
-      "ticker": "FTK",
-      "adv": 6293135.689250001,
-      "industry": "Oil & Gas Equipment & Services",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
