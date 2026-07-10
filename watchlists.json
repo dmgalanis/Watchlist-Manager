@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3pbl6qkdgz",
+      "ticker": "LQDA",
+      "adv": 180718858.65875,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697946090
+    },
+    {
       "id": "mrf3nuyqt360x",
       "ticker": "GH",
       "adv": 523455188.4485,
@@ -4373,16 +4383,6 @@
       "ticker": "PUBM",
       "adv": 6959014.799500002,
       "industry": "Software - Application",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav66xh46",
-      "ticker": "CHEF",
-      "adv": 52024109.142000005,
-      "industry": "Food Distribution",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
