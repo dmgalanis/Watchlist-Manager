@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rtetjyv78",
+      "ticker": "KLAC",
+      "adv": 3947692950.3804994,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698062501
+    },
+    {
       "id": "mrf3rsm9hm9xd",
       "ticker": "LRCX",
       "adv": 5336959046.682001,
@@ -4373,16 +4383,6 @@
       "ticker": "ECPG",
       "adv": 31201047.890999995,
       "industry": "Credit Services",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6202yp",
-      "ticker": "ACHC",
-      "adv": 58156516.467499994,
-      "industry": "Medical Care Facilities",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
