@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3q7dzwmmz5",
+      "ticker": "GEV",
+      "adv": 3330565589.4814997,
+      "industry": "Specialty Industrial Machinery",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697987303
+    },
+    {
       "id": "mrf3q4z32x5db",
       "ticker": "IRDM",
       "adv": 172196227.87050003,
@@ -4374,16 +4384,6 @@
       "adv": 4935672.204499999,
       "industry": "Medical Care Facilities",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6cl6vr",
-      "ticker": "KFRC",
-      "adv": 9130967.8725,
-      "industry": "Staffing & Employment Services",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
