@@ -461,6 +461,180 @@
       ]
     },
     {
+      "id": "mrf3to8v",
+      "name": "Sniper List",
+      "tickers": [
+        {
+          "ticker": "HNGE",
+          "adv": 176350174.0695,
+          "industry": "Health Information Services",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "EAT",
+          "adv": 164543492.77850002,
+          "industry": "Restaurants",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "QLYS",
+          "adv": 109892858.44549999,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "TENB",
+          "adv": 113037883.25850001,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "DAVE",
+          "adv": 209145114.90362495,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "ENVA",
+          "adv": 103425039.48799998,
+          "industry": "Credit Services",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "MOH",
+          "adv": 222666611.8625,
+          "industry": "Healthcare Plans",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "CVLT",
+          "adv": 123056524.55849998,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "TXG",
+          "adv": 118042368.296,
+          "industry": "Health Information Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "SEZL",
+          "adv": 110669854.505,
+          "industry": "Credit Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "NTAP",
+          "adv": 493009157.43450004,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "RSI",
+          "adv": 100351215.738,
+          "industry": "Gambling",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "GKOS",
+          "adv": 122220835.11000001,
+          "industry": "Medical Devices",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "TWLO",
+          "adv": 389528440.2340001,
+          "industry": "Software - Infrastructure",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "SNOW",
+          "adv": 1624421380.77575,
+          "industry": "Software - Application",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "RBRK",
+          "adv": 277963448.52449995,
+          "industry": "Software - Infrastructure",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "ANET",
+          "adv": 1403277412.8927498,
+          "industry": "Computer Hardware",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "DELL",
+          "adv": 3243148597.814,
+          "industry": "Computer Hardware",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "HPE",
+          "adv": 1114964524.4985,
+          "industry": "Communication Equipment",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "NAVN",
+          "adv": 142899144.20374998,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "FTNT",
+          "adv": 943531883.2110001,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "AFRM",
+          "adv": 334974075.0665,
+          "industry": "Credit Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "DDOG",
+          "adv": 1134512830.9529998,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "BRKR",
+          "adv": 128286038.44399998,
+          "industry": "Medical Devices",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "PENG",
+          "adv": 293768467.51925004,
+          "industry": "Information Technology Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "PANW",
+          "adv": 2373141570.9715,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "WYFI",
+          "adv": 116003397.937,
+          "industry": "Information Technology Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "AMD",
+          "adv": 15773222439.698751,
+          "industry": "Semiconductors",
+          "exchange": "NASDAQ"
+        }
+      ]
+    },
+    {
       "id": "mrf3gsqv",
       "name": "Finviz Full List (7-10-2026)",
       "tickers": [
@@ -2185,180 +2359,6 @@
           "adv": 81956210.558,
           "industry": "Scientific & Technical Instruments",
           "exchange": null
-        }
-      ]
-    },
-    {
-      "id": "mrf3to8v",
-      "name": "Sniper List",
-      "tickers": [
-        {
-          "ticker": "HNGE",
-          "adv": 176350174.0695,
-          "industry": "Health Information Services",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "EAT",
-          "adv": 164543492.77850002,
-          "industry": "Restaurants",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "QLYS",
-          "adv": 109892858.44549999,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "TENB",
-          "adv": 113037883.25850001,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "DAVE",
-          "adv": 209145114.90362495,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "ENVA",
-          "adv": 103425039.48799998,
-          "industry": "Credit Services",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "MOH",
-          "adv": 222666611.8625,
-          "industry": "Healthcare Plans",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "CVLT",
-          "adv": 123056524.55849998,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "TXG",
-          "adv": 118042368.296,
-          "industry": "Health Information Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "SEZL",
-          "adv": 110669854.505,
-          "industry": "Credit Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "NTAP",
-          "adv": 493009157.43450004,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "RSI",
-          "adv": 100351215.738,
-          "industry": "Gambling",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "GKOS",
-          "adv": 122220835.11000001,
-          "industry": "Medical Devices",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "TWLO",
-          "adv": 389528440.2340001,
-          "industry": "Software - Infrastructure",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "SNOW",
-          "adv": 1624421380.77575,
-          "industry": "Software - Application",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "RBRK",
-          "adv": 277963448.52449995,
-          "industry": "Software - Infrastructure",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "ANET",
-          "adv": 1403277412.8927498,
-          "industry": "Computer Hardware",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "DELL",
-          "adv": 3243148597.814,
-          "industry": "Computer Hardware",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "HPE",
-          "adv": 1114964524.4985,
-          "industry": "Communication Equipment",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "NAVN",
-          "adv": 142899144.20374998,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "FTNT",
-          "adv": 943531883.2110001,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "AFRM",
-          "adv": 334974075.0665,
-          "industry": "Credit Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "DDOG",
-          "adv": 1134512830.9529998,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "BRKR",
-          "adv": 128286038.44399998,
-          "industry": "Medical Devices",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "PENG",
-          "adv": 293768467.51925004,
-          "industry": "Information Technology Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "PANW",
-          "adv": 2373141570.9715,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "WYFI",
-          "adv": 116003397.937,
-          "industry": "Information Technology Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "AMD",
-          "adv": 15773222439.698751,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
         }
       ]
     }
