@@ -805,6 +805,16 @@
   ],
   "trash": [
     {
+      "id": "mrf40hvcb3lz4",
+      "ticker": "AMD",
+      "adv": 15773222439.698751,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698467448
+    },
+    {
       "id": "mrf3yvi6qnui6",
       "ticker": "TXG",
       "adv": 118042368.296,
@@ -2790,16 +2800,6 @@
       "adv": 6293135.689250001,
       "industry": "Oil & Gas Equipment & Services",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6ov01g",
-      "ticker": "EXTR",
-      "adv": 69675873.45699999,
-      "industry": "Communication Equipment",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
