@@ -2389,6 +2389,26 @@
   ],
   "trash": [
     {
+      "id": "mrf3rnf6hdv26",
+      "ticker": "ALGM",
+      "adv": 232626475.97600007,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698054738
+    },
+    {
+      "id": "mrf3rn0dyyeiw",
+      "ticker": "MKSI",
+      "adv": 596392236.40675,
+      "industry": "Scientific & Technical Instruments",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698054205
+    },
+    {
       "id": "mrf3rmeap9ggv",
       "ticker": "SYNA",
       "adv": 177669043.019,
@@ -4363,26 +4383,6 @@
       "ticker": "AAMI",
       "adv": 48816394.16175,
       "industry": "Asset Management",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6kout6",
-      "ticker": "GPRE",
-      "adv": 20574367.813500002,
-      "industry": "Chemicals",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav66ny32",
-      "ticker": "GEO",
-      "adv": 69189825.775,
-      "industry": "Security & Protection Services",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
