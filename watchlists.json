@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rju0vlktm",
+      "ticker": "SNDK",
+      "adv": 23468499691.062424,
+      "industry": "Computer Hardware",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698050088
+    },
+    {
       "id": "mrf3rhvl7gv6u",
       "ticker": "ONTO",
       "adv": 489992677.64225006,
@@ -4373,16 +4383,6 @@
       "ticker": "BLLN",
       "adv": 82517391.49599999,
       "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6dzeyf",
-      "ticker": "CBRL",
-      "adv": 60641953.365499996,
-      "industry": "Restaurants",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
