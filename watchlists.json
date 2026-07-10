@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3q9g5tyjje",
+      "ticker": "VSXY",
+      "adv": 148777478.7095,
+      "industry": "Apparel Retail",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697989973
+    },
+    {
       "id": "mrf3q8a2e589g",
       "ticker": "MTRN",
       "adv": 119645583.60674998,
@@ -4373,16 +4383,6 @@
       "ticker": "ABX",
       "adv": 7521326.676000001,
       "industry": "Insurance - Life",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6w9ocp",
-      "ticker": "WNC",
-      "adv": 12451012.3415,
-      "industry": "Farm & Heavy Construction Machinery",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
