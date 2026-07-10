@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3j6lk9vb4t",
+      "ticker": "PBF",
+      "adv": 122559317.66000001,
+      "industry": "Oil & Gas Refining & Marketing",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697659688
+    },
+    {
       "id": "mrf3he1rtqytp",
       "ticker": "M",
       "adv": 146384561.75,
@@ -4373,16 +4383,6 @@
       "ticker": "VIRT",
       "adv": 79232349.3575,
       "industry": "Capital Markets",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav67j5cw",
-      "ticker": "ATEN",
-      "adv": 44137832.572500005,
-      "industry": "Software - Infrastructure",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
