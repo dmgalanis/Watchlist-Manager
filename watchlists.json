@@ -2660,6 +2660,16 @@
   ],
   "trash": [
     {
+      "id": "mredet3hi5hom",
+      "ticker": "PENG",
+      "adv": 290863390.86800003,
+      "industry": "Information Technology Services",
+      "exchange": "NASDAQ",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783653785549
+    },
+    {
       "id": "mredekauuyyrf",
       "ticker": "VTRS",
       "adv": 167557224.721,
@@ -4648,16 +4658,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006939682
-    },
-    {
-      "id": "mr3oal7ohiziw",
-      "ticker": "CHRW",
-      "adv": 260028539.70674998,
-      "industry": "Integrated Freight & Logistics",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006936548
     }
   ]
 }
