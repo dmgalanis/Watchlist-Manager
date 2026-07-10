@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3qapcao2mz",
+      "ticker": "VSAT",
+      "adv": 234199400.11799994,
+      "industry": "Communication Equipment",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697991600
+    },
+    {
       "id": "mrf3q9g5tyjje",
       "ticker": "VSXY",
       "adv": 148777478.7095,
@@ -4374,16 +4384,6 @@
       "adv": 42731602.353999995,
       "industry": "Medical Care Facilities",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav604lvo",
-      "ticker": "ABX",
-      "adv": 7521326.676000001,
-      "industry": "Insurance - Life",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
