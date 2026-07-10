@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3mxelp13l3",
+      "ticker": "COMP",
+      "adv": 177669566.86949998,
+      "industry": "Real Estate Services",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697834397
+    },
+    {
       "id": "mrf3muzqoue3u",
       "ticker": "NTRA",
       "adv": 431119962.7530001,
@@ -4373,16 +4383,6 @@
       "ticker": "MGNI",
       "adv": 68625276.176,
       "industry": "Advertising Agencies",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav63fc0v",
-      "ticker": "AMRX",
-      "adv": 38365676.04575001,
-      "industry": "Drug Manufacturers - Specialty & Generic",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
