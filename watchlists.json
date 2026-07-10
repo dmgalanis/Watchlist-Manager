@@ -2389,6 +2389,26 @@
   ],
   "trash": [
     {
+      "id": "mrf3rx8afno94",
+      "ticker": "MRVL",
+      "adv": 14022065879.33428,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698067450
+    },
+    {
+      "id": "mrf3rw82cw1ul",
+      "ticker": "FCEL",
+      "adv": 358703088.8575001,
+      "industry": "Electrical Equipment & Parts",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698066146
+    },
+    {
       "id": "mrf3rvfburdyh",
       "ticker": "SNEX",
       "adv": 151191115.57921,
@@ -4364,26 +4384,6 @@
       "adv": 48482247.136,
       "industry": "Diagnostics & Research",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6ko7zm",
-      "ticker": "LOCO",
-      "adv": 5278015.316,
-      "industry": "Restaurants",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6p33tk",
-      "ticker": "CALY",
-      "adv": 42132486.644999996,
-      "industry": "Leisure",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
