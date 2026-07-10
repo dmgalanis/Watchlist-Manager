@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3nt04rf6ax",
+      "ticker": "OSCR",
+      "adv": 181964994.05249995,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697875348
+    },
+    {
       "id": "mrf3mxelp13l3",
       "ticker": "COMP",
       "adv": 177669566.86949998,
@@ -4373,16 +4383,6 @@
       "ticker": "PSNL",
       "adv": 47707815.867,
       "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6bz9ex",
-      "ticker": "MGNI",
-      "adv": 68625276.176,
-      "industry": "Advertising Agencies",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
