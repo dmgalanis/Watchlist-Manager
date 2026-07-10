@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3q2icie8uw",
+      "ticker": "HIMS",
+      "adv": 577109133.306,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697980980
+    },
+    {
       "id": "mrf3q1qn0jrxi",
       "ticker": "ACMR",
       "adv": 194313400.46199995,
@@ -4373,16 +4383,6 @@
       "ticker": "LMRI",
       "adv": 7845932.448999999,
       "industry": "Medical Devices",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6lvsks",
-      "ticker": "GO",
-      "adv": 24799429.39075,
-      "industry": "Grocery Stores",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
