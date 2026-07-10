@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rvfburdyh",
+      "ticker": "SNEX",
+      "adv": 151191115.57921,
+      "industry": "Capital Markets",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698065111
+    },
+    {
       "id": "mrf3ruzoazlij",
       "ticker": "KLIC",
       "adv": 169394954.69875,
@@ -4373,16 +4383,6 @@
       "ticker": "CALY",
       "adv": 42132486.644999996,
       "industry": "Leisure",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6yrlpt",
-      "ticker": "OGN",
-      "adv": 34544585.3185,
-      "industry": "Drug Manufacturers - General",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
