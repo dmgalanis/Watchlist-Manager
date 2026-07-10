@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3nuyqt360x",
+      "ticker": "GH",
+      "adv": 523455188.4485,
+      "industry": "Diagnostics & Research",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697877890
+    },
+    {
       "id": "mrf3nt04rf6ax",
       "ticker": "OSCR",
       "adv": 181964994.05249995,
@@ -4373,16 +4383,6 @@
       "ticker": "CHEF",
       "adv": 52024109.142000005,
       "industry": "Food Distribution",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6obg06",
-      "ticker": "PSNL",
-      "adv": 47707815.867,
-      "industry": "Diagnostics & Research",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
