@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3q4z32x5db",
+      "ticker": "IRDM",
+      "adv": 172196227.87050003,
+      "industry": "Telecom Services",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697984175
+    },
+    {
       "id": "mrf3q4aqdk7or",
       "ticker": "AMAT",
       "adv": 7894136468.243999,
@@ -4373,16 +4383,6 @@
       "ticker": "KFRC",
       "adv": 9130967.8725,
       "industry": "Staffing & Employment Services",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6li4t8",
-      "ticker": "PARR",
-      "adv": 51427170.48600002,
-      "industry": "Oil & Gas Refining & Marketing",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
