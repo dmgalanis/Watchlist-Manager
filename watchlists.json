@@ -2624,6 +2624,16 @@
   ],
   "trash": [
     {
+      "id": "mrf0x9artwm48",
+      "ticker": "LQDA",
+      "adv": 179719686.69024998,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": "mr3odocv",
+      "listName": "Sniper List 2.0",
+      "deletedAt": 1783693277523
+    },
+    {
       "id": "mredet3hi5hom",
       "ticker": "PENG",
       "adv": 290863390.86800003,
@@ -4612,16 +4622,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1783006941466
-    },
-    {
-      "id": "mr3oanmqa581c",
-      "ticker": "GEV",
-      "adv": 3293805800.0905,
-      "industry": "Specialty Industrial Machinery",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1783006939682
     }
   ]
 }
