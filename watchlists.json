@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3pn8rpo6r4",
+      "ticker": "CRWD",
+      "adv": 1979709065.5754998,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697961195
+    },
+    {
       "id": "mrf3pbl6qkdgz",
       "ticker": "LQDA",
       "adv": 180718858.65875,
@@ -4373,16 +4383,6 @@
       "ticker": "FIVN",
       "adv": 53947216.456499994,
       "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6ukgr0",
-      "ticker": "PUBM",
-      "adv": 6959014.799500002,
-      "industry": "Software - Application",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
