@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rmeap9ggv",
+      "ticker": "SYNA",
+      "adv": 177669043.019,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698053410
+    },
+    {
       "id": "mrf3rl6rz698v",
       "ticker": "MXL",
       "adv": 349121769.58550006,
@@ -4374,16 +4384,6 @@
       "adv": 69189825.775,
       "industry": "Security & Protection Services",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6om9oh",
-      "ticker": "BAND",
-      "adv": 98361351.55875,
-      "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
