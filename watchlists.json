@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rhvl7gv6u",
+      "ticker": "ONTO",
+      "adv": 489992677.64225006,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698047553
+    },
+    {
       "id": "mrf3qapcao2mz",
       "ticker": "VSAT",
       "adv": 234199400.11799994,
@@ -4373,16 +4383,6 @@
       "ticker": "CBRL",
       "adv": 60641953.365499996,
       "industry": "Restaurants",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6qmje5",
-      "ticker": "LFST",
-      "adv": 42731602.353999995,
-      "industry": "Medical Care Facilities",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
