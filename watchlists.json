@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3rkmjs9b1n",
+      "ticker": "CGNX",
+      "adv": 162518253.43699998,
+      "industry": "Scientific & Technical Instruments",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698051115
+    },
+    {
       "id": "mrf3rju0vlktm",
       "ticker": "SNDK",
       "adv": 23468499691.062424,
@@ -4374,16 +4384,6 @@
       "adv": 61262646.63375001,
       "industry": "Asset Management",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6gx1kc",
-      "ticker": "BLLN",
-      "adv": 82517391.49599999,
-      "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
