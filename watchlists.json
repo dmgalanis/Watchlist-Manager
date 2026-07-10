@@ -2389,6 +2389,26 @@
   ],
   "trash": [
     {
+      "id": "mrf3rp6i30hf5",
+      "ticker": "OUST",
+      "adv": 259506892.97045,
+      "industry": "Electronic Components",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698057018
+    },
+    {
+      "id": "mrf3rol1atpvt",
+      "ticker": "UCTT",
+      "adv": 182526651.91125,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783698056245
+    },
+    {
       "id": "mrf3rnyr2ugc1",
       "ticker": "WDC",
       "adv": 6696514576.00925,
@@ -4363,26 +4383,6 @@
       "ticker": "ZD",
       "adv": 36222510.541250005,
       "industry": "Advertising Agencies",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6eq893",
-      "ticker": "CBC",
-      "adv": 27004052.864,
-      "industry": "Banks - Regional",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6pm7q0",
-      "ticker": "FA",
-      "adv": 43000770.010500014,
-      "industry": "Specialty Business Services",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
