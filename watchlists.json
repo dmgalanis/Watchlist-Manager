@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3q8a2e589g",
+      "ticker": "MTRN",
+      "adv": 119645583.60674998,
+      "industry": "Other Industrial Metals & Mining",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697988458
+    },
+    {
       "id": "mrf3q7dzwmmz5",
       "ticker": "GEV",
       "adv": 3330565589.4814997,
@@ -4374,16 +4384,6 @@
       "adv": 12451012.3415,
       "industry": "Farm & Heavy Construction Machinery",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav613f6i",
-      "ticker": "INNV",
-      "adv": 4935672.204499999,
-      "industry": "Medical Care Facilities",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
