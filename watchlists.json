@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3q3869fjm6",
+      "ticker": "TWST",
+      "adv": 198996722.764,
+      "industry": "Diagnostics & Research",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697981910
+    },
+    {
       "id": "mrf3q2icie8uw",
       "ticker": "HIMS",
       "adv": 577109133.306,
@@ -4373,16 +4383,6 @@
       "ticker": "ATEX",
       "adv": 55996896.85875001,
       "industry": "Telecom Services",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6o5nhy",
-      "ticker": "LMRI",
-      "adv": 7845932.448999999,
-      "industry": "Medical Devices",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
