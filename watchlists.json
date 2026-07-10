@@ -2389,6 +2389,16 @@
   ],
   "trash": [
     {
+      "id": "mrf3mmkl4vu7d",
+      "ticker": "OKTA",
+      "adv": 417815943.96625006,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1783697820357
+    },
+    {
       "id": "mrf3j6lk9vb4t",
       "ticker": "PBF",
       "adv": 122559317.66000001,
@@ -4374,16 +4384,6 @@
       "adv": 7201412.161499999,
       "industry": "Medical Devices",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav62jzg7",
-      "ticker": "VIRT",
-      "adv": 79232349.3575,
-      "industry": "Capital Markets",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
