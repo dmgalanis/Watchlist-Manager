@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlm2cg0lzl0",
+      "ticker": "ALAB",
+      "adv": 1954680729.443,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969891936
+    },
+    {
       "id": "mrjllziskjd43",
       "ticker": "ICHR",
       "adv": 128675781.65949997,
@@ -2778,16 +2788,6 @@
       "adv": 16693613.1305,
       "industry": "Medical Devices",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6dij27",
-      "ticker": "RMAX",
-      "adv": 3519651.5744999996,
-      "industry": "Real Estate Services",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
