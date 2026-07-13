@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmit69vi7a",
+      "ticker": "ONTO",
+      "adv": 491629590.09650004,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969913274
+    },
+    {
       "id": "mrjlmi3j78uqu",
       "ticker": "VSAT",
       "adv": 232232152.1685,
@@ -2778,16 +2788,6 @@
       "adv": 15543215.27925,
       "industry": "Education & Training Services",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav63kc6z",
-      "ticker": "ANDG",
-      "adv": 16129975.069000002,
-      "industry": "Personal Services",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
