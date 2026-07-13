@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmtwnk9wo1",
+      "ticker": "ALGM",
+      "adv": 236751258.56600004,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969927655
+    },
+    {
       "id": "mrjlmqteazkpx",
       "ticker": "MKSI",
       "adv": 599768933.972,
@@ -2777,16 +2787,6 @@
       "ticker": "BIOA",
       "adv": 16721398.841999998,
       "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav65rxwh",
-      "ticker": "MAMA",
-      "adv": 15906222.179500002,
-      "industry": "Packaged Foods",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
