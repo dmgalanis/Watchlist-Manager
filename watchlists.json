@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjln19z3vwdh",
+      "ticker": "KLIC",
+      "adv": 170703023.22825,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969937207
+    },
+    {
       "id": "mrjln0oxk2ypa",
       "ticker": "LSCC",
       "adv": 274486244.3054999,
@@ -2777,16 +2787,6 @@
       "ticker": "LIND",
       "adv": 28091812.671000004,
       "industry": "Travel Services",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7bmkwv",
-      "ticker": "CARE",
-      "adv": 15031684.271249998,
-      "industry": "Banks - Regional",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
