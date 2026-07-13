@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmxhqwrm0i",
+      "ticker": "UCTT",
+      "adv": 181975420.21124998,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969932302
+    },
+    {
       "id": "mrjlmwxfumi24",
       "ticker": "WDC",
       "adv": 6717490527.529501,
@@ -2777,16 +2787,6 @@
       "ticker": "MITK",
       "adv": 20232643.49825,
       "industry": "Software - Application",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav66bh30",
-      "ticker": "NESR",
-      "adv": 74741441.9145,
-      "industry": "Oil & Gas Equipment & Services",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
