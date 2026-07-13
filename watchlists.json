@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlkwlx746qp",
+      "ticker": "LQDA",
+      "adv": 177251228.17249998,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969837845
+    },
+    {
       "id": "mrjlkfulnu5qm",
       "ticker": "COMP",
       "adv": 179134932.01399997,
@@ -2777,16 +2787,6 @@
       "ticker": "WERN",
       "adv": 42979906.24975,
       "industry": "Trucking",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6241tn",
-      "ticker": "RELY",
-      "adv": 89662254.11250001,
-      "industry": "Software - Infrastructure",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
