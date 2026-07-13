@@ -793,6 +793,26 @@
   ],
   "trash": [
     {
+      "id": "mrjln4absiew4",
+      "ticker": "SPHR",
+      "adv": 118481805.00299998,
+      "industry": "Entertainment",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969941107
+    },
+    {
+      "id": "mrjln3pwjx1f3",
+      "ticker": "MRVL",
+      "adv": 13500107570.893002,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969940372
+    },
+    {
       "id": "mrjln35hzmj6n",
       "ticker": "FCEL",
       "adv": 364679002.021,
@@ -2767,26 +2787,6 @@
       "ticker": "KEX",
       "adv": 87401974.54049999,
       "industry": "Marine Shipping",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7sx6ri",
-      "ticker": "VCYT",
-      "adv": 78065406.91825,
-      "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav78rtff",
-      "ticker": "NATL",
-      "adv": 32079907.970500004,
-      "industry": "Software - Application",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
