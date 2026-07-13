@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlk6s4zd4o3",
+      "ticker": "OKTA",
+      "adv": 430245279.16950005,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969804372
+    },
+    {
       "id": "mrjljxy03aydf",
       "ticker": "SEZL",
       "adv": 113490624.3175,
@@ -2777,16 +2787,6 @@
       "ticker": "MATX",
       "adv": 66274221.80962501,
       "industry": "Marine Shipping",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6wet6f",
-      "ticker": "UTI",
-      "adv": 39013696.05475,
-      "industry": "Education & Training Services",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
