@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmexsfjpr1",
+      "ticker": "MTRN",
+      "adv": 118873730.6995,
+      "industry": "Other Industrial Metals & Mining",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969908256
+    },
+    {
       "id": "mrjlmdszzp9ug",
       "ticker": "GEV",
       "adv": 3294733804.3927503,
@@ -2777,16 +2787,6 @@
       "ticker": "CDNA",
       "adv": 26075483.327499997,
       "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6s0639",
-      "ticker": "ALGT",
-      "adv": 74130329.00550002,
-      "industry": "Airlines",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
