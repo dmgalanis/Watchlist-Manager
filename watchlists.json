@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmk1ct707a",
+      "ticker": "CGNX",
+      "adv": 163529341.23700002,
+      "industry": "Scientific & Technical Instruments",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969914864
+    },
+    {
       "id": "mrjlmjfhx4x0o",
       "ticker": "SNDK",
       "adv": 23679380318.012,
@@ -2778,16 +2788,6 @@
       "adv": 46748083.615,
       "industry": "Oil & Gas Equipment & Services",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6zwarr",
-      "ticker": "SCHL",
-      "adv": 16100483.094500002,
-      "industry": "Publishing",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
