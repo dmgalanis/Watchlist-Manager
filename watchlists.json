@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlm94qaeskf",
+      "ticker": "TWST",
+      "adv": 195054102.108625,
+      "industry": "Diagnostics & Research",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969900730
+    },
+    {
       "id": "mrjlm72gg5w7h",
       "ticker": "HIMS",
       "adv": 577347867.0425001,
@@ -2777,16 +2787,6 @@
       "ticker": "VSTS",
       "adv": 19502415.8765,
       "industry": "Rental & Leasing Services",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav658oe4",
-      "ticker": "UVE",
-      "adv": 8761798.5435,
-      "industry": "Insurance - Property & Casualty",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
