@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmzs8wa5tn",
+      "ticker": "KLAC",
+      "adv": 3842666579.2425003,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969935272
+    },
+    {
       "id": "mrjlmz0xxu42k",
       "ticker": "LRCX",
       "adv": 5230087638.66275,
@@ -2777,16 +2787,6 @@
       "ticker": "WRBY",
       "adv": 98111735.31799999,
       "industry": "Medical Instruments & Supplies",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7xkkv6",
-      "ticker": "AVNS",
-      "adv": 22672322.263499998,
-      "industry": "Medical Devices",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
