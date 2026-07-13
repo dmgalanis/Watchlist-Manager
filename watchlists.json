@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmoy8uys84",
+      "ticker": "SYNA",
+      "adv": 175981087.644355,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969921232
+    },
+    {
       "id": "mrjlmnz8m9pb3",
       "ticker": "MXL",
       "adv": 348127733.37200004,
@@ -2777,16 +2787,6 @@
       "ticker": "PACS",
       "adv": 39377469.036,
       "industry": "Medical Care Facilities",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6tom66",
-      "ticker": "OOMA",
-      "adv": 5986085.499500001,
-      "industry": "Software - Application",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
