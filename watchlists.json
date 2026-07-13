@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlk9yqle3sm",
+      "ticker": "NTRA",
+      "adv": 446540053.3820001,
+      "industry": "Diagnostics & Research",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969808498
+    },
+    {
       "id": "mrjlk6s4zd4o3",
       "ticker": "OKTA",
       "adv": 430245279.16950005,
@@ -2778,16 +2788,6 @@
       "adv": 10601282.724750001,
       "industry": "Medical Instruments & Supplies",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6b319e",
-      "ticker": "MATX",
-      "adv": 66274221.80962501,
-      "industry": "Marine Shipping",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
