@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmb8zfyhod",
+      "ticker": "AMAT",
+      "adv": 7780073373.36175,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969903475
+    },
+    {
       "id": "mrjlm94qaeskf",
       "ticker": "TWST",
       "adv": 195054102.108625,
@@ -2777,16 +2787,6 @@
       "ticker": "DIN",
       "adv": 12717592.239999998,
       "industry": "Restaurants",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6ef3mx",
-      "ticker": "VSTS",
-      "adv": 19502415.8765,
-      "industry": "Rental & Leasing Services",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
