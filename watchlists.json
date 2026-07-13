@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmwxfumi24",
+      "ticker": "WDC",
+      "adv": 6717490527.529501,
+      "industry": "Computer Hardware",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969931571
+    },
+    {
       "id": "mrjlmtwnk9wo1",
       "ticker": "ALGM",
       "adv": 236751258.56600004,
@@ -2781,16 +2791,6 @@
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav6v481v",
-      "ticker": "BIOA",
-      "adv": 16721398.841999998,
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
     }
   ]
 }
