@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlkfulnu5qm",
+      "ticker": "COMP",
+      "adv": 179134932.01399997,
+      "industry": "Real Estate Services",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969816125
+    },
+    {
       "id": "mrjlkd76zfe8l",
       "ticker": "RBRK",
       "adv": 278589076.118,
@@ -2777,16 +2787,6 @@
       "ticker": "RELY",
       "adv": 89662254.11250001,
       "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6pl9h2",
-      "ticker": "ASTH",
-      "adv": 34373186.2745,
-      "industry": "Medical Care Facilities",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
