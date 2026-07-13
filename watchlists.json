@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmcvm5owds",
+      "ticker": "IRDM",
+      "adv": 169700482.3125,
+      "industry": "Telecom Services",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969905586
+    },
+    {
       "id": "mrjlmb8zfyhod",
       "ticker": "AMAT",
       "adv": 7780073373.36175,
@@ -2777,16 +2787,6 @@
       "ticker": "LMND",
       "adv": 95538760.849,
       "industry": "Insurance - Property & Casualty",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav66gvwz",
-      "ticker": "DIN",
-      "adv": 12717592.239999998,
-      "industry": "Restaurants",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
