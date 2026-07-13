@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmi3j78uqu",
+      "ticker": "VSAT",
+      "adv": 232232152.1685,
+      "industry": "Communication Equipment",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969912351
+    },
+    {
       "id": "mrjlmexsfjpr1",
       "ticker": "MTRN",
       "adv": 118873730.6995,
@@ -2778,16 +2788,6 @@
       "adv": 16129975.069000002,
       "industry": "Personal Services",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6vvd1w",
-      "ticker": "CDNA",
-      "adv": 26075483.327499997,
-      "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
