@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmdszzp9ug",
+      "ticker": "GEV",
+      "adv": 3294733804.3927503,
+      "industry": "Specialty Industrial Machinery",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969906787
+    },
+    {
       "id": "mrjlmcvm5owds",
       "ticker": "IRDM",
       "adv": 169700482.3125,
@@ -2778,16 +2788,6 @@
       "adv": 74130329.00550002,
       "industry": "Airlines",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6xemj4",
-      "ticker": "LMND",
-      "adv": 95538760.849,
-      "industry": "Insurance - Property & Casualty",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
