@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlkd76zfe8l",
+      "ticker": "RBRK",
+      "adv": 278589076.118,
+      "industry": "Software - Infrastructure",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969812690
+    },
+    {
       "id": "mrjlk9yqle3sm",
       "ticker": "NTRA",
       "adv": 446540053.3820001,
@@ -2777,16 +2787,6 @@
       "ticker": "ASTH",
       "adv": 34373186.2745,
       "industry": "Medical Care Facilities",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav62hi5v",
-      "ticker": "KMTS",
-      "adv": 10601282.724750001,
-      "industry": "Medical Instruments & Supplies",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
