@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjljxy03aydf",
+      "ticker": "SEZL",
+      "adv": 113490624.3175,
+      "industry": "Credit Services",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969792920
+    },
+    {
       "id": "mrf40xwnmnml8",
       "ticker": "WYFI",
       "adv": 116003397.937,
@@ -2778,16 +2788,6 @@
       "adv": 39013696.05475,
       "industry": "Education & Training Services",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6u3sa5",
-      "ticker": "BLBD",
-      "adv": 33518679.62075,
-      "industry": "Farm & Heavy Construction Machinery",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
