@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlm5h5a3508",
+      "ticker": "ACMR",
+      "adv": 192048379.547,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969895993
+    },
+    {
       "id": "mrjlm42yoqr9r",
       "ticker": "TXN",
       "adv": 2944000667.6872506,
@@ -2777,16 +2787,6 @@
       "ticker": "LINC",
       "adv": 24971031.8975,
       "industry": "Education & Training Services",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6sf1ab",
-      "ticker": "NTCT",
-      "adv": 28564561.24,
-      "industry": "Software - Infrastructure",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
