@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjllclsuzuln",
+      "ticker": "CRWD",
+      "adv": 1961966212.721,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969858576
+    },
+    {
       "id": "mrjlkwlx746qp",
       "ticker": "LQDA",
       "adv": 177251228.17249998,
@@ -2777,16 +2787,6 @@
       "ticker": "CYRX",
       "adv": 11890684.099499999,
       "industry": "Integrated Freight & Logistics",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav69w2f3",
-      "ticker": "WERN",
-      "adv": 42979906.24975,
-      "industry": "Trucking",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
