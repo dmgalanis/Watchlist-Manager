@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlm72gg5w7h",
+      "ticker": "HIMS",
+      "adv": 577347867.0425001,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969898056
+    },
+    {
       "id": "mrjlm5h5a3508",
       "ticker": "ACMR",
       "adv": 192048379.547,
@@ -2778,16 +2788,6 @@
       "adv": 8761798.5435,
       "industry": "Insurance - Property & Casualty",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6isd39",
-      "ticker": "LINC",
-      "adv": 24971031.8975,
-      "industry": "Education & Training Services",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
