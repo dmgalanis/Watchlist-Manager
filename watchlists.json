@@ -793,6 +793,26 @@
   ],
   "trash": [
     {
+      "id": "mrjlmz0xxu42k",
+      "ticker": "LRCX",
+      "adv": 5230087638.66275,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969934289
+    },
+    {
+      "id": "mrjlmyko4cm68",
+      "ticker": "MU",
+      "adv": 55666081375.255005,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969933704
+    },
+    {
       "id": "mrjlmxzusi743",
       "ticker": "OUST",
       "adv": 261260462.88800007,
@@ -2768,26 +2788,6 @@
       "adv": 22672322.263499998,
       "industry": "Medical Devices",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7tggkb",
-      "ticker": "VAC",
-      "adv": 43681665.02600001,
-      "industry": "Resorts & Casinos",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav700ol6",
-      "ticker": "ADPT",
-      "adv": 77618095.34149998,
-      "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
