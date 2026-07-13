@@ -793,6 +793,26 @@
   ],
   "trash": [
     {
+      "id": "mrjln35hzmj6n",
+      "ticker": "FCEL",
+      "adv": 364679002.021,
+      "industry": "Electrical Equipment & Parts",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969939637
+    },
+    {
+      "id": "mrjln1v05fee2",
+      "ticker": "SNEX",
+      "adv": 150987550.1045,
+      "industry": "Capital Markets",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969937964
+    },
+    {
       "id": "mrjln19z3vwdh",
       "ticker": "KLIC",
       "adv": 170703023.22825,
@@ -2768,26 +2788,6 @@
       "adv": 32079907.970500004,
       "industry": "Software - Application",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7k8b9o",
-      "ticker": "BNED",
-      "adv": 5512868.174500001,
-      "industry": "Specialty Retail",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav78xu98",
-      "ticker": "LIND",
-      "adv": 28091812.671000004,
-      "industry": "Travel Services",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
