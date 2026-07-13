@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlm42yoqr9r",
+      "ticker": "TXN",
+      "adv": 2944000667.6872506,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969894186
+    },
+    {
       "id": "mrjlm2cg0lzl0",
       "ticker": "ALAB",
       "adv": 1954680729.443,
@@ -2777,16 +2787,6 @@
       "ticker": "NTCT",
       "adv": 28564561.24,
       "industry": "Software - Infrastructure",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6cjoag",
-      "ticker": "IART",
-      "adv": 16693613.1305,
-      "industry": "Medical Devices",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
