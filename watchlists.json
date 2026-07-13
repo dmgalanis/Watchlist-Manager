@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmjfhx4x0o",
+      "ticker": "SNDK",
+      "adv": 23679380318.012,
+      "industry": "Computer Hardware",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969914077
+    },
+    {
       "id": "mrjlmit69vi7a",
       "ticker": "ONTO",
       "adv": 491629590.09650004,
@@ -2777,16 +2787,6 @@
       "ticker": "SCHL",
       "adv": 16100483.094500002,
       "industry": "Publishing",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6n4vyf",
-      "ticker": "APEI",
-      "adv": 15543215.27925,
-      "industry": "Education & Training Services",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
