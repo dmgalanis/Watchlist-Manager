@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmqteazkpx",
+      "ticker": "MKSI",
+      "adv": 599768933.972,
+      "industry": "Scientific & Technical Instruments",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969923650
+    },
+    {
       "id": "mrjlmoy8uys84",
       "ticker": "SYNA",
       "adv": 175981087.644355,
@@ -2778,16 +2788,6 @@
       "adv": 15906222.179500002,
       "industry": "Packaged Foods",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571906
-    },
-    {
-      "id": "mrf3hav6dd7cw",
-      "ticker": "PACS",
-      "adv": 39377469.036,
-      "industry": "Medical Care Facilities",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571906
