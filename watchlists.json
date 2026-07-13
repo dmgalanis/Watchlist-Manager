@@ -793,6 +793,16 @@
   ],
   "trash": [
     {
+      "id": "mrjlmxzusi743",
+      "ticker": "OUST",
+      "adv": 261260462.88800007,
+      "industry": "Electronic Components",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1783969932954
+    },
+    {
       "id": "mrjlmxhqwrm0i",
       "ticker": "UCTT",
       "adv": 181975420.21124998,
@@ -2777,16 +2787,6 @@
       "ticker": "ADPT",
       "adv": 77618095.34149998,
       "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav73nvt8",
-      "ticker": "MITK",
-      "adv": 20232643.49825,
-      "industry": "Software - Application",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
