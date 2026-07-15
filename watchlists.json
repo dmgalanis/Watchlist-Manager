@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm11yuf11nbo",
+      "ticker": "TENB",
+      "adv": 127745550.78100002,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116760487
+    },
+    {
       "id": "mrm118ungrnz7",
       "ticker": "EAT",
       "adv": 169736432.7195,
@@ -2561,16 +2571,6 @@
       "ticker": "CLDT",
       "adv": 5790239.781,
       "industry": "REIT - Hotel & Motel",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7o5kb1",
-      "ticker": "OUT",
-      "adv": 67239803.70425001,
-      "industry": "REIT - Specialty",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
