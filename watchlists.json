@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm0vwwfj4kcy",
+      "ticker": "TWLO",
+      "adv": 413175471.16050005,
+      "industry": "Software - Infrastructure",
+      "exchange": "NYSE",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116478031
+    },
+    {
       "id": "mrm0vlbriggys",
       "ticker": "GKOS",
       "adv": 124867742.91,
@@ -2561,16 +2571,6 @@
       "ticker": "WBI",
       "adv": 75323947.34300001,
       "industry": "Oil & Gas Equipment & Services",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav70ifav",
-      "ticker": "NP",
-      "adv": 30966332.3695,
-      "industry": "Insurance Brokers",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
