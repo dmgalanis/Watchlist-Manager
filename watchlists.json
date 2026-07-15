@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm0x8s6jmyv9",
+      "ticker": "ANET",
+      "adv": 1379317922.8525002,
+      "industry": "Computer Hardware",
+      "exchange": "NYSE",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116540086
+    },
+    {
       "id": "mrm0vwwfj4kcy",
       "ticker": "TWLO",
       "adv": 413175471.16050005,
@@ -2562,16 +2572,6 @@
       "adv": 30057541.692500003,
       "industry": "Drug Manufacturers - Specialty & Generic",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7vs4wr",
-      "ticker": "WBI",
-      "adv": 75323947.34300001,
-      "industry": "Oil & Gas Equipment & Services",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
