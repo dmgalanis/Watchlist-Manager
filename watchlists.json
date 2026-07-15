@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm0traqb7ql4",
+      "ticker": "MOH",
+      "adv": 234167531.10149997,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116377458
+    },
+    {
       "id": "mrm0tco94g6fa",
       "ticker": "ENVA",
       "adv": 103761007.78599998,
@@ -2561,16 +2571,6 @@
       "ticker": "MYE",
       "adv": 18703305.463,
       "industry": "Packaging & Containers",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7hgwm8",
-      "ticker": "NVRI",
-      "adv": 9877504.264999999,
-      "industry": "Waste Management",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
