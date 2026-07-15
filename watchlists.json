@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm0v9qkpkwws",
+      "ticker": "RSI",
+      "adv": 105359792.758,
+      "industry": "Gambling",
+      "exchange": "NYSE",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116448012
+    },
+    {
       "id": "mrm0uoqhalmev",
       "ticker": "TXG",
       "adv": 128799799.40649998,
@@ -2561,16 +2571,6 @@
       "ticker": "INSW",
       "adv": 52976068.49599999,
       "industry": "Oil & Gas Midstream",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7mkg4f",
-      "ticker": "EVC",
-      "adv": 23662670.599779997,
-      "industry": "Advertising Agencies",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
