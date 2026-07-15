@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm113a81kdjo",
+      "ticker": "HNGE",
+      "adv": 185427538.48950002,
+      "industry": "Health Information Services",
+      "exchange": "NYSE",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116719584
+    },
+    {
       "id": "mrm107le9tdb2",
       "ticker": "AMD",
       "adv": 15762067634.878754,
@@ -2561,16 +2571,6 @@
       "ticker": "LIFE",
       "adv": 8398017.775999999,
       "industry": "Insurance Brokers",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7347xl",
-      "ticker": "HCSG",
-      "adv": 17615700.307999995,
-      "industry": "Medical Care Facilities",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
