@@ -5,26 +5,8 @@
       "name": "Sniper List",
       "tickers": [
         {
-          "ticker": "HNGE",
-          "adv": 185427538.48950002,
-          "industry": "Health Information Services",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "EAT",
-          "adv": 169736432.7195,
-          "industry": "Restaurants",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "QLYS",
           "adv": 119729892.80850002,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "TENB",
-          "adv": 127745550.78100002,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
@@ -32,30 +14,6 @@
           "ticker": "DAVE",
           "adv": 213275739.25999996,
           "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "ENVA",
-          "adv": 103761007.78599998,
-          "industry": "Credit Services",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "MOH",
-          "adv": 234167531.10149997,
-          "industry": "Healthcare Plans",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "CVLT",
-          "adv": 124929898.101,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "TXG",
-          "adv": 128799799.40649998,
-          "industry": "Health Information Services",
           "exchange": "NASDAQ"
         },
         {
@@ -71,24 +29,6 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "RSI",
-          "adv": 105359792.758,
-          "industry": "Gambling",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "GKOS",
-          "adv": 124867742.91,
-          "industry": "Medical Devices",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "TWLO",
-          "adv": 413175471.16050005,
-          "industry": "Software - Infrastructure",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "SNOW",
           "adv": 1607925532.2124999,
           "industry": "Software - Application",
@@ -98,12 +38,6 @@
           "ticker": "RBRK",
           "adv": 285926454.574,
           "industry": "Software - Infrastructure",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "ANET",
-          "adv": 1379317922.8525002,
-          "industry": "Computer Hardware",
           "exchange": "NYSE"
         },
         {
@@ -125,12 +59,6 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "FTNT",
-          "adv": 943369976.0505002,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "AFRM",
           "adv": 347722406.14799994,
           "industry": "Credit Services",
@@ -149,27 +77,9 @@
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "PENG",
-          "adv": 331955226.67600006,
-          "industry": "Information Technology Services",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "PANW",
           "adv": 2393314935.086,
           "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "WYFI",
-          "adv": 133257953.93999998,
-          "industry": "Information Technology Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "AMD",
-          "adv": 15762067634.878754,
-          "industry": "Semiconductors",
           "exchange": "NASDAQ"
         },
         {
