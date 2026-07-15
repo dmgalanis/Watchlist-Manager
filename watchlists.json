@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm118ungrnz7",
+      "ticker": "EAT",
+      "adv": 169736432.7195,
+      "industry": "Restaurants",
+      "exchange": "NYSE",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116726799
+    },
+    {
       "id": "mrm113a81kdjo",
       "ticker": "HNGE",
       "adv": 185427538.48950002,
@@ -2562,16 +2572,6 @@
       "adv": 67239803.70425001,
       "industry": "REIT - Specialty",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7xjrnp",
-      "ticker": "LIFE",
-      "adv": 8398017.775999999,
-      "industry": "Insurance Brokers",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
