@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm0uoqhalmev",
+      "ticker": "TXG",
+      "adv": 128799799.40649998,
+      "industry": "Health Information Services",
+      "exchange": "NASDAQ",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116420793
+    },
+    {
       "id": "mrm0u2zkigxd6",
       "ticker": "CVLT",
       "adv": 124929898.101,
@@ -2562,16 +2572,6 @@
       "adv": 23662670.599779997,
       "industry": "Advertising Agencies",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7m16o1",
-      "ticker": "INDV",
-      "adv": 74353243.8195,
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
