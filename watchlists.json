@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm0vlbriggys",
+      "ticker": "GKOS",
+      "adv": 124867742.91,
+      "industry": "Medical Devices",
+      "exchange": "NYSE",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116463031
+    },
+    {
       "id": "mrm0v9qkpkwws",
       "ticker": "RSI",
       "adv": 105359792.758,
@@ -2561,16 +2571,6 @@
       "ticker": "NP",
       "adv": 30966332.3695,
       "industry": "Insurance Brokers",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7dxsxd",
-      "ticker": "INSW",
-      "adv": 52976068.49599999,
-      "industry": "Oil & Gas Midstream",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
