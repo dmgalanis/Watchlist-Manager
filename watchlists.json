@@ -577,6 +577,16 @@
   ],
   "trash": [
     {
+      "id": "mrm103rwygqws",
+      "ticker": "WYFI",
+      "adv": 133257953.93999998,
+      "industry": "Information Technology Services",
+      "exchange": "NASDAQ",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784116673564
+    },
+    {
       "id": "mrm0zzw1oja9x",
       "ticker": "PENG",
       "adv": 331955226.67600006,
@@ -2562,16 +2572,6 @@
       "adv": 60986359.00524999,
       "industry": "Specialty Business Services",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7ex80g",
-      "ticker": "ETON",
-      "adv": 14462124.616999999,
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
