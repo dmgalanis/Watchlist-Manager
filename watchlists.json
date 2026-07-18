@@ -6,85 +6,91 @@
       "tickers": [
         {
           "ticker": "QLYS",
-          "adv": 119729892.80850002,
+          "adv": 120781017.00750001,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "DAVE",
-          "adv": 213275739.25999996,
+          "adv": 218599095.90099996,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "SEZL",
-          "adv": 118691360.34599999,
+          "adv": 122689659.98999998,
           "industry": "Credit Services",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "NTAP",
-          "adv": 524909995.127,
+          "adv": 534079395.73999995,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "SNOW",
-          "adv": 1607925532.2124999,
+          "adv": 1567036233.1495,
           "industry": "Software - Application",
           "exchange": "NYSE"
         },
         {
           "ticker": "RBRK",
-          "adv": 285926454.574,
+          "adv": 288127775.10550004,
           "industry": "Software - Infrastructure",
           "exchange": "NYSE"
         },
         {
           "ticker": "DELL",
-          "adv": 3303692858.2650003,
+          "adv": 3386340546.6325006,
           "industry": "Computer Hardware",
           "exchange": "NYSE"
         },
         {
           "ticker": "HPE",
-          "adv": 1114292237.3035002,
+          "adv": 1048397463.0775,
           "industry": "Communication Equipment",
           "exchange": "NYSE"
         },
         {
           "ticker": "NAVN",
-          "adv": 131009863.64599998,
+          "adv": 126988334.34650001,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "AFRM",
-          "adv": 347722406.14799994,
+          "adv": 329979202.3655,
           "industry": "Credit Services",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "DDOG",
-          "adv": 1166586432.6534998,
+          "adv": 1139812348.6845,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "BRKR",
-          "adv": 127977725.01900001,
+          "adv": 125307063.31399998,
           "industry": "Medical Devices",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "PANW",
-          "adv": 2393314935.086,
+          "adv": 2499940689.0810003,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "CRWD",
-          "adv": 2032969899.6984997,
+          "adv": 2654658241.407222,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "FTNT",
+          "adv": 931987647.7135,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         }
