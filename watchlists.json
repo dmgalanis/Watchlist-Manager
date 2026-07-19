@@ -93,6 +93,12 @@
           "adv": 931987647.7135,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "INTC",
+          "adv": 14076545734.988003,
+          "industry": "Semiconductors",
+          "exchange": "NASDAQ"
         }
       ]
     },
