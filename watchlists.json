@@ -87,6 +87,12 @@
           "adv": 2484650527.3709993,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "FTNT",
+          "adv": 931987647.7135,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
         }
       ]
     },
