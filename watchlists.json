@@ -487,6 +487,66 @@
   ],
   "trash": [
     {
+      "id": "mrsb7ody1ye0y",
+      "ticker": "GKOS",
+      "adv": 121773314.02999997,
+      "industry": "Medical Devices",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1784496620086
+    },
+    {
+      "id": "mrsb7ody0k2yz",
+      "ticker": "RSI",
+      "adv": 103277638.484,
+      "industry": "Gambling",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1784496620086
+    },
+    {
+      "id": "mrsb7odylok0f",
+      "ticker": "CVLT",
+      "adv": 116729637.672,
+      "industry": "Software - Application",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1784496620086
+    },
+    {
+      "id": "mrsb7odyijn73",
+      "ticker": "MOH",
+      "adv": 249667955.95249996,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1784496620086
+    },
+    {
+      "id": "mrsb7odya0k5d",
+      "ticker": "ENVA",
+      "adv": 99433244.0445,
+      "industry": "Credit Services",
+      "exchange": "NYSE",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1784496620086
+    },
+    {
+      "id": "mrsb7odyghdri",
+      "ticker": "TENB",
+      "adv": 137804081.176,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3gsqv",
+      "listName": "Finviz Full List (7-10-2026)",
+      "deletedAt": 1784496620086
+    },
+    {
       "id": "mrrqsfb2dzn09",
       "ticker": "NOK",
       "adv": 1132530813.3380003,
@@ -2421,66 +2481,6 @@
       "ticker": "SWBI",
       "adv": 16630569.682399997,
       "industry": "Aerospace & Defense",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7p1iel",
-      "ticker": "CBL",
-      "adv": 18780029.777499996,
-      "industry": "REIT - Retail",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7fsas7",
-      "ticker": "FSLY",
-      "adv": 88852699.06525001,
-      "industry": "Software - Application",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7qc17t",
-      "ticker": "XMTR",
-      "adv": 65602838.473000005,
-      "industry": "Industrial Distribution",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7ql279",
-      "ticker": "SNDR",
-      "adv": 33604081.6,
-      "industry": "Trucking",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7au2jj",
-      "ticker": "APPS",
-      "adv": 59142017.83275001,
-      "industry": "Software - Application",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7627no",
-      "ticker": "CBLL",
-      "adv": 7258298.831500001,
-      "industry": "Medical Devices",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
