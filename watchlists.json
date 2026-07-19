@@ -99,6 +99,12 @@
           "adv": 14076545734.988003,
           "industry": "Semiconductors",
           "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "IBM",
+          "adv": 3336132701.0545,
+          "industry": "Information Technology Services",
+          "exchange": "NYSE"
         }
       ]
     },
