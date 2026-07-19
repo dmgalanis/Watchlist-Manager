@@ -505,6 +505,16 @@
   ],
   "trash": [
     {
+      "id": "mrr2yn14ie1og",
+      "ticker": "FTNT",
+      "adv": 931987647.7135,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784422295320
+    },
+    {
       "id": "mrr1xxqj2ajoe",
       "ticker": "INTC",
       "adv": 14076545734.988003,
@@ -2490,16 +2500,6 @@
       "adv": 72621102.36250001,
       "industry": "Medical Devices",
       "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav78wbjj",
-      "ticker": "HPP",
-      "adv": 13330671.072,
-      "industry": "REIT - Office",
-      "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
