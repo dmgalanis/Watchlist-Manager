@@ -84,27 +84,9 @@
         },
         {
           "ticker": "CRWD",
-          "adv": 2654658241.407222,
+          "adv": 2484650527.3709993,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "FTNT",
-          "adv": 931987647.7135,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "INTC",
-          "adv": 14076545734.988003,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "IBM",
-          "adv": 3336132701.0545,
-          "industry": "Information Technology Services",
-          "exchange": "NYSE"
         }
       ]
     },
