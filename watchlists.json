@@ -493,6 +493,16 @@
   ],
   "trash": [
     {
+      "id": "mrrbebpjscycp",
+      "ticker": "FTNT",
+      "adv": 931987647.7135,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784436464071
+    },
+    {
       "id": "mrr2ypdypx5qj",
       "ticker": "IBM",
       "adv": 3336132701.0545,
@@ -2477,16 +2487,6 @@
       "ticker": "ANDE",
       "adv": 24001279.3775,
       "industry": "Food Distribution",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav75e6dk",
-      "ticker": "CEPL",
-      "adv": 2998668.143333333,
-      "industry": "Electrical Equipment & Parts",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
