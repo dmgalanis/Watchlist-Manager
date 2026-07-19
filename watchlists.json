@@ -493,6 +493,16 @@
   ],
   "trash": [
     {
+      "id": "mrrqsfb2dzn09",
+      "ticker": "NOK",
+      "adv": 1132530813.3380003,
+      "industry": "Communication Equipment",
+      "exchange": "NYSE",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784462316158
+    },
+    {
       "id": "mrrbebpjscycp",
       "ticker": "FTNT",
       "adv": 931987647.7135,
@@ -2477,16 +2487,6 @@
       "ticker": "CBLL",
       "adv": 7258298.831500001,
       "industry": "Medical Devices",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7owy1k",
-      "ticker": "ANDE",
-      "adv": 24001279.3775,
-      "industry": "Food Distribution",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
