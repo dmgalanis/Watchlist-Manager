@@ -505,6 +505,16 @@
   ],
   "trash": [
     {
+      "id": "mrr2yofnsaymj",
+      "ticker": "INTC",
+      "adv": 14076545734.988003,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784422297139
+    },
+    {
       "id": "mrr2yn14ie1og",
       "ticker": "FTNT",
       "adv": 931987647.7135,
@@ -2489,16 +2499,6 @@
       "ticker": "ISSC",
       "adv": 7775726.142,
       "industry": "Aerospace & Defense",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7wfxto",
-      "ticker": "ESTA",
-      "adv": 72621102.36250001,
-      "industry": "Medical Devices",
       "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
