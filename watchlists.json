@@ -505,6 +505,26 @@
   ],
   "trash": [
     {
+      "id": "mrr1osdwr5e2k",
+      "ticker": "INTC",
+      "adv": 14076545734.988003,
+      "industry": "Semiconductors",
+      "exchange": "NASDAQ",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784420156084
+    },
+    {
+      "id": "mrr1osdvv8s9o",
+      "ticker": "FTNT",
+      "adv": 931987647.7135,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3to8v",
+      "listName": "Sniper List",
+      "deletedAt": 1784420156083
+    },
+    {
       "id": "mrm11yuf11nbo",
       "ticker": "TENB",
       "adv": 127745550.78100002,
@@ -2479,26 +2499,6 @@
       "ticker": "AIR",
       "adv": 69011448.997,
       "industry": "Aerospace & Defense",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7n5mj9",
-      "ticker": "TCMD",
-      "adv": 7287263.572500001,
-      "industry": "Medical Devices",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7ypsnl",
-      "ticker": "CLDT",
-      "adv": 5790239.781,
-      "industry": "REIT - Hotel & Motel",
       "exchange": "NYSE",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
