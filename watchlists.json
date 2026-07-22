@@ -487,6 +487,96 @@
   ],
   "trash": [
     {
+      "id": "mrvz0tsxtdzks",
+      "ticker": "BRKR",
+      "adv": 126177250.67549999,
+      "industry": "Medical Devices",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
+      "id": "mrvz0tsxcqr5f",
+      "ticker": "FTNT",
+      "adv": 831964410.9870001,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
+      "id": "mrvz0tsx6ynk7",
+      "ticker": "ANET",
+      "adv": 1356396693.9829998,
+      "industry": "Computer Hardware",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
+      "id": "mrvz0tsxprlzo",
+      "ticker": "RSI",
+      "adv": 80409240.25599998,
+      "industry": "Gambling",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
+      "id": "mrvz0tsx624os",
+      "ticker": "CVLT",
+      "adv": 105951324.8785,
+      "industry": "Software - Application",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
+      "id": "mrvz0tsxnaa36",
+      "ticker": "PBF",
+      "adv": 158987318.38499996,
+      "industry": "Oil & Gas Refining & Marketing",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
+      "id": "mrvz0tsxg40u1",
+      "ticker": "ENVA",
+      "adv": 97072688.202,
+      "industry": "Credit Services",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
+      "id": "mrvz0tsxv9gmn",
+      "ticker": "TENB",
+      "adv": 142748777.065,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
+      "id": "mrvz0tsx9bvh4",
+      "ticker": "HNGE",
+      "adv": 184880819.975,
+      "industry": "Health Information Services",
+      "exchange": "NYSE",
+      "listId": "mrf3hxhz",
+      "listName": "Momentum Leaders",
+      "deletedAt": 1784718009825
+    },
+    {
       "id": "mrsb7ody1ye0y",
       "ticker": "GKOS",
       "adv": 121773314.02999997,
@@ -2392,96 +2482,6 @@
       "adv": 16049231.859999996,
       "industry": "Electronic Components",
       "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7x8bs3",
-      "ticker": "AGL",
-      "adv": 35266281.0985,
-      "industry": "Medical Care Facilities",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav77cf15",
-      "ticker": "PEB",
-      "adv": 60658867.082749985,
-      "industry": "REIT - Hotel & Motel",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7bvxdn",
-      "ticker": "AMBQ",
-      "adv": 65318528.512250006,
-      "industry": "Semiconductors",
-      "exchange": "NYSE",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7xff0k",
-      "ticker": "ARCB",
-      "adv": 69480934.25449999,
-      "industry": "Trucking",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7oxn1o",
-      "ticker": "LASR",
-      "adv": 93044549.68894999,
-      "industry": "Semiconductors",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav77eroz",
-      "ticker": "VISN",
-      "adv": 75114020.1075,
-      "industry": "Communication Equipment",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav77z2d3",
-      "ticker": "CLPT",
-      "adv": 17585056.715,
-      "industry": "Medical Devices",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7v2ou7",
-      "ticker": "EZPW",
-      "adv": 38448873.6425,
-      "industry": "Credit Services",
-      "exchange": "NASDAQ",
-      "listId": "mrf3gsqv",
-      "listName": "Finviz Full List (7-10-2026)",
-      "deletedAt": 1783697571907
-    },
-    {
-      "id": "mrf3hav7fxu8d",
-      "ticker": "SWBI",
-      "adv": 16630569.682399997,
-      "industry": "Aerospace & Defense",
-      "exchange": "NASDAQ",
       "listId": "mrf3gsqv",
       "listName": "Finviz Full List (7-10-2026)",
       "deletedAt": 1783697571907
