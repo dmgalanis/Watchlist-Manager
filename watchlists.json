@@ -275,6 +275,150 @@
       ]
     },
     {
+      "id": "mrwpz28g",
+      "name": "Trimmed Finviz List (7-22-2026)",
+      "tickers": [
+        {
+          "ticker": "DAVE",
+          "adv": 218456590.07950002,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "VSXY",
+          "adv": 158922018.56800002,
+          "industry": "Apparel Retail",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "GKOS",
+          "adv": 117570952.12250003,
+          "industry": "Medical Devices",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "EAT",
+          "adv": 194303184.3005,
+          "industry": "Restaurants",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "SNOW",
+          "adv": 1492313101.3795,
+          "industry": "Software - Application",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "ILMN",
+          "adv": 353678236.8654999,
+          "industry": "Diagnostics & Research",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "DELL",
+          "adv": 3132065653.973,
+          "industry": "Computer Hardware",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "CRS",
+          "adv": 457036967.34050006,
+          "industry": "Metal Fabrication",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "TWST",
+          "adv": 161564699.25900003,
+          "industry": "Diagnostics & Research",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "CIFR",
+          "adv": 578659398.61325,
+          "industry": "Information Technology Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "AMD",
+          "adv": 15026136594.131247,
+          "industry": "Semiconductors",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "HPE",
+          "adv": 908146524.581,
+          "industry": "Communication Equipment",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "SEZL",
+          "adv": 111651856.197,
+          "industry": "Credit Services",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "PANW",
+          "adv": 2479388186.8370004,
+          "industry": "Software - Infrastructure",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "CLSK",
+          "adv": 324685488.35274994,
+          "industry": "Capital Markets",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "BRKR",
+          "adv": 124303184.25300002,
+          "industry": "Medical Devices",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "LASR",
+          "adv": 92341324.07500002,
+          "industry": "Semiconductors",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "ICHR",
+          "adv": 120124655.243,
+          "industry": "Semiconductor Equipment & Materials",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "MU",
+          "adv": 51033642292.57851,
+          "industry": "Semiconductors",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "DDOG",
+          "adv": 1109758205.7540002,
+          "industry": "Software - Application",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "AMAT",
+          "adv": 6935696771.199499,
+          "industry": "Semiconductor Equipment & Materials",
+          "exchange": "NASDAQ"
+        },
+        {
+          "ticker": "ONTO",
+          "adv": 440629550.9865001,
+          "industry": "Semiconductor Equipment & Materials",
+          "exchange": "NYSE"
+        },
+        {
+          "ticker": "ACMR",
+          "adv": 155742873.64824998,
+          "industry": "Semiconductor Equipment & Materials",
+          "exchange": "NASDAQ"
+        }
+      ]
+    },
+    {
       "id": "mrf3gsqv",
       "name": "Finviz Full List (7-10-2026)",
       "tickers": [
@@ -426,150 +570,6 @@
           "ticker": "PANW",
           "adv": 2373141570.9715,
           "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        }
-      ]
-    },
-    {
-      "id": "mrwpz28g",
-      "name": "Trimmed Finviz List (7-22-2026)",
-      "tickers": [
-        {
-          "ticker": "DAVE",
-          "adv": 218456590.07950002,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "VSXY",
-          "adv": 158922018.56800002,
-          "industry": "Apparel Retail",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "GKOS",
-          "adv": 117570952.12250003,
-          "industry": "Medical Devices",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "EAT",
-          "adv": 194303184.3005,
-          "industry": "Restaurants",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "SNOW",
-          "adv": 1492313101.3795,
-          "industry": "Software - Application",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "ILMN",
-          "adv": 353678236.8654999,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "DELL",
-          "adv": 3132065653.973,
-          "industry": "Computer Hardware",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "CRS",
-          "adv": 457036967.34050006,
-          "industry": "Metal Fabrication",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "TWST",
-          "adv": 161564699.25900003,
-          "industry": "Diagnostics & Research",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "CIFR",
-          "adv": 578659398.61325,
-          "industry": "Information Technology Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "AMD",
-          "adv": 15026136594.131247,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "HPE",
-          "adv": 908146524.581,
-          "industry": "Communication Equipment",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "SEZL",
-          "adv": 111651856.197,
-          "industry": "Credit Services",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "PANW",
-          "adv": 2479388186.8370004,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "CLSK",
-          "adv": 324685488.35274994,
-          "industry": "Capital Markets",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "BRKR",
-          "adv": 124303184.25300002,
-          "industry": "Medical Devices",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "LASR",
-          "adv": 92341324.07500002,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "ICHR",
-          "adv": 120124655.243,
-          "industry": "Semiconductor Equipment & Materials",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "MU",
-          "adv": 51033642292.57851,
-          "industry": "Semiconductors",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "DDOG",
-          "adv": 1109758205.7540002,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "AMAT",
-          "adv": 6935696771.199499,
-          "industry": "Semiconductor Equipment & Materials",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "ONTO",
-          "adv": 440629550.9865001,
-          "industry": "Semiconductor Equipment & Materials",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "ACMR",
-          "adv": 155742873.64824998,
-          "industry": "Semiconductor Equipment & Materials",
           "exchange": "NASDAQ"
         }
       ]
