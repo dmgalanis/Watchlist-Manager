@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpxnpndr69e",
+      "ticker": "HIMS",
+      "adv": 461121497.594,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": null,
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763211595
+    },
+    {
       "id": "mrwpxbctzy7wd",
       "ticker": "NAVN",
       "adv": 124023923.00350001,
@@ -2693,16 +2703,6 @@
       "ticker": "OII",
       "adv": 48044963.96899999,
       "industry": "Oil & Gas Equipment & Services",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3facydvk",
-      "ticker": "UNF",
-      "adv": 46942657.644,
-      "industry": "Specialty Business Services",
       "exchange": "NYSE",
       "listId": null,
       "listName": null,
