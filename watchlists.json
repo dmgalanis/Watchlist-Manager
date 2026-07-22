@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpsva806ody",
+      "ticker": "VRNS",
+      "adv": 99444820.721,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784762988128
+    },
+    {
       "id": "mrwpsjdoazjmm",
       "ticker": "VG",
       "adv": 180689524.40099996,
@@ -2694,16 +2704,6 @@
       "adv": 831964410.9870001,
       "industry": "Software - Infrastructure",
       "exchange": "NASDAQ",
-      "listId": "mrf3hxhz",
-      "listName": "Momentum Leaders",
-      "deletedAt": 1784718009825
-    },
-    {
-      "id": "mrvz0tsx6ynk7",
-      "ticker": "ANET",
-      "adv": 1356396693.9829998,
-      "industry": "Computer Hardware",
-      "exchange": "NYSE",
       "listId": "mrf3hxhz",
       "listName": "Momentum Leaders",
       "deletedAt": 1784718009825
