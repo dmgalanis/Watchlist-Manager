@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvargs1lf9",
+      "ticker": "VSAT",
+      "adv": 220910352.3125,
+      "industry": "Communication Equipment",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763101500
+    },
+    {
       "id": "mrwpv2rq3vy11",
       "ticker": "NTRA",
       "adv": 412878340.982,
@@ -2693,16 +2703,6 @@
       "ticker": "TBRG",
       "adv": 7927674.437999999,
       "industry": "Health Information Services",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3fauktzh",
-      "ticker": "CLMT",
-      "adv": 43073022.647,
-      "industry": "Specialty Chemicals",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
