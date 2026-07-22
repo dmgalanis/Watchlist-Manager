@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpw4adu3u85",
+      "ticker": "UCTT",
+      "adv": 178888861.87624997,
+      "industry": "Semiconductor Equipment & Materials",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763139765
+    },
+    {
       "id": "mrwpw07i2aska",
       "ticker": "MTRN",
       "adv": 99936966.3385,
@@ -2693,16 +2703,6 @@
       "ticker": "ANDE",
       "adv": 24572343.505500004,
       "industry": "Food Distribution",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3fa3uavv",
-      "ticker": "PLSE",
-      "adv": 10369818.072749998,
-      "industry": "Medical Instruments & Supplies",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
