@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvtnvq6y1m",
+      "ticker": "CVLT",
+      "adv": 106283566.53999999,
+      "industry": "Software - Application",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763125995
+    },
+    {
       "id": "mrwpvrymw54pu",
       "ticker": "QLYS",
       "adv": 123674904.70250002,
@@ -2694,16 +2704,6 @@
       "adv": 19072796.719,
       "industry": "REIT - Retail",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3falq9nh",
-      "ticker": "ETON",
-      "adv": 20707765.087000005,
-      "industry": "Drug Manufacturers - Specialty & Generic",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
