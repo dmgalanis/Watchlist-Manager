@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpxpceoucjn",
+      "ticker": "TENB",
+      "adv": 148536484.32799998,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763213710
+    },
+    {
       "id": "mrwpxnpndr69e",
       "ticker": "HIMS",
       "adv": 461121497.594,
@@ -2694,16 +2704,6 @@
       "adv": 60823110.9265,
       "industry": "Medical Care Facilities",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3fai37et",
-      "ticker": "OII",
-      "adv": 48044963.96899999,
-      "industry": "Oil & Gas Equipment & Services",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
