@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvovksofs9",
+      "ticker": "FCEL",
+      "adv": 370773467.08500004,
+      "industry": "Electrical Equipment & Parts",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763119792
+    },
+    {
       "id": "mrwpvndf6t1k5",
       "ticker": "BELFB",
       "adv": 98140423.53,
@@ -2693,16 +2703,6 @@
       "ticker": "CDNA",
       "adv": 38324747.811,
       "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3fa7xvlm",
-      "ticker": "BJRI",
-      "adv": 31207825.19975,
-      "industry": "Restaurants",
       "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
