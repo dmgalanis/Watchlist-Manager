@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvrymw54pu",
+      "ticker": "QLYS",
+      "adv": 123674904.70250002,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763123790
+    },
+    {
       "id": "mrwpvpzd9feah",
       "ticker": "CRWD",
       "adv": 1969654901.133,
@@ -2694,16 +2704,6 @@
       "adv": 20707765.087000005,
       "industry": "Drug Manufacturers - Specialty & Generic",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3faboumg",
-      "ticker": "RLJ",
-      "adv": 24835667.694000002,
-      "industry": "REIT - Hotel & Motel",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
