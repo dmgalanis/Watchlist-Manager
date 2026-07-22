@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpsjdoazjmm",
+      "ticker": "VG",
+      "adv": 180689524.40099996,
+      "industry": "Oil & Gas Midstream",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784762972700
+    },
+    {
       "id": "mrwprnv9hsz87",
       "ticker": "LQDA",
       "adv": 131001484.3705,
@@ -2693,16 +2703,6 @@
       "ticker": "ANET",
       "adv": 1356396693.9829998,
       "industry": "Computer Hardware",
-      "exchange": "NYSE",
-      "listId": "mrf3hxhz",
-      "listName": "Momentum Leaders",
-      "deletedAt": 1784718009825
-    },
-    {
-      "id": "mrvz0tsxprlzo",
-      "ticker": "RSI",
-      "adv": 80409240.25599998,
-      "industry": "Gambling",
       "exchange": "NYSE",
       "listId": "mrf3hxhz",
       "listName": "Momentum Leaders",
