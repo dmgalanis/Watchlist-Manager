@@ -95,188 +95,134 @@
       "name": "Momentum Leaders",
       "tickers": [
         {
-          "ticker": "HNGE",
-          "adv": 176510446.93899998,
-          "industry": "Health Information Services",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "EAT",
-          "adv": 165471949.959,
+          "adv": 187606758.287,
           "industry": "Restaurants",
           "exchange": "NYSE"
         },
         {
           "ticker": "QLYS",
-          "adv": 114465383.17074999,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
-          "ticker": "TENB",
-          "adv": 117274479.017,
+          "adv": 121937762.09499998,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "DAVE",
-          "adv": 212636237.31199995,
+          "adv": 218180090.533,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "ENVA",
-          "adv": 102634825.792,
-          "industry": "Credit Services",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "MOH",
-          "adv": 222196325.47949997,
+          "adv": 349911937.43399996,
           "industry": "Healthcare Plans",
           "exchange": "NYSE"
         },
         {
-          "ticker": "PBF",
-          "adv": 125559531.137,
-          "industry": "Oil & Gas Refining & Marketing",
-          "exchange": "NYSE"
-        },
-        {
-          "ticker": "CVLT",
-          "adv": 121953476.19599998,
-          "industry": "Software - Application",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "TXG",
-          "adv": 120520134.44724998,
+          "adv": 133926616.04750001,
           "industry": "Health Information Services",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "NTAP",
-          "adv": 502629919.6485001,
+          "adv": 468820022.7045001,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "RSI",
-          "adv": 100761843.68550001,
-          "industry": "Gambling",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "GKOS",
-          "adv": 123726559.79750004,
+          "adv": 116834058.19700003,
           "industry": "Medical Devices",
           "exchange": "NYSE"
         },
         {
           "ticker": "TWLO",
-          "adv": 395947067.3370001,
+          "adv": 380570845.768,
           "industry": "Software - Infrastructure",
           "exchange": "NYSE"
         },
         {
           "ticker": "SNOW",
-          "adv": 1608827209.4275002,
+          "adv": 1503431999.4739997,
           "industry": "Software - Application",
           "exchange": "NYSE"
         },
         {
-          "ticker": "ANET",
-          "adv": 1455865789.3725,
-          "industry": "Computer Hardware",
-          "exchange": "NYSE"
-        },
-        {
           "ticker": "DELL",
-          "adv": 3231382147.346,
+          "adv": 3114923022.782,
           "industry": "Computer Hardware",
           "exchange": "NYSE"
         },
         {
           "ticker": "HPE",
-          "adv": 1115960645.5992503,
+          "adv": 922972504.218,
           "industry": "Communication Equipment",
           "exchange": "NYSE"
         },
         {
           "ticker": "NAVN",
-          "adv": 130723189.46400002,
+          "adv": 123497052.42650001,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "OSCR",
-          "adv": 179747739.40271997,
+          "adv": 169677847.60649997,
           "industry": "Healthcare Plans",
           "exchange": "NYSE"
         },
         {
           "ticker": "GH",
-          "adv": 533484893.7370001,
+          "adv": 546931224.0595001,
           "industry": "Diagnostics & Research",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "FTNT",
-          "adv": 926895493.3112501,
-          "industry": "Software - Infrastructure",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "AFRM",
-          "adv": 338185836.9174999,
+          "adv": 334863845.96550006,
           "industry": "Credit Services",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "DDOG",
-          "adv": 1149414471.9719198,
+          "adv": 1098346309.5275,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
-          "ticker": "BRKR",
-          "adv": 127489013.72299998,
-          "industry": "Medical Devices",
-          "exchange": "NASDAQ"
-        },
-        {
           "ticker": "PENG",
-          "adv": 313756096.28025,
+          "adv": 365648201.78900003,
           "industry": "Information Technology Services",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "PANW",
-          "adv": 2350728441.8230004,
+          "adv": 2452121134.7275,
           "industry": "Software - Infrastructure",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "WYFI",
-          "adv": 123327677.17000003,
+          "adv": 114086758.04350002,
           "industry": "Information Technology Services",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "AMD",
-          "adv": 15808448828.444254,
+          "adv": 15127652472.724747,
           "industry": "Semiconductors",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "FROG",
-          "adv": 313918243.38899994,
+          "adv": 314015569.10749996,
           "industry": "Software - Application",
           "exchange": "NASDAQ"
         },
         {
           "ticker": "VSXY",
-          "adv": 148063768.032,
+          "adv": 154416975.025,
           "industry": "Apparel Retail",
           "exchange": "NYSE"
         }
