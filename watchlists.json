@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvlwhjny90",
+      "ticker": "MOH",
+      "adv": 365803071.44,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763115937
+    },
+    {
       "id": "mrwpvk4yi5ixe",
       "ticker": "OKTA",
       "adv": 447855667.76400006,
@@ -2693,16 +2703,6 @@
       "ticker": "MAN",
       "adv": 78606700.497,
       "industry": "Staffing & Employment Services",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3faefx62",
-      "ticker": "NATL",
-      "adv": 33045616.6845,
-      "industry": "Software - Application",
       "exchange": "NYSE",
       "listId": null,
       "listName": null,
