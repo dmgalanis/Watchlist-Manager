@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpw07i2aska",
+      "ticker": "MTRN",
+      "adv": 99936966.3385,
+      "industry": "Other Industrial Metals & Mining",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763134478
+    },
+    {
       "id": "mrwpvtnvq6y1m",
       "ticker": "CVLT",
       "adv": 106283566.53999999,
@@ -2694,16 +2704,6 @@
       "adv": 10369818.072749998,
       "industry": "Medical Instruments & Supplies",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3favmxye",
-      "ticker": "CBL",
-      "adv": 19072796.719,
-      "industry": "REIT - Retail",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
