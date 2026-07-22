@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpwaku1d4gx",
+      "ticker": "HNGE",
+      "adv": 188901324.497,
+      "industry": "Health Information Services",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763147918
+    },
+    {
       "id": "mrwpw4adu3u85",
       "ticker": "UCTT",
       "adv": 178888861.87624997,
@@ -2694,16 +2704,6 @@
       "adv": 80374743.0185,
       "industry": "Staffing & Employment Services",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3fabcesd",
-      "ticker": "ANDE",
-      "adv": 24572343.505500004,
-      "industry": "Food Distribution",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
