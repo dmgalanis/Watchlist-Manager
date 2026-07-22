@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvpzd9feah",
+      "ticker": "CRWD",
+      "adv": 1969654901.133,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763121225
+    },
+    {
       "id": "mrwpvovksofs9",
       "ticker": "FCEL",
       "adv": 370773467.08500004,
@@ -2694,16 +2704,6 @@
       "adv": 24835667.694000002,
       "industry": "REIT - Hotel & Motel",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3fa3592h",
-      "ticker": "CDNA",
-      "adv": 38324747.811,
-      "industry": "Diagnostics & Research",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
