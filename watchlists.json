@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwptmlsgidtr",
+      "ticker": "FSLY",
+      "adv": 97628147.10725,
+      "industry": "Software - Application",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763023536
+    },
+    {
       "id": "mrwpsva806ody",
       "ticker": "VRNS",
       "adv": 99444820.721,
@@ -2693,16 +2703,6 @@
       "ticker": "BRKR",
       "adv": 126177250.67549999,
       "industry": "Medical Devices",
-      "exchange": "NASDAQ",
-      "listId": "mrf3hxhz",
-      "listName": "Momentum Leaders",
-      "deletedAt": 1784718009825
-    },
-    {
-      "id": "mrvz0tsxcqr5f",
-      "ticker": "FTNT",
-      "adv": 831964410.9870001,
-      "industry": "Software - Infrastructure",
       "exchange": "NASDAQ",
       "listId": "mrf3hxhz",
       "listName": "Momentum Leaders",
