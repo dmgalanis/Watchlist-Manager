@@ -433,6 +433,36 @@
   ],
   "trash": [
     {
+      "id": "mrwprnv9hsz87",
+      "ticker": "LQDA",
+      "adv": 131001484.3705,
+      "industry": "Drug Manufacturers - Specialty & Generic",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784762931861
+    },
+    {
+      "id": "mrwprnv9w3z26",
+      "ticker": "TXG",
+      "adv": 135315250.65450004,
+      "industry": "Health Information Services",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784762931861
+    },
+    {
+      "id": "mrwprnv9k2101",
+      "ticker": "PBF",
+      "adv": 162977539.52249998,
+      "industry": "Oil & Gas Refining & Marketing",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784762931861
+    },
+    {
       "id": "mrwprcwaqjnd2",
       "ticker": "ESE",
       "adv": 91192790.334,
@@ -2397,36 +2427,6 @@
       "ticker": "RSI",
       "adv": 80409240.25599998,
       "industry": "Gambling",
-      "exchange": "NYSE",
-      "listId": "mrf3hxhz",
-      "listName": "Momentum Leaders",
-      "deletedAt": 1784718009825
-    },
-    {
-      "id": "mrvz0tsx624os",
-      "ticker": "CVLT",
-      "adv": 105951324.8785,
-      "industry": "Software - Application",
-      "exchange": "NASDAQ",
-      "listId": "mrf3hxhz",
-      "listName": "Momentum Leaders",
-      "deletedAt": 1784718009825
-    },
-    {
-      "id": "mrvz0tsxnaa36",
-      "ticker": "PBF",
-      "adv": 158987318.38499996,
-      "industry": "Oil & Gas Refining & Marketing",
-      "exchange": "NYSE",
-      "listId": "mrf3hxhz",
-      "listName": "Momentum Leaders",
-      "deletedAt": 1784718009825
-    },
-    {
-      "id": "mrvz0tsxg40u1",
-      "ticker": "ENVA",
-      "adv": 97072688.202,
-      "industry": "Credit Services",
       "exchange": "NYSE",
       "listId": "mrf3hxhz",
       "listName": "Momentum Leaders",
