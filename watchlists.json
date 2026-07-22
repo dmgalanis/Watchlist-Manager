@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvinmkoqsw",
+      "ticker": "OSCR",
+      "adv": 164352336.4575,
+      "industry": "Healthcare Plans",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763111730
+    },
+    {
       "id": "mrwpvf0lhwj7m",
       "ticker": "FTNT",
       "adv": 823573935.8195001,
@@ -2694,16 +2704,6 @@
       "adv": 5564693.2505,
       "industry": "Staffing & Employment Services",
       "exchange": "NASDAQ",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3falq8dq",
-      "ticker": "DK",
-      "adv": 70180607.50600001,
-      "industry": "Oil & Gas Refining & Marketing",
-      "exchange": "NYSE",
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
