@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvf0lhwj7m",
+      "ticker": "FTNT",
+      "adv": 823573935.8195001,
+      "industry": "Software - Infrastructure",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763107013
+    },
+    {
       "id": "mrwpvd76p8i2u",
       "ticker": "GH",
       "adv": 542605919.9575002,
@@ -2692,16 +2702,6 @@
       "id": "mrwpr3falq8dq",
       "ticker": "DK",
       "adv": 70180607.50600001,
-      "industry": "Oil & Gas Refining & Marketing",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3fa2s64a",
-      "ticker": "PARR",
-      "adv": 62857229.2235,
       "industry": "Oil & Gas Refining & Marketing",
       "exchange": "NYSE",
       "listId": null,
