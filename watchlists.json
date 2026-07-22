@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpvd76p8i2u",
+      "ticker": "GH",
+      "adv": 542605919.9575002,
+      "industry": "Diagnostics & Research",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763104658
+    },
+    {
       "id": "mrwpvargs1lf9",
       "ticker": "VSAT",
       "adv": 220910352.3125,
@@ -2694,16 +2704,6 @@
       "adv": 62857229.2235,
       "industry": "Oil & Gas Refining & Marketing",
       "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3fakfnfr",
-      "ticker": "TBRG",
-      "adv": 7927674.437999999,
-      "industry": "Health Information Services",
-      "exchange": "NASDAQ",
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
