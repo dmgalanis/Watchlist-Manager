@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpts7ocfidq",
+      "ticker": "ETSY",
+      "adv": 222441314.3875,
+      "industry": "Internet Retail",
+      "exchange": "NYSE",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763030804
+    },
+    {
       "id": "mrwptmlsgidtr",
       "ticker": "FSLY",
       "adv": 97628147.10725,
@@ -2697,16 +2707,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905364
-    },
-    {
-      "id": "mrvz0tsxtdzks",
-      "ticker": "BRKR",
-      "adv": 126177250.67549999,
-      "industry": "Medical Devices",
-      "exchange": "NASDAQ",
-      "listId": "mrf3hxhz",
-      "listName": "Momentum Leaders",
-      "deletedAt": 1784718009825
     }
   ]
 }
