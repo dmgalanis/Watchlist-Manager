@@ -709,6 +709,16 @@
   ],
   "trash": [
     {
+      "id": "mrwpv2rq3vy11",
+      "ticker": "NTRA",
+      "adv": 412878340.982,
+      "industry": "Diagnostics & Research",
+      "exchange": "NASDAQ",
+      "listId": null,
+      "listName": null,
+      "deletedAt": 1784763091142
+    },
+    {
       "id": "mrwpts7ocfidq",
       "ticker": "ETSY",
       "adv": 222441314.3875,
@@ -2697,16 +2707,6 @@
       "listId": null,
       "listName": null,
       "deletedAt": 1784762905366
-    },
-    {
-      "id": "mrwpr3f8jcnqs",
-      "ticker": "UTZ",
-      "adv": 72398245.84599999,
-      "industry": "Packaged Foods",
-      "exchange": "NYSE",
-      "listId": null,
-      "listName": null,
-      "deletedAt": 1784762905364
     }
   ]
 }
